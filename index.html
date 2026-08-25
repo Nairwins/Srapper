@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Workday Job Board</title>
+<style>
+  :root {
+    --ink: #1c1e21;
+    --ink-soft: #6b7078;
+    --paper: #fbfbf9;
+    --line: #e4e3de;
+    --accent: #2f5d50;
+    --accent-soft: #e7efec;
+    --mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+    --sans: -apple-system, "Inter", "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: var(--sans); color: var(--ink); background: var(--paper); -webkit-font-smoothing: antialiased; }
+
+  .topbar { border-bottom: 1px solid var(--line); background: var(--paper); }
+  .topbar-inner { max-width: 1000px; margin: 0 auto; padding: 28px 20px 20px; }
+  .topbar h1 { margin: 0 0 4px; font-size: 1.4rem; font-weight: 700; letter-spacing: -0.01em; }
+  .stats { margin: 0; font-family: var(--mono); font-size: 0.8rem; color: var(--ink-soft); }
+
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 24px 20px 60px; }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; }
+  .controls-row2 { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 18px; padding-top: 10px; border-top: 1px dashed var(--line); }
+  .controls input[type="text"], .controls-row2 input[type="text"], .controls-row2 select {
+    font-family: var(--sans); font-size: 0.9rem; padding: 9px 12px;
+    border: 1px solid var(--line); border-radius: 6px; background: #fff;
+    color: var(--ink); min-width: 150px; flex: 1 1 150px;
+  }
+  .controls input[type="text"]:focus, .controls-row2 input[type="text"]:focus, .controls-row2 select:focus {
+    outline: 2px solid var(--accent); outline-offset: -1px;
+  }
+  .controls-row2 select { flex: 1 1 140px; min-width: 130px; cursor: pointer; }
+  .toggle { display: flex; align-items: center; gap: 6px; font-size: 0.85rem; color: var(--ink-soft); white-space: nowrap; padding: 0 4px; }
+  #clear-btn {
+    font-family: var(--sans); font-size: 0.85rem; padding: 9px 14px;
+    border: 1px solid var(--line); border-radius: 6px; background: #fff;
+    color: var(--ink-soft); cursor: pointer;
+  }
+  #clear-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  .results { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  thead th {
+    text-align: left; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--ink-soft); border-bottom: 1px solid var(--line); padding: 8px 10px;
+    cursor: pointer; user-select: none; white-space: nowrap;
+  }
+  thead th:hover { color: var(--accent); }
+  tbody td { padding: 10px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tbody tr:hover { background: var(--accent-soft); }
+  .job-title a { color: var(--ink); text-decoration: none; font-weight: 600; }
+  .job-title a:hover { color: var(--accent); text-decoration: underline; }
+  .job-company { color: var(--ink-soft); }
+  .job-location { color: var(--ink-soft); font-family: var(--mono); font-size: 0.82rem; }
+  .badge { display: inline-block; font-family: var(--mono); font-size: 0.72rem; padding: 2px 7px; border-radius: 4px; }
+  .badge.remote { background: var(--accent-soft); color: var(--accent); }
+  .badge.onsite { background: #f1f1ee; color: var(--ink-soft); }
+  .badge.level-intern { background: #f1f1ee; color: var(--ink-soft); }
+  .badge.level-entry { background: #eef3f7; color: #3a6b8a; }
+  .badge.level-mid { background: #f4efe0; color: #8a6d1f; }
+  .badge.level-senior { background: #f6e9e4; color: #a24e2e; }
+  .recruiter-flag { font-size: 0.7rem; color: var(--ink-soft); }
+  .job-posted { color: var(--ink-soft); font-family: var(--mono); font-size: 0.82rem; white-space: nowrap; }
+
+  .empty-state { padding: 40px 0; text-align: center; color: var(--ink-soft); }
+
+  .pagination { display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 20px; font-family: var(--mono); font-size: 0.82rem; }
+  .pagination button {
+    font-family: var(--mono); font-size: 0.82rem; padding: 6px 12px;
+    border: 1px solid var(--line); border-radius: 6px; background: #fff; color: var(--ink); cursor: pointer;
+  }
+  .pagination button:disabled { opacity: 0.4; cursor: default; }
+  .pagination button:not(:disabled):hover { border-color: var(--accent); color: var(--accent); }
+
+  .foot { max-width: 1000px; margin: 0 auto; padding: 20px 20px 40px; font-size: 0.78rem; color: var(--ink-soft); }
+
+  @media (max-width: 640px) {
+    .job-location, thead th:nth-child(3) { display: none; }
+  }
+</style>
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <h1>Workday Job Board</h1>
+      <p id="stats" class="stats">Loading jobs&hellip;</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+
+    <section class="controls">
+      <input id="search" type="text" placeholder="Job title&hellip;" autocomplete="off" />
+      <input id="company" type="text" placeholder="Company&hellip;" autocomplete="off" />
+      <input id="location" type="text" placeholder="Location contains&hellip;" autocomplete="off" />
+      <label class="toggle">
+        <input type="checkbox" id="remote-only" />
+        Remote only
+      </label>
+    </section>
+
+    <section class="controls-row2">
+      <input id="include-kw" type="text" placeholder="Include keywords (comma-separated)&hellip;" autocomplete="off" />
+      <input id="exclude-kw" type="text" placeholder="Exclude keywords (comma-separated)&hellip;" autocomplete="off" />
+      <select id="date-posted">
+        <option value="">Any time</option>
+        <option value="1">Last 24 hours</option>
+        <option value="3">Last 3 days</option>
+        <option value="7">Last 7 days</option>
+        <option value="30">Last month</option>
+      </select>
+      <select id="experience-level">
+        <option value="">All levels</option>
+        <option value="intern">Intern</option>
+        <option value="entry">Entry</option>
+        <option value="mid">Mid</option>
+        <option value="senior">Senior</option>
+      </select>
+      <label class="toggle">
+        <input type="checkbox" id="hide-recruiter" />
+        Hide recruiter-posted jobs
+      </label>
+      <button id="clear-btn" type="button">Clear</button>
+    </section>
+
+    <section class="results">
+      <table id="job-table">
+        <thead>
+          <tr>
+            <th data-sort="title">Title</th>
+            <th data-sort="company">Company</th>
+            <th data-sort="locations">Location</th>
+            <th data-sort="remote">Remote</th>
+            <th data-sort="level">Level</th>
+            <th data-sort="dateSort">Posted</th>
+          </tr>
+        </thead>
+        <tbody id="job-rows"></tbody>
+      </table>
+      <p id="empty-state" class="empty-state" hidden>No jobs match your filters.</p>
+    </section>
+
+    <nav class="pagination" id="pagination"></nav>
+
+  </main>
+
+  <footer class="foot">
+    <p>Reads <code>output/chunk_0001.json.gz</code>, <code>output/chunk_0002.json.gz</code>, &hellip; directly —
+      no merge step. Just re-run the scraper and refresh this page.</p>
+  </footer>
+
+<script>
+// ============================================================
+// Workday Job Board — auto-discovers and loads every
+// chunk_NNNN.json.gz file next to this page, decompresses them
+// in-browser, and merges them IN MEMORY ONLY for filtering/
+// display. Nothing is written back to disk, and the chunk files
+// on disk are never touched — chunking stays exactly as the
+// scraper produced it.
+//
+// Assumes chunk indices are contiguous starting at 0001, which
+// is how the scraper numbers them (it always continues from
+// max-existing + 1, never leaving gaps).
+//
+// Expected job shape (matches the scraper's clean_job objects):
+//   { company, title, locations, url, date?, remote? }
+//   - locations: free-text location string (may be missing)
+//   - date: int (days ago) OR string like "30+" OR absent
+//   - remote: true if present, otherwise treated as false
+// ============================================================
+
+const CHUNK_DIR = "output/"; // index.html lives in the project root, chunks live in output/
+const CHUNK_PREFIX = "chunk_";
+const CHUNK_SUFFIX = ".json.gz";
+const CHUNK_DIGITS = 4;
+const BATCH_SIZE = 6;          // chunks fetched concurrently per round
+const MAX_CONSECUTIVE_MISSES = BATCH_SIZE; // one fully-empty batch = stop
+const PAGE_SIZE = 50;
+
+// ------------------------------------------------------------------
+// Experience-level classification and recruiter detection, computed
+// client-side from title/company so the chunk files stay minimal.
+// ------------------------------------------------------------------
+const TIER_PATTERNS = [
+  [/\b(?:chief|cto|ceo|cfo|vp|vice president|director)\b/, 50],
+  [/\b(?:principal|distinguished|fellow)\b/, 40],
+  [/\b(?:staff|lead|head of)\b/, 30],
+  [/\b(?:senior|sr\.?)\b/, 20],
+  [/\b(?:architect|manager)\b/, 15],
+  [/\b(?:iii|iv|v|vi)\b/, 15],
+  [/\blevel\s*[4-9]\b/, 15],
+  [/\bengr?\s*[4-6]\b/, 15],
+  [/\b(?:counsel|of\s*counsel)\b/, 20],
+  [/\b(?:attending|charge)\b/, 20],
+  [/\b(?:ii|2)\b/, 5],
+  [/\blevel\s*3\b/, 5],
+  [/\b(?:associate)\b/, -10],
+  [/\b(?:junior|jr\.?)\b/, -20],
+  [/\bentry[\s-]?level\b/, -25],
+  [/\b(?:i|1)\b(?!\s*-|\d)/, -15],
+  [/\b(?:trainee|graduate|new\s*grad)\b/, -25],
+  [/\b(?:paralegal|clerk)\b/, -15],
+  [/\b(?:resident|clinical\s*fellow)\b/, -15],
+  [/\b(?:aide|assistant|tech)\b/, -10],
+  [/\bintern(?:ship)?\b/, -100],
+];
+
+function classifyLevel(title) {
+  const t = (title || "").toLowerCase();
+  let score = 0;
+  for (const [re, weight] of TIER_PATTERNS) {
+    if (re.test(t)) score += weight;
+  }
+  if (score <= -50) return "intern";
+  if (score <= -5) return "entry";
+  if (score >= 15) return "senior";
+  return "mid";
+}
+
+const RECRUITER_TERMS = [
+  "recruit", "recruiting", "recruiter", "staffing", "staff", "talent",
+  "talenthub", "talentgroup", "solutions", "consulting", "placement",
+  "search", "resources", "agency",
+];
+
+function isRecruiterCompany(company) {
+  const c = (company || "").toLowerCase();
+  return RECRUITER_TERMS.some((term) => c.includes(term));
+}
+
+// ------------------------------------------------------------------
+// "date" can be: absent, an int (days ago), or a string like "30+".
+// dateSort: numeric days-ago for sorting (nulls sort last).
+// dateLabel: human label for display.
+// ------------------------------------------------------------------
+function parseDate(raw) {
+  if (raw === undefined || raw === null || raw === "") {
+    return { sortVal: null, label: "—", isFuzzyPlus: false };
+  }
+  if (typeof raw === "number") {
+    const label =
+      raw === 0 ? "Today" : raw === 1 ? "Yesterday" : `${raw} days ago`;
+    return { sortVal: raw, label, isFuzzyPlus: false };
+  }
+  const match = /^(\d+)\+?$/.exec(String(raw).trim());
+  if (match) {
+    const n = parseInt(match[1], 10);
+    const isFuzzyPlus = String(raw).includes("+");
+    return {
+      sortVal: n,
+      label: isFuzzyPlus ? `${n}+ days ago` : `${n} days ago`,
+      isFuzzyPlus,
+    };
+  }
+  return { sortVal: null, label: String(raw), isFuzzyPlus: false };
+}
+
+const state = {
+  allJobs: [],
+  filtered: [],
+  page: 1,
+  sortKey: "dateSort",
+  sortDir: "asc", // asc = most recent first, since sortVal is "days ago"
+};
+
+const els = {
+  stats: document.getElementById("stats"),
+  search: document.getElementById("search"),
+  company: document.getElementById("company"),
+  location: document.getElementById("location"),
+  remoteOnly: document.getElementById("remote-only"),
+  includeKw: document.getElementById("include-kw"),
+  excludeKw: document.getElementById("exclude-kw"),
+  datePosted: document.getElementById("date-posted"),
+  experienceLevel: document.getElementById("experience-level"),
+  hideRecruiter: document.getElementById("hide-recruiter"),
+  clearBtn: document.getElementById("clear-btn"),
+  rows: document.getElementById("job-rows"),
+  empty: document.getElementById("empty-state"),
+  pagination: document.getElementById("pagination"),
+  table: document.getElementById("job-table"),
+};
+
+function escapeHtml(str) {
+  if (!str) return "";
+  return str.replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[c]));
+}
+
+function chunkName(index) {
+  return `${CHUNK_DIR}${CHUNK_PREFIX}${String(index).padStart(CHUNK_DIGITS, "0")}${CHUNK_SUFFIX}`;
+}
+
+// Fetch + gzip-decompress one chunk. Returns the parsed job array,
+// or null if the file doesn't exist (404) / fails to parse.
+async function fetchChunk(index) {
+  const name = chunkName(index);
+  let res;
+  try {
+    res = await fetch(name);
+  } catch {
+    return null;
+  }
+  if (!res.ok) return null;
+
+  try {
+    if (typeof DecompressionStream !== "undefined") {
+      const ds = new DecompressionStream("gzip");
+      const text = await new Response(res.body.pipeThrough(ds)).text();
+      const data = JSON.parse(text);
+      return Array.isArray(data) ? data : null;
+    }
+    // No native gzip support — assume the server already serves it
+    // decompressed (e.g. with Content-Encoding: gzip).
+    const data = await res.json();
+    return Array.isArray(data) ? data : null;
+  } catch {
+    return null;
+  }
+}
+
+// Probe chunk_0001.json.gz, chunk_0002.json.gz, ... in concurrent
+// batches until an entire batch comes back empty.
+async function discoverAndLoadChunks(onProgress) {
+  const allJobs = [];
+  let chunksLoaded = 0;
+  let nextIndex = 1;
+  let consecutiveMisses = 0;
+
+  while (consecutiveMisses < MAX_CONSECUTIVE_MISSES) {
+    const batchIndices = [];
+    for (let i = 0; i < BATCH_SIZE; i++) batchIndices.push(nextIndex + i);
+    nextIndex += BATCH_SIZE;
+
+    const batchResults = await Promise.all(batchIndices.map(fetchChunk));
+
+    for (const jobs of batchResults) {
+      if (jobs) {
+        allJobs.push(...jobs);
+        chunksLoaded++;
+        consecutiveMisses = 0;
+        onProgress?.(chunksLoaded, allJobs.length);
+      } else {
+        consecutiveMisses++;
+      }
+    }
+  }
+
+  return { allJobs, chunksLoaded };
+}
+
+async function loadJobs() {
+  const { allJobs, chunksLoaded } = await discoverAndLoadChunks(
+    (chunksLoaded, jobCount) => {
+      els.stats.textContent = `Loading… ${chunksLoaded} chunk(s), ${jobCount.toLocaleString()} jobs so far`;
+    }
+  );
+
+  if (chunksLoaded === 0) {
+    els.stats.textContent = "Could not find any chunk files.";
+    els.empty.textContent =
+      "No output/chunk_0001.json.gz found — make sure this page sits in your project root, next to the output/ folder, and that you're serving the project root over HTTP.";
+    els.empty.hidden = false;
+    return;
+  }
+
+  state.allJobs = allJobs;
+  state.allJobs.forEach((job) => {
+    job.level = classifyLevel(job.title);
+    job.isRecruiter = isRecruiterCompany(job.company);
+    const parsed = parseDate(job.date);
+    job.dateSort = parsed.sortVal;
+    job.dateLabel = parsed.label;
+    job.dateIsFuzzyPlus = parsed.isFuzzyPlus;
+  });
+  state.filtered = state.allJobs;
+
+  const companies = new Set(state.allJobs.map((j) => j.company)).size;
+  els.stats.textContent = `${state.allJobs.length.toLocaleString()} jobs · ${companies.toLocaleString()} companies · ${chunksLoaded} chunk(s) loaded`;
+
+  applyFilters();
+}
+
+function applyFilters() {
+  const q = els.search.value.trim().toLowerCase();
+  const company = els.company.value.trim().toLowerCase();
+  const loc = els.location.value.trim().toLowerCase();
+  const remoteOnly = els.remoteOnly.checked;
+  const hideRecruiter = els.hideRecruiter.checked;
+  const level = els.experienceLevel.value;
+  const dateDays = els.datePosted.value ? parseInt(els.datePosted.value, 10) : null;
+
+  const includeTerms = els.includeKw.value.split(",").map((s) => s.trim().toLowerCase()).filter(Boolean);
+  const excludeTerms = els.excludeKw.value.split(",").map((s) => s.trim().toLowerCase()).filter(Boolean);
+
+  state.filtered = state.allJobs.filter((job) => {
+    const title = (job.title || "").toLowerCase();
+
+    if (q && !title.includes(q)) return false;
+    if (company && !(job.company || "").toLowerCase().includes(company)) return false;
+    if (loc && !(job.locations || "").toLowerCase().includes(loc)) return false;
+    if (remoteOnly && !job.remote) return false;
+    if (hideRecruiter && job.isRecruiter) return false;
+    if (level && job.level !== level) return false;
+
+    // Include keywords: job title must contain at least one (OR logic)
+    if (includeTerms.length && !includeTerms.some((term) => title.includes(term))) return false;
+    // Exclude keywords: job is dropped if title contains any of them
+    if (excludeTerms.length && excludeTerms.some((term) => title.includes(term))) return false;
+
+    // Date posted: jobs with no known day-count, or a fuzzy "N+" value,
+    // are excluded once a window is selected, since we can't confirm
+    // they fall inside it.
+    if (dateDays !== null) {
+      if (job.dateSort === null || job.dateIsFuzzyPlus) return false;
+      if (job.dateSort > dateDays) return false;
+    }
+
+    return true;
+  });
+
+  sortJobs();
+  state.page = 1;
+  render();
+}
+
+const LEVEL_RANK = { intern: 0, entry: 1, mid: 2, senior: 3 };
+
+function sortJobs() {
+  const { sortKey, sortDir } = state;
+  const dir = sortDir === "asc" ? 1 : -1;
+
+  state.filtered = [...state.filtered].sort((a, b) => {
+    let av = a[sortKey];
+    let bv = b[sortKey];
+
+    if (sortKey === "remote") {
+      av = av ? 1 : 0;
+      bv = bv ? 1 : 0;
+      return (av - bv) * dir;
+    }
+
+    if (sortKey === "level") {
+      av = LEVEL_RANK[av] ?? -1;
+      bv = LEVEL_RANK[bv] ?? -1;
+      return (av - bv) * dir;
+    }
+
+    if (sortKey === "dateSort") {
+      // nulls (unknown date) always sort to the end regardless of direction
+      if (av === null && bv === null) return 0;
+      if (av === null) return 1;
+      if (bv === null) return -1;
+      return (av - bv) * dir;
+    }
+
+    av = (av || "").toString().toLowerCase();
+    bv = (bv || "").toString().toLowerCase();
+    if (av < bv) return -1 * dir;
+    if (av > bv) return 1 * dir;
+    return 0;
+  });
+}
+
+function render() {
+  const total = state.filtered.length;
+  const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+  state.page = Math.min(state.page, totalPages);
+
+  const start = (state.page - 1) * PAGE_SIZE;
+  const pageItems = state.filtered.slice(start, start + PAGE_SIZE);
+
+  els.empty.hidden = total !== 0;
+  els.table.hidden = total === 0;
+
+  els.rows.innerHTML = pageItems.map((job) => `
+    <tr>
+      <td class="job-title">${job.url ? `<a href="${escapeHtml(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a>` : escapeHtml(job.title)}</td>
+      <td class="job-company">${escapeHtml(job.company)}${job.isRecruiter ? ' <span class="recruiter-flag">(recruiter)</span>' : ""}</td>
+      <td class="job-location">${escapeHtml(job.locations || "—")}</td>
+      <td><span class="badge ${job.remote ? "remote" : "onsite"}">${job.remote ? "Remote" : "On-site"}</span></td>
+      <td><span class="badge level-${job.level}">${escapeHtml(job.level)}</span></td>
+      <td class="job-posted">${escapeHtml(job.dateLabel)}</td>
+    </tr>
+  `).join("");
+
+  renderPagination(totalPages, total);
+}
+
+function renderPagination(totalPages, total) {
+  if (total === 0) {
+    els.pagination.innerHTML = "";
+    return;
+  }
+  els.pagination.innerHTML = `
+    <button id="prev-page" ${state.page <= 1 ? "disabled" : ""}>&larr; Prev</button>
+    <span>Page ${state.page} / ${totalPages} (${total.toLocaleString()} jobs)</span>
+    <button id="next-page" ${state.page >= totalPages ? "disabled" : ""}>Next &rarr;</button>
+  `;
+  document.getElementById("prev-page")?.addEventListener("click", () => { state.page--; render(); });
+  document.getElementById("next-page")?.addEventListener("click", () => { state.page++; render(); });
+}
+
+function setupSortHeaders() {
+  document.querySelectorAll("thead th[data-sort]").forEach((th) => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.sort;
+      if (state.sortKey === key) {
+        state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
+      } else {
+        state.sortKey = key;
+        state.sortDir = "asc";
+      }
+      sortJobs();
+      state.page = 1;
+      render();
+    });
+  });
+}
+
+function setupControls() {
+  let debounceTimer;
+  const debouncedFilter = () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(applyFilters, 150);
+  };
+
+  els.search.addEventListener("input", debouncedFilter);
+  els.company.addEventListener("input", debouncedFilter);
+  els.location.addEventListener("input", debouncedFilter);
+  els.includeKw.addEventListener("input", debouncedFilter);
+  els.excludeKw.addEventListener("input", debouncedFilter);
+
+  els.remoteOnly.addEventListener("change", applyFilters);
+  els.hideRecruiter.addEventListener("change", applyFilters);
+  els.datePosted.addEventListener("change", applyFilters);
+  els.experienceLevel.addEventListener("change", applyFilters);
+
+  els.clearBtn.addEventListener("click", () => {
+    els.search.value = "";
+    els.company.value = "";
+    els.location.value = "";
+    els.includeKw.value = "";
+    els.excludeKw.value = "";
+    els.remoteOnly.checked = false;
+    els.hideRecruiter.checked = false;
+    els.datePosted.value = "";
+    els.experienceLevel.value = "";
+    applyFilters();
+  });
+}
+
+setupControls();
+setupSortHeaders();
+loadJobs();
+</script>
+</body>
+</html>
