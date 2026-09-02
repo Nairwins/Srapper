@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/jobs.py": {
+      "includeFiles": "output/**"
+    }
+  },
+  "rewrites": [
+    { "source": "/jobs", "destination": "/api/jobs" }
+  ]
+}
