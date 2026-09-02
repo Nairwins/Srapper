@@ -5,8 +5,11 @@ Usage:
     pip install requests
     python test_api.py
     python test_api.py --q "backend engineer" --exp mid,senior --days 30
-    python test_api.py --url http://localhost:3000/api/jobs --company netflix
+    python test_api.py --url http://localhost:3000 --company netflix
     python test_api.py --country usa,germany --remote true --amount 5
+
+Everything routes to main.py (see vercel.json), so any path on the
+deployed domain works - the default just hits the root.
 
 Run `vercel dev` locally first if you want to hit localhost instead of
 the deployed URL.
@@ -18,7 +21,7 @@ import sys
 
 import requests
 
-DEFAULT_URL = "https://srapper-bay.vercel.app/api/jobs"
+DEFAULT_URL = "https://srapper-bay.vercel.app"
 
 
 def main():

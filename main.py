@@ -3,7 +3,11 @@ Vercel serverless API - serves scraped jobs from the gzip chunks in
 `output/` (whatever run_scraper()/scrap.py produced), filtered and
 ranked by whatever the caller asks for.
 
-Deployed URL: https://srapper-bay.vercel.app/api/jobs
+Single-file function at the project root (see vercel.json - it routes
+every request straight to this file, no /api folder needed).
+
+Deployed URL: https://srapper-bay.vercel.app/  (any path works, e.g.
+also https://srapper-bay.vercel.app/jobs - see vercel.json routes)
 
 Pure stdlib - no requirements.txt needed, nothing to install on
 Vercel's build step.
@@ -56,8 +60,8 @@ from urllib.parse import urlparse, parse_qs
 # CONFIG
 # ============================================================
 
-# api/jobs.py -> project root is one directory up.
-_PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# main.py lives at the project root already.
+_PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # Where to look for scraped output. Override with the JOBS_DATA_DIR
 # env var if you keep it somewhere else (e.g. mounted storage / a
