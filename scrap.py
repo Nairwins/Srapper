@@ -45,7 +45,7 @@ from scrappy import personioscrap
 
 # Options: "workday", "greenhouse", "ashby", "lever", "bamboohr", "workable", "recruitee", "personio", or "all"
 SCRAPER = "all"
-SOURCE = "data/tenants.json"  # or "default" to use the scraper's own default tenants file
+SOURCE = "default"  # "default" = module's own tenants file, or path to a custom tenants JSON file
 
 OUTPUT_DIR = "output"
 MAX_WORKERS = 8
