@@ -1,20 +1,3 @@
-"""
-Orchestrator. This file owns EVERYTHING that isn't ATS-specific scraping:
-  - the live console UI
-  - the worker pool (threading)
-  - reading tenants / writing job files
-  - chunking + gzip merging of finished output
-  - the final summary
-
-It knows nothing about Workday or Greenhouse URLs/payloads directly - it
-only calls two functions that every scraper module exposes:
-
-    module.load_tenants(path)          -> list[tenant_info dict]
-    module.fetch_jobs(tenant_info, offset) -> result dict
-
-See workdscrap.py / greenscrap.py for what those dicts look like.
-"""
-
 import glob
 import gzip
 import json
@@ -47,8 +30,9 @@ from scrappy import personioscrap
 SCRAPER = "all"
 SOURCE = "default"  # "default" = module's own tenants file, or path to a custom tenants JSON file
 
+CPU_COUNT = os.cpu_count() or 2
+MAX_WORKERS = max(4, CPU_COUNT * 5)
 OUTPUT_DIR = "output"
-MAX_WORKERS = 8
 
 # Once this many jobs have accumulated across finished tenants,
 # merge them into one gzip-compressed chunk.
@@ -434,10 +418,6 @@ def _print_summary(name, summary, output_dir):
     print("=" * 90)
     print(f"{name} FINISHED")
     print("=" * 90)
-
-    for label, count in summary.items():
-        status = "FAILED" if count == 0 else f"{count} jobs"
-        print(f"  {label:<30} {status}")
 
     print("=" * 90)
     print(f"Total jobs: {sum(summary.values())}")

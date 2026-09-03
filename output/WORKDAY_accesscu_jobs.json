@@ -1,0 +1,100 @@
+[
+    {
+        "company": "accesscu",
+        "title": "Member Service Representative (Full-time, permanent) Selkirk",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Selkirk-233-Main-St/Member-Service-Representative--Full-time--permanent--Selkirk_JR100761",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Selkirk (233 Main St)"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "accesscu",
+        "title": "Business Account Manager I (Full-time, permanent) Grunthal",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Grunthal-164-Main-St/Business-Account-Manager-I--Full-time--permanent--Grunthal_JR100759",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Grunthal (164 Main St)"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "accesscu",
+        "title": "Member Solutions Centre Representative l (Full-Time, Permanent) Winkler",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Winkler-295-Main-St/Member-Solutions-Centre-Representative-l--Full-Time--Permanent--Winkler_JR100755",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Winkler (295 Main St)"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "accesscu",
+        "title": "Investment Specialist (Full Time, Permanent) Grunthal",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Grunthal-164-Main-St/Investment-Specialist--Full-Time--Permanent--Grunthal_JR100758",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Grunthal (164 Main St)"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "accesscu",
+        "title": "Programmer Analyst II (Full Time, Permanent) Remote within Manitoba",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Corporate-Office-Manitoba/Programmer-Analyst-II--Full-Time--Permanent--Remote-within-Manitoba_JR100541",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Corporate Office (Manitoba)"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "accesscu",
+        "title": "Retail Lending Officer (Full-Time, Permanent) Stonewall",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Stonewall-410-Centre-Ave/Retail-Lending-Officer-ll--Full-Time--Permanent--Stonewall_JR100742-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Stonewall (410 Centre Ave)"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "accesscu",
+        "title": "Retail Lending Officer I (Full-Time, Permanent) St. Mary's",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Winnipeg--St-Marys-1033-St-Marys-Rd/Retail-Lending-Officer-I--Full-Time--Permanent--St-Mary-s_JR100756",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "accesscu",
+        "title": "Member Service Representative I (Part-time, Permanent) Altona",
+        "url": "https://accesscu.wd3.myworkdayjobs.com/access_careers/job/Altona-129-3rd-Ave/Member-Service-Representative-I--Part-time--Permanent--Altona_JR100749",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Altona (129 3rd Ave)"
+            }
+        ],
+        "date": 14
+    }
+]
