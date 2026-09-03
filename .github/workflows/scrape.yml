@@ -46,6 +46,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No output changes to commit."
           else
-            git commit -m "Update scraped jobs"
+            git commit -m "John Update"
             git push
           fi
