@@ -12,24 +12,9 @@ from .codes.geoloc import canonicalize_country, canonicalize_city
 # ============================================================
 # CONFIG
 # ============================================================
-#
-# Unlike BambooHR, Workable ships a genuinely public, documented
-# per-account widget endpoint - no auth required, same URL/JSON shape
-# confirmed by Workable's own help docs. It's the same "widget-style"
-# category as Lever/Ashby/Greenhouse's public board APIs, just used
-# to power Workable-hosted career pages and embeds instead of a
-# dedicated dev-facing REST surface.
-#
-# One real quirk seen in the wild: some fields are inconsistently
-# present across accounts (e.g. a job's timestamp shows up as either
-# "created_at" or "published_on" depending on the account/job). So,
-# same spirit as bambooscrap.py, field reads go through
-# _first_present() with a couple of candidate keys rather than a
-# single hardcoded name, even though the overall schema here is much
-# more stable than BambooHR's.
 
 NAME = "WORKABLE"
-TENANTS_FILE = "data/tenants.json"
+TENANTS_FILE = "data/workable.json"
 
 BASE_URL = "https://apply.workable.com/api/v1/widget/accounts/{token}?details=true"
 

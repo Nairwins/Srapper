@@ -14,7 +14,7 @@ from .codes.geoloc import extract_locations as _geoloc_extract_locations
 # ============================================================
 
 NAME = "WORKDAY"
-TENANTS_FILE = "data/tenants.json"
+TENANTS_FILE = "data/workday.json"
 PAGE_SIZE = 20
 
 

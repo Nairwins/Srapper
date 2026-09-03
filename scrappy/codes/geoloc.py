@@ -159,6 +159,15 @@ _REMOTE_PREFIX_RE = re.compile(
 )
 
 
+def _is_known_country(text):
+    """Exact-alias membership check against the same country list
+    guess_location() already searches. Used by parse_location_string()
+    to decide whether an unresolved single token should be labeled a
+    country or a city - see the comment there."""
+    key = text.strip().lower()
+    return any(alias == key for alias, _canonical in _COUNTRY_LOOKUP)
+
+
 def parse_location_string(raw):
     if not raw:
         return None
@@ -191,12 +200,23 @@ def parse_location_string(raw):
             "city": parts[0]
         }
 
-    # Single token: ambiguous, most single-value locations at this
-    # granularity are country/region-level (e.g. "Germany"), so treat
-    # it as country.
-    return {
-        "country": parts[0]
-    }
+    # Single token. This only runs as a fallback for text guess_location()
+    # already failed to recognize as either a known city OR a known
+    # country (see _resolve_piece below) - so if it's a genuine, listed
+    # country name (checked here independently too, since this function
+    # can be called on its own), keep calling it a country. Otherwise,
+    # defaulting to "country" for anything unrecognized was the old
+    # behavior, and it was wrong more often than right: most single
+    # free-text location tokens at this granularity are city names
+    # geoloc just doesn't have listed (e.g. "München") rather than some
+    # obscure country - so an unrecognized token is treated as a city
+    # instead.
+    token = parts[0]
+
+    if _is_known_country(token):
+        return {"country": token}
+
+    return {"city": token}
 
 
 _MULTI_LOCATION_SPLIT_RE = re.compile(

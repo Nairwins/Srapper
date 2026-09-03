@@ -14,7 +14,7 @@ from .codes.geoloc import extract_locations as _geoloc_extract_locations
 # ============================================================
 
 NAME = "GREENHOUSE"
-TENANTS_FILE = "data/tenants.json"
+TENANTS_FILE = "data/greenhouse.json"
 
 BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{token}/jobs"
 

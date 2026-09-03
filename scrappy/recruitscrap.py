@@ -13,39 +13,9 @@ from .codes.geoloc import canonicalize_country, canonicalize_city, extract_locat
 # ============================================================
 # CONFIG
 # ============================================================
-#
-# Recruitee's public "Careers Site" surface is a documented,
-# unauthenticated endpoint per company subdomain:
-#   GET https://{token}.recruitee.com/api/offers/
-# -> {"offers": [ {...} ]}
-#
-# Field shapes below are confirmed against a real, live tenant
-# response (not just the API docs, which describe a slightly
-# different payload elsewhere - e.g. the webhook payload's "offer"
-# object nests a raw "full_address" string, but this endpoint gives
-# clean, separate "city"/"country"/"country_code" fields instead - so
-# trust what's implemented here over generic Recruitee doc examples).
-#
-# Quirks worth knowing:
-#   1. The same "offer" object models BOTH job postings and talent
-#      pools, disambiguated by a "kind" field ("job" vs
-#      "talent_pool"), with a "status" field as a second signal. We
-#      filter to published jobs only (staying permissive when either
-#      field is absent, in case an account's response omits it) so
-#      talent pools never show up as fake job postings.
-#   2. "country" text can be in the company's own locale rather than
-#      English (e.g. "Nederland" for a Dutch account) - "country_code"
-#      (ISO 3166-1 alpha-2, locale-independent) is preferred and
-#      mapped to an English name before canonicalizing, falling back
-#      to the raw "country" text only when there's no code.
-#   3. Timestamps ("created_at"/"published_at"/"updated_at") come back
-#      as "2026-08-26 13:17:31 UTC" - space-separated with a trailing
-#      "UTC" literal, NOT real ISO-8601. That silently breaks strict
-#      ISO parsing (including days_since()), so it's reshaped into
-#      real ISO-8601 first.
 
 NAME = "RECRUITEE"
-TENANTS_FILE = "data/tenants.json"
+TENANTS_FILE = "data/recruitee.json"
 
 BASE_URL = "https://{token}.recruitee.com/api/offers/"
 JOB_URL = "https://{token}.recruitee.com/o/{slug}"
@@ -55,8 +25,8 @@ HEADERS = {
     "Accept": "application/json",
 }
 
-MAX_RETRIES = 2
-RETRY_BACKOFF_SECONDS = 2.0
+MAX_RETRIES = 5
+RETRY_BACKOFF_SECONDS = 5.0
 
 
 # ============================================================
@@ -153,12 +123,6 @@ def _country_name_from_code(code):
 # ============================================================
 # PARSE - dates
 # ============================================================
-# Confirmed against a live Recruitee tenant: "created_at"/
-# "published_at"/"updated_at" come back as "2026-08-26 13:17:31 UTC" -
-# space-separated (not "T"), with a trailing "UTC" literal instead of
-# a "+00:00"/"Z" offset. That trips up standard ISO-8601 parsing
-# (including whatever days_since() expects), which silently produced
-# no date at all. Reshape it into real ISO-8601 first.
 
 _RECRUITEE_TIMESTAMP_RE = re.compile(
     r"^(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2}:\d{2})\s*UTC$",

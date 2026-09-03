@@ -14,7 +14,7 @@ from .codes.geoloc import extract_locations as _geoloc_extract_locations
 # ============================================================
 
 NAME = "ASHBY"
-TENANTS_FILE = "data/tenants.json"
+TENANTS_FILE = "data/ashby.json"
 
 BASE_URL = "https://api.ashbyhq.com/posting-api/job-board/{token}"
 

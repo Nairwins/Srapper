@@ -25,4 +25,10 @@ from health._common import run_health_check
 
 if __name__ == "__main__":
     tenants_file = sys.argv[1] if len(sys.argv) > 1 else None
-    run_health_check(recruitscrap, is_workday=False, tenants_file=tenants_file)
+    run_health_check(
+        recruitscrap,
+        is_workday=False,
+        tenants_file=tenants_file,
+        workers=10,
+        rate_limit_is_dead=True,
+    )

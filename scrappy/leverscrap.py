@@ -15,7 +15,7 @@ from .codes.geoloc import extract_locations as _geoloc_extract_locations
 # ============================================================
 
 NAME = "LEVER"
-TENANTS_FILE = "data/tenants.json"
+TENANTS_FILE = "data/lever.json"
 
 BASE_URL = "https://api.lever.co/v0/postings/{token}?mode=json"
 

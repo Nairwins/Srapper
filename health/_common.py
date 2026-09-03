@@ -51,7 +51,39 @@ def _workday_key_extractor(raw_entry):
     return f"{tenant}|{wd}|{site}"
 
 
-def check_tenant(module, tenant_info, is_workday=False):
+def _dedupe_and_reorder(raw_list, key_extractor):
+    """Remove duplicate tenant entries (same key - keep the first
+    occurrence) and sort what's left alphabetically by key, so the
+    tenants file stays tidy and every health-check run walks tenants
+    in a stable, predictable order.
+
+    Entries whose key can't be determined (malformed - load_tenants()
+    already flags these on its own) are left as-is, in their original
+    relative order, appended after every keyed entry - there's nothing
+    to dedupe/sort them by."""
+    seen_keys = set()
+    keyed = []
+    unkeyed = []
+
+    for raw_entry in raw_list:
+        key = key_extractor(raw_entry)
+
+        if key is None:
+            unkeyed.append(raw_entry)
+            continue
+
+        if key in seen_keys:
+            continue
+
+        seen_keys.add(key)
+        keyed.append((key, raw_entry))
+
+    keyed.sort(key=lambda pair: pair[0].lower())
+
+    return [raw_entry for _key, raw_entry in keyed] + unkeyed
+
+
+def check_tenant(module, tenant_info, is_workday=False, rate_limit_is_dead=False):
     """
     Run one fetch against a single tenant and decide what to do with it.
 
@@ -80,6 +112,9 @@ def check_tenant(module, tenant_info, is_workday=False):
         return True, error
 
     error_type = result.get("error_type")
+    if error_type == "rate_limited" and rate_limit_is_dead:
+        return False, error
+
     if error_type == "not_found":
         return False, error
 
@@ -87,7 +122,8 @@ def check_tenant(module, tenant_info, is_workday=False):
     return True, error
 
 
-def run_health_check(module, is_workday=False, tenants_file=None, delay=0.3, workers=10):
+def run_health_check(module, is_workday=False, tenants_file=None, delay=0.3,
+                     workers=20, rate_limit_is_dead=False):
     """
     Check every tenant in `module`'s tenants file, print a line per
     tenant, then rewrite the file with confirmed-dead tenants removed.
@@ -105,8 +141,28 @@ def run_health_check(module, is_workday=False, tenants_file=None, delay=0.3, wor
     with open(path, "r", encoding="utf-8") as f:
         raw_list = json.load(f)
 
-    tenants = module.load_tenants(path)
     key_extractor = _workday_key_extractor if is_workday else _default_key_extractor
+
+    # Dedupe + reorder BEFORE any checking happens, so duplicate
+    # entries never get checked (and potentially reported/removed)
+    # twice, and every run walks tenants in the same stable order.
+    deduped_raw_list = _dedupe_and_reorder(raw_list, key_extractor)
+
+    if deduped_raw_list != raw_list:
+        dupes_removed = len(raw_list) - len(deduped_raw_list)
+
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(deduped_raw_list, f, indent=2, ensure_ascii=False)
+
+        if dupes_removed:
+            print(f"[{module.NAME}] removed {dupes_removed} duplicate tenant(s) "
+                  f"and reordered {path}\n")
+        else:
+            print(f"[{module.NAME}] reordered {path} (no duplicates found)\n")
+
+        raw_list = deduped_raw_list
+
+    tenants = module.load_tenants(path)
 
     total = len(tenants)
     print(f"[{module.NAME}] checking {total} tenant(s) from {path} "
@@ -120,7 +176,12 @@ def run_health_check(module, is_workday=False, tenants_file=None, delay=0.3, wor
         # under concurrency and you need to dial it back down).
         for i, tenant_info in enumerate(tenants, start=1):
             label = tenant_info.get("label") or tenant_info.get("key")
-            keep, detail = check_tenant(module, tenant_info, is_workday=is_workday)
+            keep, detail = check_tenant(
+                module,
+                tenant_info,
+                is_workday=is_workday,
+                rate_limit_is_dead=rate_limit_is_dead,
+            )
 
             if keep:
                 status = "ok" if detail is None else f"ok (ignored: {detail})"
@@ -142,7 +203,13 @@ def run_health_check(module, is_workday=False, tenants_file=None, delay=0.3, wor
         completed = 0
         with ThreadPoolExecutor(max_workers=workers) as pool:
             future_to_tenant = {
-                pool.submit(check_tenant, module, tenant_info, is_workday=is_workday): tenant_info
+                pool.submit(
+                    check_tenant,
+                    module,
+                    tenant_info,
+                    is_workday=is_workday,
+                    rate_limit_is_dead=rate_limit_is_dead,
+                ): tenant_info
                 for tenant_info in tenants
             }
 

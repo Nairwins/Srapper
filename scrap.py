@@ -36,16 +36,16 @@ from scrappy import leverscrap
 from scrappy import bambooscrap
 from scrappy import workascrap
 from scrappy import recruitscrap
+from scrappy import personioscrap
 
 
 # ============================================================
 # CONFIG - change this to pick which scraper(s) run
 # ============================================================
 
-# Options: "workday", "greenhouse", "ashby", "lever", "bamboohr",
-# "workable", "recruitee", "both" (workday + greenhouse, kept for
-# backward compat), "all" (every scraper above)
+# Options: "workday", "greenhouse", "ashby", "lever", "bamboohr", "workable", "recruitee", "personio", or "all"
 SCRAPER = "all"
+SOURCE = "data/tenants.json"  # or "default" to use the scraper's own default tenants file
 
 OUTPUT_DIR = "output"
 MAX_WORKERS = 8
@@ -53,7 +53,7 @@ MAX_WORKERS = 8
 # Once this many jobs have accumulated across finished tenants,
 # merge them into one gzip-compressed chunk.
 CHUNK_JOB_CAP = 50_000
-CHUNKING_ENABLED = False
+CHUNKING_ENABLED = True
 
 # Be a decent citizen between pages/tenants.
 REQUEST_DELAY = 0.3
@@ -457,60 +457,69 @@ def _print_summary(name, summary, output_dir):
 # ============================================================
 
 def main():
-    valid_scrapers = ("workday", "greenhouse", "ashby", "lever", "bamboohr", "workable", "recruitee", "both", "all")
+    valid_scrapers = ("workday", "greenhouse", "ashby", "lever", "bamboohr", "workable", "recruitee", "personio", "all")
     if SCRAPER not in valid_scrapers:
         raise SystemExit(
             f"Invalid SCRAPER value: '{SCRAPER}'. "
             f"Must be one of {valid_scrapers}."
         )
 
-    if SCRAPER in ("workday", "both", "all"):
+    tenants_file = None if SOURCE == "default" else SOURCE
+
+    if SCRAPER in ("workday", "all"):
         print("=" * 90)
         print("RUNNING WORKDAY SCRAPER")
         print("=" * 90)
-        run_scraper(workdscrap)
+        run_scraper(workdscrap, tenants_file=tenants_file)
         print()
 
-    if SCRAPER in ("greenhouse", "both", "all"):
+    if SCRAPER in ("greenhouse", "all"):
         print("=" * 90)
         print("RUNNING GREENHOUSE SCRAPER")
         print("=" * 90)
-        run_scraper(greenscrap)
+        run_scraper(greenscrap, tenants_file=tenants_file)
         print()
 
     if SCRAPER in ("ashby", "all"):
         print("=" * 90)
         print("RUNNING ASHBY SCRAPER")
         print("=" * 90)
-        run_scraper(ashscrap)
+        run_scraper(ashscrap, tenants_file=tenants_file)
         print()
 
     if SCRAPER in ("lever", "all"):
         print("=" * 90)
         print("RUNNING LEVER SCRAPER")
         print("=" * 90)
-        run_scraper(leverscrap)
+        run_scraper(leverscrap, tenants_file=tenants_file)
         print()
 
     if SCRAPER in ("bamboohr", "all"):
         print("=" * 90)
         print("RUNNING BAMBOOHR SCRAPER")
         print("=" * 90)
-        run_scraper(bambooscrap)
+        run_scraper(bambooscrap, tenants_file=tenants_file)
         print()
 
     if SCRAPER in ("workable", "all"):
         print("=" * 90)
         print("RUNNING WORKABLE SCRAPER")
         print("=" * 90)
-        run_scraper(workascrap)
+        run_scraper(workascrap, tenants_file=tenants_file)
         print()
 
     if SCRAPER in ("recruitee", "all"):
         print("=" * 90)
         print("RUNNING RECRUITEE SCRAPER")
         print("=" * 90)
-        run_scraper(recruitscrap)
+        run_scraper(recruitscrap, tenants_file=tenants_file)
+        print()
+
+    if SCRAPER in ("personio", "all"):
+        print("=" * 90)
+        print("RUNNING PERSONIO SCRAPER")
+        print("=" * 90)
+        run_scraper(personioscrap, tenants_file=tenants_file)
         print()
 
 

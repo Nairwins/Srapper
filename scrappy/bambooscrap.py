@@ -12,29 +12,9 @@ from .codes.geoloc import canonicalize_country, canonicalize_city
 # ============================================================
 # CONFIG
 # ============================================================
-#
-# IMPORTANT - read before relying on this one:
-# Unlike Lever/Ashby/Greenhouse, BambooHR does NOT ship a documented,
-# multi-tenant public jobs API. The only public surface for BambooHR
-# job postings is the embeddable "careers widget" customers drop into
-# their own site; under the hood it calls an internal JSON endpoint
-# whose shape (and occasionally field names) can change between
-# BambooHR releases, undocumented and without notice. BASE_URL below
-# is the widget endpoint most reverse-engineered BambooHR scrapers use
-# in practice, but it isn't guaranteed stable the way the other
-# scrapers' APIs are.
-#
-# To compensate, every field read below goes through _first_present()
-# with a few plausible key-name candidates instead of a single hard-
-# coded key, and unexpected response shapes are reported as errors
-# rather than silently producing empty/garbage jobs. If this starts
-# returning "not_found" or "unexpected shape" errors for a tenant you
-# know has open jobs, the widget's JSON shape has likely drifted -
-# inspect a live response for that company's board and add the new
-# key name(s) to the candidate lists below.
 
 NAME = "BAMBOOHR"
-TENANTS_FILE = "data/tenants.json"
+TENANTS_FILE = "data/bamboohr.json"
 
 BASE_URL = "https://{token}.bamboohr.com/careers/list"
 JOB_URL = "https://{token}.bamboohr.com/careers/{job_id}"
@@ -290,6 +270,16 @@ def fetch_jobs(tenant_info, offset=0):
             last_error = f"network error: {e}"
             last_error_type = "network_error"
             wait = RETRY_BACKOFF_SECONDS * (attempt + 1)
+
+        except json.JSONDecodeError as e:
+            # Invalid or empty JSON response means the careers widget
+            # endpoint isn't working properly - treat as a dead link.
+            return {
+                "jobs": [], "total": None,
+                "error": f"invalid JSON response: {e}",
+                "error_type": "not_found",
+                "done": True, "next_offset": None,
+            }
 
         else:
             # Known widget response shapes: a bare list, or a dict with

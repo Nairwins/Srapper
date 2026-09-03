@@ -13,13 +13,13 @@ Pure stdlib - no requirements.txt needed, nothing to install on
 Vercel's build step.
 
 --------------------------------------------------------------------
-QUERY PARAMETERS (all optional, all case-insensitive)
+QUERY PARAMETERS
 --------------------------------------------------------------------
-q             free-text search (matched against job title + company).
-              When given, results are RANKED by closeness to this
-              text instead of just sorted by date.
-company       comma-separated list, substring match against company
-              e.g. company=netflix,airbnb
+q             REQUIRED. free-text search (matched against job title +
+              company). Results are RANKED by closeness to this text.
+              Missing/empty -> 400 error.
+company       optional, comma-separated list, substring match against
+              company e.g. company=netflix,airbnb
 exp           comma-separated list of: intern, junior, mid, senior
               (alias: exp_lvl, experience, level)
 country       comma-separated list, substring match against each
@@ -248,10 +248,13 @@ def get_jobs(params):
     parse_qs). Returns (response_dict)."""
 
     q_raw = (params.get("q") or "").strip()
+    if not q_raw:
+        raise ValueError("Missing required parameter 'q' - a search query is required.")
+
     exp_raw = params.get("exp") or params.get("exp_lvl") or params.get("experience") or params.get("level")
 
     filters = {
-        "q": q_raw or None,
+        "q": q_raw,
         "company": _split_csv(params.get("company")),
         "exp": [e for e in _split_csv(exp_raw) if e in VALID_EXP_LEVELS],
         "country": _split_csv(params.get("country")),
@@ -328,6 +331,9 @@ class handler(BaseHTTPRequestHandler):
 
             response = get_jobs(params)
             self._send_json(200, response)
+
+        except ValueError as e:
+            self._send_json(400, {"error": str(e)})
 
         except Exception as e:  # noqa: BLE001 - always want JSON back, never a raw 500 page
             self._send_json(500, {"error": str(e)})
