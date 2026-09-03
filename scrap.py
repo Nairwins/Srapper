@@ -466,26 +466,19 @@ def main():
 
     tenants_file = None if SOURCE == "default" else SOURCE
 
-    if SCRAPER in ("workday", "all"):
-        print("=" * 90)
-        print("RUNNING WORKDAY SCRAPER")
-        print("=" * 90)
-        run_scraper(workdscrap, tenants_file=tenants_file)
-        print()
-
-    if SCRAPER in ("greenhouse", "all"):
-        print("=" * 90)
-        print("RUNNING GREENHOUSE SCRAPER")
-        print("=" * 90)
-        run_scraper(greenscrap, tenants_file=tenants_file)
-        print()
-
     if SCRAPER in ("ashby", "all"):
         print("=" * 90)
         print("RUNNING ASHBY SCRAPER")
         print("=" * 90)
         run_scraper(ashscrap, tenants_file=tenants_file)
         print()
+
+    if SCRAPER in ("greenhouse", "all"):
+            print("=" * 90)
+            print("RUNNING GREENHOUSE SCRAPER")
+            print("=" * 90)
+            run_scraper(greenscrap, tenants_file=tenants_file)
+            print()
 
     if SCRAPER in ("lever", "all"):
         print("=" * 90)
@@ -520,6 +513,14 @@ def main():
         print("RUNNING PERSONIO SCRAPER")
         print("=" * 90)
         run_scraper(personioscrap, tenants_file=tenants_file)
+        print()
+
+    
+    if SCRAPER in ("workday", "all"):
+        print("=" * 90)
+        print("RUNNING WORKDAY SCRAPER")
+        print("=" * 90)
+        run_scraper(workdscrap, tenants_file=tenants_file)
         print()
 
 
