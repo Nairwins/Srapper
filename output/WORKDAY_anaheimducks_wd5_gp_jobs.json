@@ -1,0 +1,62 @@
+[
+    {
+        "company": "anaheimducks",
+        "title": "Cook",
+        "url": "https://anaheimducks.wd5.myworkdayjobs.com/gp/job/Irvine/Cook_R-2026-309-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Irvine"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "anaheimducks",
+        "title": "Girls Hockey Development Coordinator",
+        "url": "https://anaheimducks.wd5.myworkdayjobs.com/gp/job/Irvine/Girls-Hockey-Development-Coordinator_R-2026-376-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Irvine"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "anaheimducks",
+        "title": "F&B Attendant, GPI",
+        "url": "https://anaheimducks.wd5.myworkdayjobs.com/gp/job/Irvine/F-B-Attendant--GPI_R-2026-367",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Irvine"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "anaheimducks",
+        "title": "Hockey Instructor, Level 1",
+        "url": "https://anaheimducks.wd5.myworkdayjobs.com/gp/job/Irvine/Hockey-Instructor--Level-1_R-2026-327-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Irvine"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "anaheimducks",
+        "title": "Cashier",
+        "url": "https://anaheimducks.wd5.myworkdayjobs.com/gp/job/Irvine/Cashier_R-2026-332-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Irvine"
+            }
+        ],
+        "date": "30+"
+    }
+]

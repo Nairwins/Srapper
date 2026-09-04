@@ -1,0 +1,74 @@
+[
+    {
+        "company": "bowens",
+        "title": "Transport Administrator",
+        "url": "https://bowens.wd105.myworkdayjobs.com/tt/job/Corio/Transport-Administrator_JR1000557",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Corio"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bowens",
+        "title": "Estimating Team Leader",
+        "url": "https://bowens.wd105.myworkdayjobs.com/tt/job/Corio/Estimating-Team-Leader_JR1000556",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Corio"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bowens",
+        "title": "Production Worker",
+        "url": "https://bowens.wd105.myworkdayjobs.com/tt/job/Corio/Production-Worker_JR1000554",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Corio"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bowens",
+        "title": "Administration Assistant/Reception",
+        "url": "https://bowens.wd105.myworkdayjobs.com/tt/job/Corio/Administration-Assistant-Reception_JR1000546",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Corio"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "bowens",
+        "title": "Truck Driver",
+        "url": "https://bowens.wd105.myworkdayjobs.com/tt/job/Corio/Truck-Driver_JR1000545",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Corio"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "bowens",
+        "title": "Maintenance Fitter - Night Shift",
+        "url": "https://bowens.wd105.myworkdayjobs.com/tt/job/Corio/Maintenance-Fitter---Night-Shift_JR1000510",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Corio"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "company": "alliander",
+        "title": "Aankomend Elektromonteur",
+        "url": "https://alliander.wd3.myworkdayjobs.com/privelink/job/TIEL/Aankomend-Elektromonteur_JR08349",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Tiel"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "alliander",
+        "title": "Talent Sourcer Techniek",
+        "url": "https://alliander.wd3.myworkdayjobs.com/privelink/job/ARNHEM/Talent-Sourcer-Techniek_JR19349-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Arnhem"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "alliander",
+        "title": "Technisch specialist gas",
+        "url": "https://alliander.wd3.myworkdayjobs.com/privelink/job/DUIVEN/Technisch-specialist-gas_JR18788-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "DUIVEN"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "alliander",
+        "title": "Medewerker Projectbeheersing",
+        "url": "https://alliander.wd3.myworkdayjobs.com/privelink/job/DUIVEN/Medewerker-Projectbeheersing_JR12120-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "DUIVEN"
+            }
+        ],
+        "date": "30+"
+    }
+]

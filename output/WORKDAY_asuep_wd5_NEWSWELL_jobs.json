@@ -1,0 +1,102 @@
+[
+    {
+        "company": "asuep",
+        "title": "Fall intern, NEWSWELL Chicago",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/IL-Oak-Park/Student-experiences-director--NEWSWELL-Intern_R1464",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    },
+    {
+        "company": "asuep",
+        "title": "Fall intern, NEWSWELL Times of San Diego",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/San-Diego-CA/Fall-intern--NEWSWELL-Times-of-San-Diego_R1462",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    },
+    {
+        "company": "asuep",
+        "title": "Digital News Student Worker",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/AZ-Remote/Digital-News-Student-Worker_R1450",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ],
+        "remote": true
+    },
+    {
+        "company": "asuep",
+        "title": "Audience Manager",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/IL-Oak-Park/Audience-Manager_R1444",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    },
+    {
+        "company": "asuep",
+        "title": "General Manager, Stockton/San Joaquin County",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/Stockton-CA/General-Manager--Stockton-San-Joaquin-County_R1443",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    },
+    {
+        "company": "asuep",
+        "title": "Business Reporter",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/CA-Santa-Barbara/Business-Reporter_R1440",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    },
+    {
+        "company": "asuep",
+        "title": "Climate, Environment & Water Reporter",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/CA-Santa-Barbara/Climate--Environment---Water-Reporter_R1439",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    },
+    {
+        "company": "asuep",
+        "title": "Staff Reporter - Wednesday Journal",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/IL-Oak-Park/Staff-Reporter---Wednesday-Journal_R1412",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    },
+    {
+        "company": "asuep",
+        "title": "Executive Editor - NEWSWELL Chicago",
+        "url": "https://asuep.wd5.myworkdayjobs.com/NEWSWELL/job/IL-Oak-Park/Executive-Editor---NEWSWELL-Chicago_R1408",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Newswell"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "company": "aliaxis",
+        "title": "Maintenance Supervisor",
+        "url": "https://aliaxis.wd3.myworkdayjobs.com/canplas/job/CA---Patterson---Plant-MOLD/Maintenance-Supervisor_R-57674-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ca Patterson Plant"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aliaxis",
+        "title": "Millwright",
+        "url": "https://aliaxis.wd3.myworkdayjobs.com/canplas/job/CA---Patterson---Plant-MOLD/Millwright_R-55003",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ca Patterson Plant"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aliaxis",
+        "title": "Customer Service Representative",
+        "url": "https://aliaxis.wd3.myworkdayjobs.com/canplas/job/CA---Edmonton-Canplas---Office/Customer-Service-Representative---Reprsentante-du-service-clientle_R-54883-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "aliaxis",
+        "title": "Manufacturing Engineer",
+        "url": "https://aliaxis.wd3.myworkdayjobs.com/canplas/job/CA---Patterson---Plant-MOLD/Manufacturing-Engineer_R-57058",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "CA - Patterson - Plant (MOLD)"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aliaxis",
+        "title": "Sales Representative - Ventilation, Calgary",
+        "url": "https://aliaxis.wd3.myworkdayjobs.com/canplas/job/CA---Calgary---Office/Sales-Representative---Ventilation--British-Columbia---Reprsentant-commercial--produits-de-ventilation---CB_R-56661-3",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aliaxis",
+        "title": "Warehouse Worker - Student",
+        "url": "https://aliaxis.wd3.myworkdayjobs.com/canplas/job/CA---Edmonton---Distribution/Warehouse-Worker---Student_R-56452-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "company": "burnesspaull",
+        "title": "Legal PA | Corporate and Commercial",
+        "url": "https://burnesspaull.wd3.myworkdayjobs.com/our-vacancies/job/Glasgow/Legal-PA---Corporate-and-Commercial_JR100239",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Glasgow"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "burnesspaull",
+        "title": "Front of House | Facilities",
+        "url": "https://burnesspaull.wd3.myworkdayjobs.com/our-vacancies/job/Edinburgh/Front-of-House---Facilities_JR100256",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Edinburgh"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "burnesspaull",
+        "title": "Knowledge & Development Lawyer | Funds",
+        "url": "https://burnesspaull.wd3.myworkdayjobs.com/our-vacancies/job/Edinburgh/Knowledge---Development-Lawyer---Funds_JR100247",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Edinburgh"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "burnesspaull",
+        "title": "Business Development Executive (Strategic Relationships)",
+        "url": "https://burnesspaull.wd3.myworkdayjobs.com/our-vacancies/job/Aberdeen/Strategic-Relationships-Executive---Business-Development---Marketing_JR100243",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Aberdeen"
+            }
+        ],
+        "date": 9
+    }
+]

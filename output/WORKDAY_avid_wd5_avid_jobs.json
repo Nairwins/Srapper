@@ -1,0 +1,525 @@
+[
+    {
+        "company": "avid",
+        "title": "Learning Content Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Learning-Content-Specialist_PR00006513",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "avid",
+        "title": "Sr. Paid Media Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Canada/Sr-Paid-Media-Manager_PR00006535",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "avid",
+        "title": "Sr Director, Finance Systems",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/United-States-of-America/Sr-Director--Finance-Systems_PR00006520",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States Of"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "avid",
+        "title": "Enterprise Customer Success Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Remote---Massachusetts/Enterprise-Customer-Success-Manager_PR00006349",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Massachusetts"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "avid",
+        "title": "Senior Salesforce Platform Engineer (B2B)",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/India/Senior-Salesforce-Platform-Engineer--B2B-_PR00006415",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "avid",
+        "title": "Strategic Account Manager (East Coast)",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/United-States-of-America/Strategic-Account-Manager--East-Coast-_PR00006466",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "avid",
+        "title": "Legal Operations Coordinator",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Legal-Operations-Coordinator_PR00006441",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "avid",
+        "title": "Legal Operations Generalist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Legal-Operations-Generalist_PR00006448",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "avid",
+        "title": "Legal Operations Generalist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Legal-Operations-Generalist_PR00006451-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "avid",
+        "title": "Technical Support Engineer I",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Technical-Support-Engineer-I_PR00006150",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "avid",
+        "title": "RMA Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/RMA-Specialist_PR00006177-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "avid",
+        "title": "Financial Analyst II",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Financial-Analyst-II_PR00006528",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "avid",
+        "title": "Customer Care Specialist I",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Customer-Care-Specialist-I_PR00006104",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "avid",
+        "title": "Accounting & Treasury Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/United-States-of-America/Accounting---Treasury-Manager_PR00006507",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "avid",
+        "title": "EMEA Benefits Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Remote---Poland/EMEA-Benefits-Specialist_PR00006502",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Poland"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "avid",
+        "title": "GRC Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/GRC-Specialist_PR00006499",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Procurement Analyst",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Procurement-Analyst_PR00006516",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Digital Customer Success Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Digital-Customer-Success-Manager_PR00006383",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Financial Systems Administrator",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Financial-Systems-Administrator_PR00006492",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Enterprise Customer Success Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Great-Britain/Enterprise-Customer-Success-Manager_PR00006350",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Senior Enterprise Customer Success Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Dubai/Senior-Enterprise-Customer-Success-Manager_PR00006351",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Arab Emirates",
+                "city": "Dubai"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Introduce Yourself!",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Introduce-Yourself-_PR00006179",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PR00006179"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Site Reliability Engineer",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Site-Reliability-Engineer_PR00006186",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Learning Content Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Learning-Content-Specialist_PR00006513",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "avid",
+        "title": "Sr. Paid Media Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Canada/Sr-Paid-Media-Manager_PR00006535",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "avid",
+        "title": "Sr Director, Finance Systems",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/United-States-of-America/Sr-Director--Finance-Systems_PR00006520",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States Of"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "avid",
+        "title": "Enterprise Customer Success Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Remote---Massachusetts/Enterprise-Customer-Success-Manager_PR00006349",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Massachusetts"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "avid",
+        "title": "Senior Salesforce Platform Engineer (B2B)",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/India/Senior-Salesforce-Platform-Engineer--B2B-_PR00006415",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "avid",
+        "title": "Strategic Account Manager (East Coast)",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/United-States-of-America/Strategic-Account-Manager--East-Coast-_PR00006466",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "avid",
+        "title": "Legal Operations Coordinator",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Legal-Operations-Coordinator_PR00006441",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "avid",
+        "title": "Legal Operations Generalist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Legal-Operations-Generalist_PR00006448",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "avid",
+        "title": "Legal Operations Generalist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Legal-Operations-Generalist_PR00006451-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "avid",
+        "title": "Technical Support Engineer I",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Technical-Support-Engineer-I_PR00006150",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "avid",
+        "title": "RMA Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/RMA-Specialist_PR00006177-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "avid",
+        "title": "Financial Analyst II",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Financial-Analyst-II_PR00006528",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "avid",
+        "title": "Customer Care Specialist I",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Manila/Customer-Care-Specialist-I_PR00006104",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Manila"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "avid",
+        "title": "Accounting & Treasury Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/United-States-of-America/Accounting---Treasury-Manager_PR00006507",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "avid",
+        "title": "EMEA Benefits Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Remote---Poland/EMEA-Benefits-Specialist_PR00006502",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Poland"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "avid",
+        "title": "GRC Specialist",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/GRC-Specialist_PR00006499",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Procurement Analyst",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Procurement-Analyst_PR00006516",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Digital Customer Success Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Digital-Customer-Success-Manager_PR00006383",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Financial Systems Administrator",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Philippines/Financial-Systems-Administrator_PR00006492",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "avid",
+        "title": "Enterprise Customer Success Manager",
+        "url": "https://avid.wd5.myworkdayjobs.com/avid/job/Great-Britain/Enterprise-Customer-Success-Manager_PR00006350",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom"
+            }
+        ],
+        "date": "30+"
+    }
+]

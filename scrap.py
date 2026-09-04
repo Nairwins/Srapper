@@ -27,7 +27,7 @@ from scrappy import personioscrap
 # ============================================================
 
 # Options: "workday", "greenhouse", "ashby", "lever", "bamboohr", "workable", "recruitee", "personio", or "all"
-SCRAPER = "all"
+SCRAPER = "workday"
 SOURCE = "default"  # "default" = module's own tenants file, or path to a custom tenants JSON file
 
 CPU_COUNT = os.cpu_count() or 2
@@ -62,6 +62,7 @@ class StatusDisplay:
 
         self.completed = 0
         self.failed = 0
+        self.empty = 0
         self.total_jobs = 0
 
         self._live = Live(
@@ -94,13 +95,16 @@ class StatusDisplay:
 
         self._live.update(table, refresh=True)
 
-    def finish(self, key, count, failed=False):
+    def finish(self, key, count, failed=False, empty=False):
         with self.lock:
             self.tenants.pop(key, None)
             self.completed += 1
 
             if failed:
                 self.failed += 1
+
+            if empty:
+                self.empty += 1
 
             self.total_jobs += count
             table = self._render()
@@ -115,6 +119,7 @@ class StatusDisplay:
                 f"Active: {len(self.tenants)}/{MAX_WORKERS}    "
                 f"Completed: {self.completed}/{self.total_tenants}    "
                 f"Failed: {self.failed}    "
+                f"Empty: {self.empty}    "
                 f"Jobs: {self.total_jobs}"
             ),
             expand=True,
@@ -154,6 +159,15 @@ class StatusDisplay:
 def save_jobs(jobs, output_file):
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(jobs, f, indent=4, ensure_ascii=False)
+
+
+def output_path(module, tenant_info, output_dir=OUTPUT_DIR):
+    """Return a collision-free file path for one configured ATS site."""
+    label = tenant_info["label"]
+    wd = tenant_info.get("wd", "")
+    site = tenant_info.get("site", "")
+    safe_site = re.sub(r"[^A-Za-z0-9._-]+", "_", site)
+    return os.path.join(output_dir, f"{module.NAME}_{label}_{wd}_{safe_site}_jobs.json")
 
 
 # ============================================================
@@ -232,6 +246,79 @@ def flush_chunk(files, chunk_index, output_dir=OUTPUT_DIR):
     return len(all_jobs)
 
 
+def merge_company_files(module, tenants, output_dir=OUTPUT_DIR):
+    """Merge per-site files into one deduplicated file per company label."""
+    grouped = {}
+    for tenant_info in tenants:
+        path = output_path(module, tenant_info, output_dir)
+        grouped.setdefault(tenant_info["label"], []).append(path)
+
+    merged_files = []
+    for label, paths in grouped.items():
+        jobs_by_url = {}
+        merged_path = os.path.join(output_dir, f"{module.NAME}_{label}_jobs.json")
+        for path in paths:
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    jobs = json.load(f)
+            except (OSError, ValueError) as e:
+                print(f"  WARNING: skipped {path}: {e}")
+                continue
+
+            if not isinstance(jobs, list):
+                print(f"  WARNING: skipped {path}: not a JSON list")
+                continue
+
+            for job in jobs:
+                key = job.get("url") if isinstance(job, dict) else None
+                if key is None:
+                    key = json.dumps(job, sort_keys=True, ensure_ascii=False)
+                jobs_by_url.setdefault(key, job)
+
+        if not jobs_by_url:
+            try:
+                os.remove(merged_path)
+            except OSError:
+                pass
+            continue
+
+        save_jobs(list(jobs_by_url.values()), merged_path)
+        merged_files.append(merged_path)
+
+        for path in paths:
+            try:
+                os.remove(path)
+            except OSError:
+                pass
+
+    return merged_files
+
+
+def chunk_files(files, chunk_index, output_dir=OUTPUT_DIR, chunk_job_cap=CHUNK_JOB_CAP):
+    """Chunk whole company files, allowing an oversized company chunk."""
+    pending_files = []
+    pending_jobs = 0
+
+    for path in files:
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                job_count = len(json.load(f))
+        except (OSError, ValueError):
+            continue
+
+        if pending_files and pending_jobs + job_count > chunk_job_cap:
+            flush_chunk(pending_files, chunk_index, output_dir)
+            chunk_index += 1
+            pending_files = []
+            pending_jobs = 0
+
+        pending_files.append(path)
+        pending_jobs += job_count
+
+    if pending_files:
+        flush_chunk(pending_files, chunk_index, output_dir)
+
+
 def merge_leftover_files(output_dir=OUTPUT_DIR, chunk_job_cap=CHUNK_JOB_CAP):
     """Sweep up any *_jobs.json files not yet folded into a chunk.
     Handy as a final pass after running scrapers, or standalone."""
@@ -278,11 +365,7 @@ def scrape_tenant(module, tenant_info, display, output_dir=OUTPUT_DIR):
     key = tenant_info["key"]
     label = tenant_info["label"]
 
-    # Namespaced by platform (module.NAME) so two different ATS scrapers
-    # can never collide on the same output filename. Without this, an
-    # empty/failed result from scraper B for a label already written by
-    # scraper A would delete A's real output (see "if not all_jobs" below).
-    output_file = os.path.join(output_dir, f"{module.NAME}_{label}_jobs.json")
+    output_file = output_path(module, tenant_info, output_dir)
 
     display.update(key, label, collected=0, total=None, offset=0, state="RUNNING")
 
@@ -330,7 +413,7 @@ def scrape_tenant(module, tenant_info, display, output_dir=OUTPUT_DIR):
         except OSError:
             pass
 
-    display.finish(key, len(all_jobs), failed=(len(all_jobs) == 0))
+    display.finish(key, len(all_jobs), empty=(len(all_jobs) == 0))
     return len(all_jobs)
 
 
@@ -377,10 +460,6 @@ def run_scraper(module, tenants_file=None, output_dir=OUTPUT_DIR):
                 for tenant_info in tenants
             }
 
-            chunk_index = _next_chunk_index(output_dir)
-            pending_files = []
-            pending_job_count = 0
-
             for future in as_completed(futures):
                 tenant_info = futures[future]
                 key = tenant_info["key"]
@@ -394,19 +473,13 @@ def run_scraper(module, tenants_file=None, output_dir=OUTPUT_DIR):
 
                 summary[label] = count
 
-                output_file = os.path.join(output_dir, f"{module.NAME}_{label}_jobs.json")
-                if CHUNKING_ENABLED and count > 0 and os.path.exists(output_file):
-                    pending_files.append(output_file)
-                    pending_job_count += count
-
-                if CHUNKING_ENABLED and pending_job_count >= CHUNK_JOB_CAP:
-                    flush_chunk(pending_files, chunk_index, output_dir)
-                    chunk_index += 1
-                    pending_files = []
-                    pending_job_count = 0
-
-            if CHUNKING_ENABLED and pending_files:
-                flush_chunk(pending_files, chunk_index, output_dir)
+            merged_files = merge_company_files(module, tenants, output_dir)
+            if CHUNKING_ENABLED:
+                chunk_files(
+                    merged_files,
+                    _next_chunk_index(output_dir),
+                    output_dir,
+                )
     finally:
         display.stop()
 

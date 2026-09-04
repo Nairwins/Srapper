@@ -25,8 +25,8 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; job-research-script/1.0)"
 }
 
-MAX_RETRIES = 5
-RETRY_BACKOFF_SECONDS = 5.0
+MAX_RETRIES = 3
+RETRY_BACKOFF_SECONDS = 3.0
 
 
 # ============================================================

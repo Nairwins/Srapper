@@ -1,0 +1,681 @@
+[
+    {
+        "company": "acxiomllc",
+        "title": "Decision Support Analyst",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---Conway/Decision-Support-Analyst_JR014487",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Homebased - Conway"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP Client Partner",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/VP-Client-Partner_JR014456",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP, Enterprise Solutions for NEW LOGO",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Director--Enterprise-Solutions-for-NEW-LOGO_JR014356",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 2,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Partnership Lead, Digital Measurement Solutions",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---Conway/Partnership-Lead--Digital-Measurement-Solutions_JR014470",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Homebased - Conway"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Chief of Staff",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Chief-of-Staff_JR014467",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 2,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Senior Commercial Counsel",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Senior-Commercial-Counsel_JR014454",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 7,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Expert Contract Development Manager",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Expert-Contract-Development-Manager_JR014452-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Vice President - Client Success",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Conway/Vice-President---Client-Success_JR014406",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Conway"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Data Scientist Adobe",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Data-Scientist-Adobe_JR014440",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 9,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Client Service Manager (Healthcare and Insurance)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Client-Service-Manager--Healthcare-and-Insurance-_JR014439-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 9,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Expert Product Manager – Acxiom Real Identity Cloud-Native Applications",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Expert-Product-Manager---Acxiom-Real-Identity-Cloud-Native-Applications_JR014432",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 9,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Enterprise Architect (Adobe Practice)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Enterprise-Architect--Adobe-Practice-_JR014442",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 10,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Solution Architect Senior Director (Databricks)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Principal-Architect-Solution-Architect-Senior-Director--Databricks-_JR014145",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 10,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Solution Architect Director",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Solution-Architect-Senior-Director_JR014395",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Consultant/Agentic Marketing Execution and Workflow Tool Development",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/Consultant-Agentic-Marketing-Execution-and-Workflow-Tool-Development_JR014430-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Sr Consultant/Principal Affiliate Marketing Program Manager",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/Sr-Consultant-Principal-Affiliate-Marketing-Program-Manager_JR014429-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Director, Travel & Hospitality (Adtech & Martech)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Director--Travel---Hospitality_JR014389",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 22,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Senior Data Analyst",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Senior-Data-Analyst_JR014343-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 24,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Senior Financial Analyst",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Conway/Senior-Financial-Analyst_JR014405",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Conway"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Data Guru Partner Manager",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---New-York/Data-Gura-Partner-Development--Manager_JR014378",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Principal Integration Architect",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Expert-Integration-Architect_JR014175",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 28,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Senior Revenue Operations and Enablement",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Conway/Senior-Revenue-Operations-and-Enablement_JR014402",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Conway"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP, CONSUMER STRATEGIST",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Conway/VP--CONSUMER-STRATEGIST_JR014370",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Conway"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP, Industry Consultant",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---New-York/VP--Industry-Consultant_JR014363",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Associate Director, Industry Strategy",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---New-York/Associate-Director--Industry-Strategy_JR014365",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP/SVP/EVP, Strategy",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/VP-SVP-EVP--Strategy_JR014360",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP,  Industry Strategy",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---New-York/VP---Industry-Strategy_JR014364",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Sales Data Operations",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Sales-Business-Support_JR014315",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Partner Marketing",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Partner-Marketing_JR014320",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Campaign Strategist",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Campaign-Strategist_JR014321",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Principal Architect (Snowflake)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Principal-Architect--Snowflake-_JR014144",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Principal Marketo Consultant (Adobe Practice)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Principal-Marketo-Consultant--Adobe-Practice-_JR013815",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Principal Workfront Consultant (Remote)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Principal-Workfront-Consultant--Remote-_JR012970-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Decision Support Analyst",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---Conway/Decision-Support-Analyst_JR014487",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Homebased - Conway"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP Client Partner",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/VP-Client-Partner_JR014456",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "acxiomllc",
+        "title": "VP, Enterprise Solutions for NEW LOGO",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Director--Enterprise-Solutions-for-NEW-LOGO_JR014356",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 2,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Partnership Lead, Digital Measurement Solutions",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---Conway/Partnership-Lead--Digital-Measurement-Solutions_JR014470",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Homebased - Conway"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Chief of Staff",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Chief-of-Staff_JR014467",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 2,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Senior Commercial Counsel",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Senior-Commercial-Counsel_JR014454",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 7,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Expert Contract Development Manager",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Expert-Contract-Development-Manager_JR014452-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Vice President - Client Success",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Conway/Vice-President---Client-Success_JR014406",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Conway"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Data Scientist Adobe",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Data-Scientist-Adobe_JR014440",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 9,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Client Service Manager (Healthcare and Insurance)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Client-Service-Manager--Healthcare-and-Insurance-_JR014439-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 9,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Expert Product Manager – Acxiom Real Identity Cloud-Native Applications",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Expert-Product-Manager---Acxiom-Real-Identity-Cloud-Native-Applications_JR014432",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 9,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Enterprise Architect (Adobe Practice)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Enterprise-Architect--Adobe-Practice-_JR014442",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 10,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Solution Architect Senior Director (Databricks)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Principal-Architect-Solution-Architect-Senior-Director--Databricks-_JR014145",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 10,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Solution Architect Director",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Solution-Architect-Senior-Director_JR014395",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Consultant/Agentic Marketing Execution and Workflow Tool Development",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/Consultant-Agentic-Marketing-Execution-and-Workflow-Tool-Development_JR014430-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Sr Consultant/Principal Affiliate Marketing Program Manager",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/Sr-Consultant-Principal-Affiliate-Marketing-Program-Manager_JR014429-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Director, Travel & Hospitality (Adtech & Martech)",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Director--Travel---Hospitality_JR014389",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 22,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Senior Data Analyst",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Senior-Data-Analyst_JR014343-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote/Homebased"
+            }
+        ],
+        "date": 24,
+        "remote": true
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Senior Financial Analyst",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Conway/Senior-Financial-Analyst_JR014405",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Conway"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "acxiomllc",
+        "title": "Data Guru Partner Manager",
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Homebased---New-York/Data-Gura-Partner-Development--Manager_JR014378",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 27
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "company": "abinbev",
+        "title": "Technical Trainee: Quality",
+        "url": "https://abinbev.wd1.myworkdayjobs.com/nga/job/Sagamu-Brewery---NIGERIA/Technical-Trainee--Quality_30103137",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Nigeria",
+                "city": "Sagamu Brewery - NIGERIA"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "abinbev",
+        "title": "Shared Site Training Controller",
+        "url": "https://abinbev.wd1.myworkdayjobs.com/nga/job/Sagamu-Brewery---NIGERIA/Shared-Site-Training-Controller_30103090",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Nigeria",
+                "city": "Sagamu Brewery - NIGERIA"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "abinbev",
+        "title": "Logistics Technical Trainee",
+        "url": "https://abinbev.wd1.myworkdayjobs.com/nga/job/Nigeria-Default-Location/Logistics-Technical-Trainee_30053037",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Nigeria",
+                "city": "Nigeria Default Location"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "company": "angc",
+        "title": "LCI - Line Cook",
+        "url": "https://angc.wd5.myworkdayjobs.com/lci/job/LCI---Line-Cook_R11816",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R11816"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "angc",
+        "title": "LCI - Pastry Cook",
+        "url": "https://angc.wd5.myworkdayjobs.com/lci/job/LCI---Pastry-Cook_R11817",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R11817"
+            }
+        ],
+        "date": 2
+    }
+]

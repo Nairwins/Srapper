@@ -1,0 +1,147 @@
+[
+    {
+        "company": "benchmade",
+        "title": "Customer Experience Rep (Seasonal)",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Customer-Experience-Rep--Seasonal-_JR100076",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "benchmade",
+        "title": "Product Services Tech - Swing Shift",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Product-Services-Tech---Swing-Shift_JR100075",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "benchmade",
+        "title": "Machining Tech - Swing Shift",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Machining-Tech---Swing-Shift_JR100072-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "benchmade",
+        "title": "Brand Marketing Coordinator",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Brand-Marketing-Coordinator_JR100074",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "benchmade",
+        "title": "Machining Tech - Grave Shift",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Machining-Tech---Grave-Shift_JR100071-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "benchmade",
+        "title": "Customer Experience Representative",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Customer-Experience-Representative_JR100051",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "benchmade",
+        "title": "Retail Store Associate - Part Time",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Retail-Store-Associate---Part-Time_JR100070",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "benchmade",
+        "title": "Director, Commercial & Specialty Sales",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-Remote/Director--Commercial---Specialty-Sales_JR100069",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Oregon Remote"
+            }
+        ],
+        "date": 23,
+        "remote": true
+    },
+    {
+        "company": "benchmade",
+        "title": "Automation & Robotics Engineer II",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Automation---Robotics-Engineer-II_JR100063",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmade",
+        "title": "Production Tech - Swing Shift",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Production-Tech---Swing-Shift_JR100023",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmade",
+        "title": "Production Tech - Grave Shift",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Production-Tech---Grave-Shift_JR100022",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmade",
+        "title": "Parts Warehouse Material Handling Tech - Graveyard Shift",
+        "url": "https://benchmade.wd503.myworkdayjobs.com/benchmade/job/Oregon-City-HQ/Material-Handling-Tech---Graveyard-Shift_JR100044",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oregon City HQ"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "company": "alliantgroup",
+        "title": "Associate Attorney",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Associate-Attorney_JR101942-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Litigation Attorney",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Litigation-Attorney_JR101964",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Associate Consultant",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Associate-Consultant_JR101958",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Full Stack Developer",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Full-Stack-Developer_JR101840-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Senior Associate",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Remote---USA/Senior-Associate_JR101726",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Associate Attorney",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Associate-Attorney_JR101571",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Analyst",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Project-Analyst_JR101463",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Office Services Associate",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Office-Services-Associate_JR101069-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Associate Attorney",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Associate-Attorney_JR100730",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "alliantgroup",
+        "title": "Project Manager",
+        "url": "https://alliantgroup.wd1.myworkdayjobs.com/usalliant/job/Houston-TX/Project-Manager_JR100448",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": "30+"
+    }
+]

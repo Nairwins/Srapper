@@ -1,0 +1,28 @@
+[
+    {
+        "company": "aamc",
+        "title": "Executive Operations Specialist",
+        "url": "https://aamc.wd5.myworkdayjobs.com/aamc/job/Washington-DC/Executive-Operations-Specialist_10009415-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington DC"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aamc",
+        "title": "Senior Contact Center Associate",
+        "url": "https://aamc.wd5.myworkdayjobs.com/aamc/job/Washington-DC/Senior-Contact-Center-Associate_10009414",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington DC"
+            }
+        ],
+        "date": 2
+    }
+]

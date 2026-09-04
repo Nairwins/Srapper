@@ -1,0 +1,41 @@
+[
+    {
+        "company": "bdx",
+        "title": "Field Sales and Service Engineer, Biosciences",
+        "url": "https://bdx.wd1.myworkdayjobs.com/external_career_site_philippines/job/PHL-Manila---Taguig-City/Field-Sales-and-Service-Engineer--Biosciences_R-550976-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines",
+                "city": "PHL Manila - Taguig City"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bdx",
+        "title": "Clinical Sales Specialist, Life Sciences (Luzon)",
+        "url": "https://bdx.wd1.myworkdayjobs.com/external_career_site_philippines/job/PHL-Manila---Taguig-City/Clinical-Sales-Specialist--Life-Sciences--Luzon-_R-554395",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Philippines",
+                "city": "PHL Manila - Taguig City"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bdx",
+        "title": "Key Account Manager, PI (Evergreen)",
+        "url": "https://bdx.wd1.myworkdayjobs.com/external_career_site_philippines/job/PHL-Manila---Taguig-City/Key-Account-Manager--PI--Evergreen-_R-553302",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Philippines",
+                "city": "PHL Manila - Taguig City"
+            }
+        ],
+        "date": 3
+    }
+]

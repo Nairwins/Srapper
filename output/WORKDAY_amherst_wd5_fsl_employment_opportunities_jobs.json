@@ -1,0 +1,38 @@
+[
+    {
+        "company": "amherst",
+        "title": "Eric Weinmann Head of Conservation and Preservation",
+        "url": "https://amherst.wd5.myworkdayjobs.com/fsl_employment_opportunities/job/Folger-Campus/Eric-Weinmann-Head-of-Conservation-and-Preservation_JR7274",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Folger Campus"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "amherst",
+        "title": "Scholarly Programs Intern",
+        "url": "https://amherst.wd5.myworkdayjobs.com/fsl_employment_opportunities/job/Folger-Campus/Scholarly-Programs-Intern_JR7256-1",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Folger Campus"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "amherst",
+        "title": "Part Time Security Officer",
+        "url": "https://amherst.wd5.myworkdayjobs.com/fsl_employment_opportunities/job/Folger-Campus/Part-Time-Security-Officer_JR5576",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Folger Campus"
+            }
+        ],
+        "date": "30+"
+    }
+]

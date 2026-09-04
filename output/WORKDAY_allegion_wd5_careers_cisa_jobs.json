@@ -1,0 +1,28 @@
+[
+    {
+        "company": "allegion",
+        "title": "Electromechanical technician Junior",
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers_cisa/job/Faenza-Italy---Via-Oberdan/Test-laboratory-technician-Junior_JR37019",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Italy",
+                "city": "Faenza"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "allegion",
+        "title": "Electromechanical test & Validation Technician",
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers_cisa/job/Faenza-Italy---Via-Oberdan/Test-Laboratory-Technician_JR37020",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Italy",
+                "city": "Faenza"
+            }
+        ],
+        "date": 0
+    }
+]

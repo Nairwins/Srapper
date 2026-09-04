@@ -1,0 +1,28 @@
+[
+    {
+        "company": "bird",
+        "title": "Field Operations Manager",
+        "url": "https://bird.wd3.myworkdayjobs.com/nasoncareers/job/Edmonton-AB/Field-Operations-Manager_JR-8673-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bird",
+        "title": "Project Manager",
+        "url": "https://bird.wd3.myworkdayjobs.com/nasoncareers/job/Montreal-QC/Project-Manager_JR-7346",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    }
+]

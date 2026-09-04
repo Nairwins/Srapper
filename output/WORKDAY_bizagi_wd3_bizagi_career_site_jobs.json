@@ -1,0 +1,124 @@
+[
+    {
+        "company": "bizagi",
+        "title": "Digital Transformation engineer - Automatizador Bizagi",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota---Torre-B/Digital-Transformation-engineer---Automatizador-Bizagi_JR741",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota - Torre B"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bizagi",
+        "title": "Full Stack Engineer (C#, Python, JavaScript & Azure) – Intelligent Automation & Product Features",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/Full-Stack-Engineer--C---Python--JavaScript---Azure----Intelligent-Automation---Product-Features_JR740",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bizagi",
+        "title": "Legal Counsel",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/United-States-Remote/Legal-Counsel_JR733",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States (Remote)"
+            }
+        ],
+        "date": 30,
+        "remote": true
+    },
+    {
+        "company": "bizagi",
+        "title": "Intern / Sena IT",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/Intern---Sena-IT_JR675",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bizagi",
+        "title": "AI‑First Full Stack Developer (.NET / Angular / Azure)",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/Fullstack-Developer_JR676-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bizagi",
+        "title": "Support Engineer L1",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/Support-Engineer-L1_JR704",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bizagi",
+        "title": "Cross Platform Automation Engineer",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/Cross-Platform-Automation-Engineer_JR691",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bizagi",
+        "title": "Associate technical Writer",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/Associate-technical-Writer_JR690-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bizagi",
+        "title": "QA Engineer",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/QA-Engineer_JR679-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bizagi",
+        "title": "HR Trainee",
+        "url": "https://bizagi.wd3.myworkdayjobs.com/bizagi_career_site/job/Bogota/HR-Trainee_JR616",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Bogota"
+            }
+        ],
+        "date": "30+"
+    }
+]

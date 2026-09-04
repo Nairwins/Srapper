@@ -1,0 +1,127 @@
+[
+    {
+        "company": "aesseal",
+        "title": "Mechanical Seal Design Technical Engineer",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Odessa---OFFICE/Mechanical-Seal-Design-Technical-Engineer_R-100181",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Odessa - OFFICE"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aesseal",
+        "title": "CNC Machinist",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Rockford---OFFICE/CNC-Machinist_R-100180",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Rockford - OFFICE"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aesseal",
+        "title": "Customer Service Representative- Branch Office",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Cedar-Rapids---OFFICE/Customer-Service-Representative--Branch-Office_R-100178",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Cedar Rapids - OFFICE"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "aesseal",
+        "title": "Warehouse Representative",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Mukilteo---OFFICE/Warehouse-Representative_R-100173",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Mukilteo - OFFICE"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "aesseal",
+        "title": "Service Technician",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Savannah---OFFICE/Service-Technician_R-100170",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Savannah - OFFICE"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aesseal",
+        "title": "Customer Service Representative",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Rockford---OFFICE/Customer-Service-Representative_R-100165",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Rockford - OFFICE"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aesseal",
+        "title": "Vibration Field Technician",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Remote---NV/Vibration-Field-Technician_R-100162",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NV"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "aesseal",
+        "title": "Branch Manager (Sales-Focused)",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Sarnia---OFFICE/Branch-Manager--Sales-Focused-_R-100118",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Sarnia - OFFICE"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aesseal",
+        "title": "Business Development Representative - HIRING for MULTIPLE LOCATIONS!",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Remote---North-America/Business-Development-Representative_R-100074-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "North America"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "aesseal",
+        "title": "Senior Sales Executive - HIRING for MULTIPLE LOCATIONS!",
+        "url": "https://aesseal.wd108.myworkdayjobs.com/aesseal_careers/job/Remote---North-America/Senior-Sales-Executive_R-100094",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "North America"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

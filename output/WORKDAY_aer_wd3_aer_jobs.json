@@ -1,0 +1,39 @@
+[
+    {
+        "company": "aer",
+        "title": "Inspector, Field Operations, Oil & Gas Production",
+        "url": "https://aer.wd3.myworkdayjobs.com/aer/job/Fort-McMurray/Inspector--Field-Operations--Oil---Gas-Production_R4128-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Fort McMurray"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "aer",
+        "title": "Inspector, Drilling and Servicing  ",
+        "url": "https://aer.wd3.myworkdayjobs.com/aer/job/Drayton-Valley/Inspector--Drilling-and-Servicing--_R4150-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Drayton Valley"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "aer",
+        "title": "Investigator",
+        "url": "https://aer.wd3.myworkdayjobs.com/aer/job/Calgary/Investigator_R4121-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 15
+    }
+]

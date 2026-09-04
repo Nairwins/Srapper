@@ -1,0 +1,890 @@
+[
+    {
+        "company": "zoom",
+        "title": "software engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/software-engineer_R19614-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "ASR Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/ASR-Engineer_R19590",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Client Engineering",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Rust-_R19336",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "会计专员 Accountant",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/-Accountant_R19512",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深后端开发工程师（数据库管控方向）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/--_R19511",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深研发工程师（Enterprise RAG）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/-Enterprise-RAG-_R18789-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Development Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Software-Development-Engineer_R18824",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Software-Engineer_R19434",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Senior AI Engineer-协作办公业务",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Senior-AI-Engineer-_R19266",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "高级/资深前端开发工程师（ECS)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/--ECS-_R19414",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Java开发工程师（Search DB & Storage)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/Java-Search-DB---Storage-_R19405",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "高级后端研发工程师(ZAP)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/-ZAP-_R19403",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Development",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Software-Development_R19396",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深 Windows 平台开发工程师（C++方向）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/-Windows--C---_R19376-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "C++服务端开发工程师（ZCC)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/C---ZCC-_R19323",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "C++服务端开发工程师（Zoom Phone）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/C----_R18650-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "云平台开发工程师（苏州）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/--_R19321",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "体验设计专家",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/_R19314",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Web安全工程师（AI赋能）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Web-AI-_R19307",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Agentic AI Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Agentic-AI-Engineer_R19280",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Software-Engineer_R19261",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Office Intern",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Office-Intern_R19251",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Software-Engineer_R19201-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "LLM 推理算法工程师",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/LLM-_R19152",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Software-Engineer_R19134",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "AI基础架构工程师",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI_R18992",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "AI Agent Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI-Agent-Engineer_R19036",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "AI Platform Engineer (China) — Zoom AI Services Platform",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI-Platform-Engineer--China----Zoom-AI-Services-Platform_R19028",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Java开发工程师-Zoom Events",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Java-Zoom-Events_R19003",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深Java开发工程师",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Java_R18991",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "高级/资深音频算法工程师（AIGC方向）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/--AIGC-_R18982",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Video AI Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Video-AI-Engineer_R18979",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "AI Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI-Engineer_R18967",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Development",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/Software-Development_R18957",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/Software-Engineer_R17429",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Software-Engineer_R18895",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "AI Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI-Engineer_R18845",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "UX Designer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/UX-Designer_R18364-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "高级/资深Speech算法工程师（AIGC方向）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/-Speech-AIGC-_R18281",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Machine Learning Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Machine-Learning-Engineer_R18252-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Development Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Software-Development-Engineer_R18070",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Development Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Software-Development-Engineer_R18069",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "AI Agent研发工程师/高级研发工程师",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI-Agent-_R18032",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深AI算法研发工程师（Rag)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI-Rag-_R17050",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "AI Agent Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/AI-Agent-Engineer_R17922",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Java开发工程师（中间件）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/Java--_R17385",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Total Rewards Manager",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Total-Rewards-Manager_R17404",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "数据库系统架构与中间件开发专家",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/_R15714-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "监控系统开发工程师",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/_R17077",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "数仓研发工程师",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/_R17640",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "iOS研发工程师（Zoom Docs）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/iOS-Zoom-Docs-_R16280-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Software-Engineer_R17441",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Machine Learning Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Machine-Learning-Engineer_R17430",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深AI算法研发工程师（Rag)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/AI-Rag-_R17056",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "software engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/software-engineer_R19614-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "ASR Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/ASR-Engineer_R19590",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Client Engineering",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Rust-_R19336",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "会计专员 Accountant",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/-Accountant_R19512",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深后端开发工程师（数据库管控方向）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/--_R19511",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深研发工程师（Enterprise RAG）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/-Enterprise-RAG-_R18789-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Development Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Software-Development-Engineer_R18824",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Software-Engineer_R19434",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Senior AI Engineer-协作办公业务",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/Senior-AI-Engineer-_R19266",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "高级/资深前端开发工程师（ECS)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/--ECS-_R19414",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Java开发工程师（Search DB & Storage)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/Java-Search-DB---Storage-_R19405",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "高级后端研发工程师(ZAP)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/-ZAP-_R19403",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Software Development",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-CHN/Software-Development_R19396",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "资深 Windows 平台开发工程师（C++方向）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/-Windows--C---_R19376-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "C++服务端开发工程师（ZCC)",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/C---ZCC-_R19323",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "C++服务端开发工程师（Zoom Phone）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hefei-CHN/C----_R18650-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hefei (CHN)"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "云平台开发工程师（苏州）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/--_R19321",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "体验设计专家",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Hangzhou-ShuMu-CHN/_R19314",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Hangzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Web安全工程师（AI赋能）",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Web-AI-_R19307",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    },
+    {
+        "company": "zoom",
+        "title": "Agentic AI Engineer",
+        "url": "https://zoom.wd5.myworkdayjobs.com/cn/job/Suzhou-CHN/Agentic-AI-Engineer_R19280",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "China",
+                "city": "Suzhou"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1400 @@
+[
+    {
+        "company": "aquaamerica",
+        "title": "SCADA Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/VA-Richmond/SCADA-Technician_R5212",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "VA Richmond"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Energy Manager",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Energy-Manager_R6248",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operations Center Specialist",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Operations-Center-Specialist_R6214",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Meter Setter / Meter Trouble Shooter",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Great-Valley/Field-Service-Representative---Third-Class_R6363-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Great Valley"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Water/Wastewater Facility Operator II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Spring---Southwest/Water-Wastewater-Facility-Operator-II_R6381",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX Spring - Southwest"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Seasonal Laborer",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/KY-CORBIN/Seasonal-Laborer_R6383",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "KY CORBIN"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer I Water & Wastewater",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/VA-Richmond/Project-Engineer-I-Water---Wastewater_R5684",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "VA Richmond"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Accountant III",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Boardman/Accountant-III_R6357",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "OH Boardman"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Meter Reader",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Denver/Meter-Reader_R6380",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Denver"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Fayetteville/Facility-Operator-I_R6386",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "NC Fayetteville"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Distribution Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Massillon-Local-Office/Distribution-Technician_R6375",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Massillon Local Office"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Services Representative",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Mentor-Local-Office/Field-Services-Representative_R6384",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Mentor Local Office"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Wimberley/Utility-Technician_R6368",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX Wimberley"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Fitter",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-GIBSONIA/Fitter_R6378",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA GIBSONIA"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Supervisor II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-DuBois/Field-Supervisor-II_R5838",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA DuBois"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Inspector - Third Class",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Willow-Grove/Field-Inspector---Third-Class_R6355-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Willow Grove"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Emergency Utility Person",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Willow-Grove/Emergency-Utility-Person_R6365-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Willow Grove"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Lead Technical Specialist",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-APOLLO/Lead-Technical-Specialist_R6359",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA APOLLO"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Business Analyst II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Business-Analyst-II_R6057",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator Trainee",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-University-Park-aka-Willowbrook/Facility-Operator-Trainee_R6370",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "IL University Park (aka Willowbrook)"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Business Analyst IV - Contract/Temp",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Business-Analyst-IV---Contract-Temp_R6276",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Construction Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/KY-WINCHESTER-SERVICE-CENTER/Construction-Technician_R6184",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "KY WINCHESTER SERVICE CENTER"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Environmental Specialist",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Environmental-Specialist_R6362",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Apprentice Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Ashtabula-Local-Office/Apprentice-Utility-Technician_R4819",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Ashtabula Local Office"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Gas Operations Supervisor I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-WILKINSBURG/Gas-Operations-Supervisor-I_R6232-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA WILKINSBURG"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IN-Greenfield/Facility-Operator_R6338-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "India",
+                "city": "IN Greenfield"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Maintenance Operator",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Sharon-Local-Office/Maintenance-Operator_R6354-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Sharon Local Office"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Hampstead/Facility-Operator_R6339",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NC Hampstead"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Construction Coordinator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-Glenview-North-Maine-aka-Des-Plaines/Construction-Coordinator-I_R5196",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "IL Glenview North Maine (aka Des Plaines)"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Kernersville/Utility-Technician_R6337",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NC Kernersville"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Administrative Assistant",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/KY-NICHOLASVILLE/Administrative-Assistant_R6328",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "KY NICHOLASVILLE"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Water Treatment Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-Kankakee-Plant/Facility-Operator-Trainee_R6334",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "IL Kankakee Plant"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Attorney III",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Attorney-III_R6167",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Voice Network and Contact Center Manager",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Voice-Network-and-Contact-Center-Manager_R5969",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Worker",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Westerville/Utility-Worker_R6330",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Westerville"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Construction Coordinator III",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Westerville/Construction-Coordinator-III_R6308",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "OH Westerville"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer III",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Spring-Local-Office/Project-Engineer-III_R6203",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "TX Spring Local Office"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Design Technician I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Design-Technician-I_R6304",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Inside Sales Representative",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Inside-Sales-Representative_R6310",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Environmental Compliance Specialist I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-Glenview-North-Maine-aka-Des-Plaines/Environmental-Compliance-Specialist-I_R6295",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "IL Glenview North Maine (aka Des Plaines)"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Engineer",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Engineer_R6193",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Equipment Operator",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/KY-WINCHESTER-SERVICE-CENTER/Equipment-Operator_R6305",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "KY WINCHESTER SERVICE CENTER"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Lead Total Rewards Analyst",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Lead-Total-Rewards-Analyst_R5735",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Total Rewards Analyst",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Total-Rewards-Analyst_R6097",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Human Resources Business Partner III",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Human-Resources-Business-Partner-III_R6115",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Payroll Analyst",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Payroll-Analyst_R5672",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Water Treatment Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Massillon-Plant/Water-Treatment-Technician_R6278",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Massillon Plant"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Fort-Worth/Facility-Operator-I_R6277",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "TX Fort Worth"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operator Trainee",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Beaver-Falls/Operator-Trainee_R6275",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA Beaver Falls"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Neshaminy/Operator-I_R6282",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA Neshaminy"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Denver/Utility-Technician_R6240",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Denver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Financial Analyst II - Contract/Temp",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Financial-Analyst-II---Contract-Temp_R6219",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Drinking Water Treatment Operations/Compliance",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Sharon-Plant/Drinking-Water-Treatment-Operations-Compliance_R6251",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Sharon Plant"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Honesdale/Project-Engineer-II_R5229",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Honesdale",
+                "city": "Pa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Administrative Assistant I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Sharon-Local-Office/Administrative-Assistant-I_R6257",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA Sharon Local Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Worker",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Roaring-Creek-Local-Office/Utility-Worker_R6256-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Roaring Creek Local Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Customer Care Administrator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Customer-Care-Administrator-I_R6249",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Construction Inspector",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Sharon-Local-Office/Construction-Inspector_R6252",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Sharon Local Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Service Representative",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Roaring-Creek-Local-Office/Facility-Operator_R4821",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Roaring Creek Local Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "National Dispatching Lead | Field Services",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/National-Dispatching-Lead---Field-Services_R6080",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Denver/Utility-Technician_R6239",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Denver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Construction Project Manager",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Construction-Project-Manager_R6223",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Wimberley/Facility-Operator_R6128-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX Wimberley"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/VA-Palmyra/Utility-Technician_R5493",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "VA Palmyra"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/VA-Greenbackville/Utility-Technician_R5686",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "VA Greenbackville"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/VA-Richmond/Utility-Technician_R5474",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "VA Richmond"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Pickering-Creek/Operator-I_R6050-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA Pickering Creek"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Distribution Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Marion-Local-Office/Distribution-Technician_R6189-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Marion Local Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Construction Coordinator III",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-Kankakee-Local-Office/Construction-Coordinator-II_R5195",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "IL Kankakee Local Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Cary---West/Utility-Technician_R6207",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NC Cary - West"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator II, Wastewater",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Cary---East/Facility-Operator-II--Wastewater_R6210",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NC Cary - East"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer - Water/Wastewater Utility",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NJ-Hamilton/Project-Engineer---Water-Wastewater-Utility_R4918",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Hamilton"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician Trainee",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Fort-Worth/Utility-Technician-Trainee_R6197",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "TX Fort Worth"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Granbury/Utility-Technician_R6196",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX Granbury"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "System Operator",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/New-Garden/System-Operator_R6198",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "New Garden"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator Trainee",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IN-Avon/Facility-Operator-Trainee_R6173",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "IN Avon"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Human Resources Business Partner II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Human-Resources-Business-Partner-II_R6185",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "System Operator III - Water/Wastewater Utility",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-Poplar-Grove-aka-Candlewick/System-Operator-III---Water-Wastewater-Utility_R5325",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "IL Poplar Grove (aka Candlewick)"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Dam Safety Engineer",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Dam-Safety-Engineer_R6166",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Finance and Rates Analyst",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Finance-and-Rates-Analyst_R6120",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/Project-Engineer-II_R6135",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R6135"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Plant Manager I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Crum-Creek/Plant-Manager-I_R6061",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Crum Creek"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operations Team Leader",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-DuBois/Operations-Team-Leader_R6062",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA DuBois"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Environmental Compliance Specialist I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Boardman/Environmental-Compliance-Specialist-I_R6059",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "OH Boardman"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Crum-Creek/Operator-I_R6023-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA Crum Creek"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Crum-Creek/Operator-I_R5737",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "PA Crum Creek"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Boardman/Project-Engineer-I_R5992",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Boardman",
+                "city": "Oh"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Supervisor II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Cary---West/Field-Supervisor-II_R6007",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NC Cary - West"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Application Developer II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Application-Developer-II_R5963",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer (Hybrid)",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-Kankakee-Local-Office/Project-Engineer--Hybrid-_R5604",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "Il Kankakee Local"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Distribution Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Mentor-Local-Office/Distribution-Technician_R5988-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Mentor Local Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Electrician (Union)",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Pickering-Creek/Electrician--Union-_R5869-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Pickering Creek"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IN-Valparaiso/Utility-Technician_R5636",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "India",
+                "city": "IN Valparaiso"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Business Development Manager - Developer Focused",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Fort-Worth/Business-Development-Manager_R5315-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "TX Fort Worth"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Gettysburg-Plant/Facility-Operator_R5389",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Gettysburg Plant"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aquaamerica",
+        "title": "SCADA Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/VA-Richmond/SCADA-Technician_R5212",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "VA Richmond"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Energy Manager",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Bryn-Mawr/Energy-Manager_R6248",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA Bryn Mawr"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Operations Center Specialist",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Operations-Center-Specialist_R6214",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Meter Setter / Meter Trouble Shooter",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Great-Valley/Field-Service-Representative---Third-Class_R6363-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Great Valley"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Water/Wastewater Facility Operator II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Spring---Southwest/Water-Wastewater-Facility-Operator-II_R6381",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX Spring - Southwest"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Seasonal Laborer",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/KY-CORBIN/Seasonal-Laborer_R6383",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "KY CORBIN"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Project Engineer I Water & Wastewater",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/VA-Richmond/Project-Engineer-I-Water---Wastewater_R5684",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "VA Richmond"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Accountant III",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Boardman/Accountant-III_R6357",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "OH Boardman"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Meter Reader",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Denver/Meter-Reader_R6380",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Denver"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator I",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/NC-Fayetteville/Facility-Operator-I_R6386",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "NC Fayetteville"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Distribution Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Massillon-Local-Office/Distribution-Technician_R6375",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Massillon Local Office"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Services Representative",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/OH-Mentor-Local-Office/Field-Services-Representative_R6384",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OH Mentor Local Office"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Utility Technician",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/TX-Wimberley/Utility-Technician_R6368",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX Wimberley"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Fitter",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-GIBSONIA/Fitter_R6378",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA GIBSONIA"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Supervisor II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-DuBois/Field-Supervisor-II_R5838",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA DuBois"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Field Inspector - Third Class",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Willow-Grove/Field-Inspector---Third-Class_R6355-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Willow Grove"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Emergency Utility Person",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-Willow-Grove/Emergency-Utility-Person_R6365-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA Willow Grove"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Lead Technical Specialist",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-APOLLO/Lead-Technical-Specialist_R6359",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA APOLLO"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Business Analyst II",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/PA-NORTH-SHORE---375/Business-Analyst-II_R6057",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA NORTH SHORE - 375"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "aquaamerica",
+        "title": "Facility Operator Trainee",
+        "url": "https://aquaamerica.wd5.myworkdayjobs.com/essential_careers/job/IL-University-Park-aka-Willowbrook/Facility-Operator-Trainee_R6370",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Israel",
+                "city": "IL University Park (aka Willowbrook)"
+            }
+        ],
+        "date": 10
+    }
+]

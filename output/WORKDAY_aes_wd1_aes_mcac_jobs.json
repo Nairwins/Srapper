@@ -1,0 +1,106 @@
+[
+    {
+        "company": "aes",
+        "title": "Junior Engineer Mechanic",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Repblica-Dominicana-Boca-Chica-Puerto-Multimodal-Caucedo/Junior-Engineer-Mechanic_R1064795-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Puerto Multimodal Caucedo",
+                "city": "República Dominicana"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "aes",
+        "title": "Analista de Ingenieria y Servicios Renovables",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Panam-Bocas-del-Toro-Ojo-de-Agua/Analista-de-Ingenieria-y-Servicios-Renovables_R1064710",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Panamá"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "aes",
+        "title": "Energy4Talent Trainee 2027 - DR",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Repblica-Dominicana-Distrito-Nacional-Ensanche-Piantini/Energy4Talent-Trainee-2027---DR_R1064774-2",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Piantini",
+                "city": "Repblica Dominicana Distrito Nacional Ensanche"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "aes",
+        "title": "DPP Auxiliar Operador",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Repblica-Dominicana-Distrito-Nacional-Ensanche-Piantini/DPP-Auxiliar-Operador_R1064204-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Ensanche Piantini",
+                "city": "República Dominicana"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "aes",
+        "title": "Legal Counsel",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Panam-Costa-del-Este/Legal-Counsel_R1064263-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Costa del Este",
+                "city": "Panamá"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aes",
+        "title": "Solar & Bess Technician III",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Puerto-Rico-Guayama/Solar---Bess-Technician-III_R1064243-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Guayama",
+                "city": "Puerto Rico"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aes",
+        "title": "Outage & Material Planner",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Puerto-Rico-Guayama/Outage---Material-Planner_R1064013-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Guayama",
+                "city": "Puerto Rico"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "aes",
+        "title": "Safety Analyst",
+        "url": "https://aes.wd1.myworkdayjobs.com/aes_mcac/job/Puerto-Rico-Guayama/Safety-Analyst_R1063956-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Guayama",
+                "city": "Puerto Rico"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,505 @@
+[
+    {
+        "company": "brinks",
+        "title": null,
+        "url": null,
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R79825"
+            }
+        ]
+    },
+    {
+        "company": "brinks",
+        "title": "COL P 10022 Visador",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-PC-Bogota/COL-P-10022-Visador_R80005",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-P&C Bogota"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "brinks",
+        "title": "COL T 14 090701 Operador Medios Tecnologicos",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-TVS-Bogota/COL-T-14-090701-Operador-Medios-Tecnologicos_R79828",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-TVS Bogota"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "brinks",
+        "title": "COL T 14 090701 Operador Medios Tecnologicos",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-TVS-Bogota/COL-T-14-090701-Operador-Medios-Tecnologicos_R75435",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-TVS Bogota"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "brinks",
+        "title": "COL E 28074 Cajero Principal",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-EPAGO-Valledupar/COL-E-28074-Cajero-Principal_R79833",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "COL-EPAGO Valledupar"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "brinks",
+        "title": "COL E 28097 Cajero Auxiliar",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-EPAGO-Barranquilla/COL-E-28097-Cajero-Auxiliar_R79802",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-EPAGO Barranquilla"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "brinks",
+        "title": "AGENT DMT",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COLS--Bogota/AGENT-DMT_R79813",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COLS -Bogota"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "brinks",
+        "title": "Agent DMT",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COLS--Bogota/Agent-DMT_R79807",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COLS -Bogota"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "brinks",
+        "title": "DMT Project - Agent DMT-32",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COLS--Bogota/DMT-Project---Agent-DMT-32_R79806",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COLS -Bogota"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "brinks",
+        "title": "Cajero Auxiliar",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-EPAGO-Bogota/Cajero-Auxiliar_R78146",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-EPAGO Bogota"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "brinks",
+        "title": "Cajero Supernumerario",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-EPAGO-Armenia/Cajero-Supernumerario_R79443",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-EPAGO Armenia"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "brinks",
+        "title": "AGENT DMT 7ELEVEN",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COLS--Bogota/AGENT-DMT-7ELEVEN_R72396",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COLS -Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL B Cajero II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Cali/COL-B-Cajero-II_R60603",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Cali"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-E-28058-Aprendiz Sena",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-EPAGO-Bogota/COL-E-28058-Aprendiz-Sena_R59004",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-EPAGO Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL E Cajero Supernumerario",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-EPAGO-Cali/COL-E-Cajero-Supernumerario_R59567",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-EPAGO Cali"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-E-28074-Cajero Principal",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-EPAGO-Medellin/COL-E-28074-Cajero-Principal_R59643",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "COL-EPAGO Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "Aprendiz",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Bogota-Calle-22/Aprendiz_R56236",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Bogota Calle 22"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Cucuta/CAJERO-II_R55826",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Cucuta"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Rionegro/CAJERO-II_R55818",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Rionegro"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55819",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55822",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COLS-0016-Auxiliar De Contabilidad 3 - PTP US",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COLS--Bogota/COLS-0016-Auxiliar-De-Contabilidad-3---PTP-US_R55708",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COLS -Bogota"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/COL-B-13027-Cajero-Ii_R55351",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55384",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55383",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Monteria/CAJERO-II_R55381",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Monteria"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Sincelejo/COL-B-13027-Cajero-Ii_R55380",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Sincelejo"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Sincelejo/COL-B-13027-Cajero-Ii_R55379",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Sincelejo"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Cucuta/COL-B-13027-Cajero-Ii_R55378",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Cucuta"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Bucaramanga/COL-B-13027-Cajero-Ii_R55377",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Bucaramanga"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL B Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Bucaramanga/COL-B-Cajero-Ii_R55376",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Bucaramanga"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/COL-B-13027-Cajero-Ii_R55375",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "Cajero II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/Cajero-II_R55364",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55362",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55360",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55359",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "CAJERO II",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/CAJERO-II_R55358",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/COL-B-13027-Cajero-Ii_R55356",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/COL-B-13027-Cajero-Ii_R55354",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/COL-B-13027-Cajero-Ii_R55355",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "Cajero",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/Cajero_R54974",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brinks",
+        "title": "COL-B-13027-Cajero Ii",
+        "url": "https://brinks.wd5.myworkdayjobs.com/portalcolombia/job/COL-BKS-Medellin/COL-B-13027-Cajero-Ii_R55353",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "COL-BKS Medellin"
+            }
+        ],
+        "date": "30+"
+    }
+]

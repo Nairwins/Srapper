@@ -1,0 +1,593 @@
+[
+    {
+        "company": "etsy",
+        "title": "Backend Engineer - Search and Retrieval",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Backend-Engineer---Search-and-Retrieval_JR5813",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Process Specialist",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Process-Specialist_JR5820",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Machine Learning Engineer, Ranking",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Machine-Learning-Engineer--Ranking_JR5407",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "etsy",
+        "title": "Senior iOS Engineer",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-iOS-Engineer_JR5798",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "etsy",
+        "title": "Product Data Scientist",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Product-Data-Scientist_JR5809",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "etsy",
+        "title": "Backend Engineer - Payments",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Depop---Remote-UK/Backend-Engineer_JR5781",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Depop - Remote"
+            }
+        ],
+        "date": 15,
+        "remote": true
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Backend Engineer - Payments",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Backend-Engineer---Payments_JR5769",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Data Platform Engineer - Data Infrastructure",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Depop---Remote-UK/Senior-Data-Platform-Engineer_JR5437",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Depop Remote"
+            }
+        ],
+        "date": 15,
+        "remote": true
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Data Platform Engineer - Data Enablement",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Data-Platform-Engineer_JR5548",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Engineering Manager - Trusted Community",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Engineering-Manager---Trusted-Community_JR5707",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Backend Engineer",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Backend-Engineer_JR5166",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Engineering Manager, Payments",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Engineering-Manager_JR5662",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Engineering Manager, Search",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Engineering-Manager_JR5736-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Data Engineer - Analytics Engineering",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Data-Engineer_JR5465",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Machine Learning Scientist, Ranking",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Machine-Learning-Scientist--Ranking_JR5355",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Machine Learning Scientist - Core ML",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Machine-Learning-Scientist---Core-ML_JR5341",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Manager, Art Direction",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Brooklyn-New-York/Senior-Creative_JR5613",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "etsy",
+        "title": "Trust & Safety Director",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Brooklyn-New-York/Trust---Safety-Director_JR5739",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Product Manager - Ranking (ML)",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Product-Manager---Ranking--ML-_JR5787",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "etsy",
+        "title": "Platform Engineer",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Depop---Remote-UK/Platform-Engineer_JR5677",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Depop Remote"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "etsy",
+        "title": "Trust & Safety Director",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Trust---Safety-Director_JR5733",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "etsy",
+        "title": "Finance Integration Lead",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Finance-Integration-Lead_JR5643",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Data Engineer – Data Quality & Governance",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Data-Engineer---Data-Quality---Governance_JR5215",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Machine Learning Scientist (Recommendations)",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Machine-Learning-Scientist--Recommendations-_JR4970",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Backend Engineer - Data Platform",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Backend-Engineer---Data-Platform_JR4913",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "etsy",
+        "title": "Backend Engineer - Search and Retrieval",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Backend-Engineer---Search-and-Retrieval_JR5813",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Process Specialist",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Process-Specialist_JR5820",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Machine Learning Engineer, Ranking",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Machine-Learning-Engineer--Ranking_JR5407",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "etsy",
+        "title": "Senior iOS Engineer",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-iOS-Engineer_JR5798",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "etsy",
+        "title": "Product Data Scientist",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Product-Data-Scientist_JR5809",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "etsy",
+        "title": "Backend Engineer - Payments",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Depop---Remote-UK/Backend-Engineer_JR5781",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Depop - Remote"
+            }
+        ],
+        "date": 15,
+        "remote": true
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Backend Engineer - Payments",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Backend-Engineer---Payments_JR5769",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Data Platform Engineer - Data Infrastructure",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Depop---Remote-UK/Senior-Data-Platform-Engineer_JR5437",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Depop Remote"
+            }
+        ],
+        "date": 15,
+        "remote": true
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Data Platform Engineer - Data Enablement",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Data-Platform-Engineer_JR5548",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Engineering Manager - Trusted Community",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Engineering-Manager---Trusted-Community_JR5707",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Backend Engineer",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Backend-Engineer_JR5166",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Engineering Manager, Payments",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Engineering-Manager_JR5662",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Engineering Manager, Search",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Engineering-Manager_JR5736-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Data Engineer - Analytics Engineering",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Data-Engineer_JR5465",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Machine Learning Scientist, Ranking",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Machine-Learning-Scientist--Ranking_JR5355",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Staff Machine Learning Scientist - Core ML",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Staff-Machine-Learning-Scientist---Core-ML_JR5341",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Manager, Art Direction",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Brooklyn-New-York/Senior-Creative_JR5613",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "etsy",
+        "title": "Trust & Safety Director",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Brooklyn-New-York/Trust---Safety-Director_JR5739",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "etsy",
+        "title": "Senior Product Manager - Ranking (ML)",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/London-UK/Senior-Product-Manager---Ranking--ML-_JR5787",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "etsy",
+        "title": "Platform Engineer",
+        "url": "https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Depop---Remote-UK/Platform-Engineer_JR5677",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Depop Remote"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

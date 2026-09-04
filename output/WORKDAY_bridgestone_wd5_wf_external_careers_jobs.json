@@ -1,0 +1,587 @@
+[
+    {
+        "company": "bridgestone",
+        "title": "Senior Technical Writer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Barcelona-WF/WF-Sr-Technical-Writer_2026_20509",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Barcelona WF"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bridgestone",
+        "title": "Sales Representative South Africa",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Remote---South-Africa-WF/Sales-Representative-South-Africa_2026_20939-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "South Africa",
+                "city": "Remote South Africa"
+            }
+        ],
+        "date": 3,
+        "remote": true
+    },
+    {
+        "company": "bridgestone",
+        "title": "Internship - Knowledge Management",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Internship---Knowledge-Management_2026_16403",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bridgestone",
+        "title": "Inside Sales Representative (German speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/Inside-Sales-Representative--German-speaker-_2026_17766",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "bridgestone",
+        "title": "Trainer - Sales & Soft Skills Development",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/Trainer---Sales---Soft-Skills-Development_2026_19350",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bridgestone",
+        "title": "AI Process & Delivery Architect",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Barcelona-WF/AI-Process---Delivery-Architect_2026_16402",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Barcelona WF"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "bridgestone",
+        "title": "Senior Software Engineer (Java, Spring, Cloud)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Poland-Warsaw/Senior-Software-Engineer--Java--Spring--Cloud-_2026_16701",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Poland",
+                "city": "Poland"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bridgestone",
+        "title": "Bid Manager",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/WF-Bid-Manager_2026_14184-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bridgestone",
+        "title": "Marketing Intern",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Mexico-City-WF/Marketing-Intern_2026_15506",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "Mexico City"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Business Development Representative (DACH Market)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Barcelona-WF/Business-Development-Representative--DACH-Market-_2026_10365",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Barcelona WF"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "DevOps Engineer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Germany-Leipzig/DevOps-Engineer_2026_14273",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Leipzig"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Internship - Administration Specialist",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Amsterdam-WF/Internship---Administration-Specialist_2026_15473",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Sales Representative (Polish Speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Poland/Sales-Representative--Polish-Speaker-_2026_12151",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Poland"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Associate Field Service Project Manager (Dutch Speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Associate-Field-Service-Project-Manager_2026_00171",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Strategic Partnerships Manager (UKI)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/United-Kingdom-Remote/Strategic-Partnerships-Manager_2026_18638",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "United Kingdom"
+            }
+        ],
+        "date": 7,
+        "remote": true
+    },
+    {
+        "company": "bridgestone",
+        "title": "Regional Growth Marketeer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Regional-Marketing-Manager-Benelux_2026_12274",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bridgestone",
+        "title": "QA Engineer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Poland-Warsaw/QA-Engineer_2026_19606",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Poland",
+                "city": "Poland"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "bridgestone",
+        "title": "Junior Account Representative – Benelux",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Associate-Sales-Representative---Benelux_2026_18838",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bridgestone",
+        "title": "Junior Field Service Project Manager (French Speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/Junior-Field-Service-Project-Manager--French-Speaker-_2026_18601",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Channel Partner Acquisition Manager",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Remote---Germany-WF/Channel-Partner-Acquisition-Manager_2026_18231",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Germany WF"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "bridgestone",
+        "title": "HR & Payroll Specialist (German speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Germany-Leipzig/HR---Payroll-Specialist--German-speaker-_2026_17668",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Leipzig"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Enterprise Account Manager (Hunter) DACH – New Business (M/F/D)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Germany-Remote/Enterprise-Account-Manager--Hunter--DACH---New-Business--M-F-D-_2026_16272",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Germany"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "bridgestone",
+        "title": "Commercial Marketing Manager UK&I",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/United-Kingdom-Remote/Commercial-Marketing-Manager-UK-I_2026_15290",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "United Kingdom"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "bridgestone",
+        "title": "Sales Engineer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/South-Africa-Irene/Sales-Engineer_2026_13946",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "South Africa",
+                "city": "South Africa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Business Development Representative (German Speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/Business-Development-Representative--German-Speaker-_2026_10366",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Senior Technical Writer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Barcelona-WF/WF-Sr-Technical-Writer_2026_20509",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Barcelona WF"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bridgestone",
+        "title": "Sales Representative South Africa",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Remote---South-Africa-WF/Sales-Representative-South-Africa_2026_20939-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "South Africa",
+                "city": "Remote South Africa"
+            }
+        ],
+        "date": 3,
+        "remote": true
+    },
+    {
+        "company": "bridgestone",
+        "title": "Internship - Knowledge Management",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Internship---Knowledge-Management_2026_16403",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bridgestone",
+        "title": "Inside Sales Representative (German speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/Inside-Sales-Representative--German-speaker-_2026_17766",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "bridgestone",
+        "title": "Trainer - Sales & Soft Skills Development",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/Trainer---Sales---Soft-Skills-Development_2026_19350",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bridgestone",
+        "title": "AI Process & Delivery Architect",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Barcelona-WF/AI-Process---Delivery-Architect_2026_16402",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Barcelona WF"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "bridgestone",
+        "title": "Senior Software Engineer (Java, Spring, Cloud)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Poland-Warsaw/Senior-Software-Engineer--Java--Spring--Cloud-_2026_16701",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Poland",
+                "city": "Poland"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bridgestone",
+        "title": "Bid Manager",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/WF-Bid-Manager_2026_14184-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bridgestone",
+        "title": "Marketing Intern",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Mexico-City-WF/Marketing-Intern_2026_15506",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "Mexico City"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Business Development Representative (DACH Market)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Barcelona-WF/Business-Development-Representative--DACH-Market-_2026_10365",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Barcelona WF"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "DevOps Engineer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Germany-Leipzig/DevOps-Engineer_2026_14273",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Leipzig"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Internship - Administration Specialist",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Amsterdam-WF/Internship---Administration-Specialist_2026_15473",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Sales Representative (Polish Speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Poland/Sales-Representative--Polish-Speaker-_2026_12151",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Poland"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Associate Field Service Project Manager (Dutch Speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Associate-Field-Service-Project-Manager_2026_00171",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Strategic Partnerships Manager (UKI)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/United-Kingdom-Remote/Strategic-Partnerships-Manager_2026_18638",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "United Kingdom"
+            }
+        ],
+        "date": 7,
+        "remote": true
+    },
+    {
+        "company": "bridgestone",
+        "title": "Regional Growth Marketeer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Regional-Marketing-Manager-Benelux_2026_12274",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bridgestone",
+        "title": "QA Engineer",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Poland-Warsaw/QA-Engineer_2026_19606",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Poland",
+                "city": "Poland"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "bridgestone",
+        "title": "Junior Account Representative – Benelux",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/The-Netherlands-Amsterdam/Associate-Sales-Representative---Benelux_2026_18838",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bridgestone",
+        "title": "Junior Field Service Project Manager (French Speaker)",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Spain-Barcelona/Junior-Field-Service-Project-Manager--French-Speaker-_2026_18601",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Spain",
+                "city": "Spain"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bridgestone",
+        "title": "Channel Partner Acquisition Manager",
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/wf_external_careers/job/Remote---Germany-WF/Channel-Partner-Acquisition-Manager_2026_18231",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Germany WF"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

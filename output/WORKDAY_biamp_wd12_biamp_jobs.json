@@ -1,0 +1,152 @@
+[
+    {
+        "company": "biamp",
+        "title": "Maintenance Technician",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Chester-PA/Maintenance-Technician_JR100434",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "PA",
+                "city": "Chester"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "biamp",
+        "title": "Field Sales Engineer – Germany",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Germany-Remote/Field-Sales-Engineer---Germany_JR100431",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Germany Remote"
+            }
+        ],
+        "date": 1,
+        "remote": true
+    },
+    {
+        "company": "biamp",
+        "title": "Field Sales Engineer - UK (South)",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Brighton-UK/Field-Sales-Engineer---UK--South-_JR100430",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Brighton"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "biamp",
+        "title": "Senior Maintenance Technician",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Tigard-OR/Maintenance-Technician_JR100429",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Tigard"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "biamp",
+        "title": "Customer Operations Analyst II",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Brighton-UK/Customer-Operations-Analyst-III_JR100428",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Brighton"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "biamp",
+        "title": "Product Marketing Manager",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/Product-Marketing-Manager_JR100427",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Beaverton"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "biamp",
+        "title": "IT Support Technician I",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/IT-Support-Technician-I_JR100411",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Beaverton"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "biamp",
+        "title": "Inventory Control Specialist",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Chester-PA/Inventory-Control-Specialist_JR100425",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "PA",
+                "city": "Chester"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "biamp",
+        "title": "Warehouse Lead",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Tigard-OR/Warehouse-Lead_JR100424",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Tigard"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "biamp",
+        "title": "Technical Support Specialist",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/Technical-Support-Specialist_JR100417-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Beaverton"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "biamp",
+        "title": "Senior Operations Program Manager",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Tigard-OR/Operations-Program-Manager_JR100414",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Tigard"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "biamp",
+        "title": "Senior Network Engineer",
+        "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/Senior-Network-Engineer_JR100407-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Beaverton"
+            }
+        ],
+        "date": "30+"
+    }
+]

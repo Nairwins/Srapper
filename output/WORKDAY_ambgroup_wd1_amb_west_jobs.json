@@ -1,0 +1,111 @@
+[
+    {
+        "company": "ambgroup",
+        "title": "Housekeeper",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/Dome-Mountain/Housekeeper_R0028982",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Dome Mountain"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "ambgroup",
+        "title": "Cook",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/Dome-Mountain/Cook_R0028984",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Dome Mountain"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "ambgroup",
+        "title": "Lead Cook",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/Dome-Mountain/Lead-Cook_R0029114",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Dome Mountain"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "ambgroup",
+        "title": "Cook",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/West-Creek/Cook_R0029216",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "West Creek"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "ambgroup",
+        "title": "Guest Services",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/West-Creek/Guest-Services_R0029189",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "West Creek"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "ambgroup",
+        "title": "Marketing and Communications Specialist",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/Dome-Mountain/Marketing-and-Communications-Specialist_R0029154",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Mountain",
+                "city": "Dome"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "ambgroup",
+        "title": "Accounts Payable Specialist",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/West-Creek/Accounts-Payable-Specialist_R0029171",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "West Creek"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "ambgroup",
+        "title": "Activities Guide",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/Dome-Mountain/Activities-Guide_R0029141",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Dome Mountain"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "ambgroup",
+        "title": "Cashier",
+        "url": "https://ambgroup.wd1.myworkdayjobs.com/amb_west/job/Dome-Mountain/Cashier_R0028986",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Dome Mountain"
+            }
+        ],
+        "date": "30+"
+    }
+]

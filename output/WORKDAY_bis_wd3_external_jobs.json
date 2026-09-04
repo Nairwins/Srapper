@@ -1,0 +1,50 @@
+[
+    {
+        "company": "bis",
+        "title": "Senior Solution Architect",
+        "url": "https://bis.wd3.myworkdayjobs.com/external/job/BIS-Headquarters-Basel/Senior-Solution-Architect_JR100472",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "BIS Headquarters Basel"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bis",
+        "title": "Quantitative Risk Analyst",
+        "url": "https://bis.wd3.myworkdayjobs.com/external/job/BIS-Headquarters-Basel/Quantitative-Risk-Analyst_JR100469",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "BIS Headquarters Basel"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "bis",
+        "title": "Senior Platform Engineer (DBA)",
+        "url": "https://bis.wd3.myworkdayjobs.com/external/job/BIS-Headquarters-Basel/Senior-Platform-Engineer--DBA-_JR100420-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "BIS Headquarters Basel"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bis",
+        "title": "Senior Product Manager",
+        "url": "https://bis.wd3.myworkdayjobs.com/external/job/BIS-Headquarters-Basel/Senior-Product-Manager_JR100457-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "BIS Headquarters Basel"
+            }
+        ],
+        "date": 13
+    }
+]

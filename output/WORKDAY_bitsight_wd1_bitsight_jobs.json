@@ -1,0 +1,163 @@
+[
+    {
+        "company": "bitsight",
+        "title": "GTM Engineer",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/GTM--Go-to-Market--Engineer_JR101382-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bitsight",
+        "title": "Senior Product Manager - TPRM",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-Portugal/Senior-Product-Manager---TPRM_JR101386-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Portugal",
+                "city": "Remote Portugal"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "bitsight",
+        "title": "Product Manager, Ecosystems & Technical Alliance",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-USA/Product-Manager--Ecosystems---Technical-Allianace_JR101334",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Remote USA"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "bitsight",
+        "title": "Professional Services Consultant",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Singapore/Professional-Services-Consultant_JR101380-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Singapore"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "bitsight",
+        "title": "Software Engineer",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-USA/Software-Engineer_JR101391-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Remote USA"
+            }
+        ],
+        "date": 9,
+        "remote": true
+    },
+    {
+        "company": "bitsight",
+        "title": "Customer Success AI Operations Lead",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/Customer-Success-AI-Operations-Lead_JR101343-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bitsight",
+        "title": "Channel Account Manager",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/London-United-Kingdom/Channel-Account-Manager_JR101336-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "bitsight",
+        "title": "Head of Threat Research",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-Portugal/Manager--Threat-Research--Malware-Triage-_JR101309",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Portugal",
+                "city": "Remote Portugal"
+            }
+        ],
+        "date": 16,
+        "remote": true
+    },
+    {
+        "company": "bitsight",
+        "title": "Sales Activation Manager",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-USA/Sales-Activation-Manager_JR101372-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Remote USA"
+            }
+        ],
+        "date": 28,
+        "remote": true
+    },
+    {
+        "company": "bitsight",
+        "title": "Sr. Professional Services Consultant",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/Sr-Professional-Services-Consultant_JR101360-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bitsight",
+        "title": "Professional Services Consultant",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/Professional-Services-Consultant_JR101359-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bitsight",
+        "title": "Senior Business Systems Analyst",
+        "url": "https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-Portugal/Senior-Business-Systems-Analyst_JR101342-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Portugal",
+                "city": "Remote Portugal"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

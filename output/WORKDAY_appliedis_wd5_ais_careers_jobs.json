@@ -1,0 +1,912 @@
+[
+    {
+        "company": "appliedis",
+        "title": "SOC Engineer Tier 2 (Night Shift 12:00am-8:00am)",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Springfield-VA/SOC-Engineer-Tier-2--Night-Shift-12-00am-8-00am-_JR2026001363-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "VA",
+                "city": "Springfield"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "appliedis",
+        "title": "Business Development Manager",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Business-Development-Manager_JR2026001364",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Corporate Headquarters - Reston"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "appliedis",
+        "title": "React /. Net Full Stack Developer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/XMLNAME-NET---React-Full-Stack-Developer_JR2026001293",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior React Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Senior-React-Engineer_JR2026001360",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "appliedis",
+        "title": "Program Manager",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Program-Manager_JR2026001362",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Usa"
+            }
+        ],
+        "date": 1,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "COTS System Administrator",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/COTS-System-Engineer_JR2026001354-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "appliedis",
+        "title": "MS Teams Rooms AV/VTC Solution Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Groton-CT/MS-Teams-Rooms-AV-VTC-Solution-Architect_JR2026001231-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "CT",
+                "city": "Groton"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr Front End Engineer SME",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Sr-Front-End-Engineer-SME_JR2026001358-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior Cybersecurity & Financial Compliance SME",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/Senior-Cybersecurity---Financial-Compliance-SME_JR2026001352",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "VA"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Security Engineering Lead",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Linthicum-Heights-MD/Security-Engineering-Lead_JR2026001335",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "MD",
+                "city": "Linthicum Heights"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr Azure Cloud Infrastructure Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Sr-Azure-Cloud-Infrastructure-Engineer_JR2026001339-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior Virtualization Administrator",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Senior-Virtualization-Administrator_JR2026001336-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "USA Remote"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior Email Architect and Administrator",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Senior-Email-Architect-and-Administrator_JR2026001337-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "USA Remote"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr. Full Stack Java Developer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Sr-Full-Stack-Java-Developer_JR2026001315-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "appliedis",
+        "title": "Principal Platform Architect",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Principal-Platform-Architect_JR2026001323",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Corporate Headquarters - Reston"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "appliedis",
+        "title": "SOC/NOC Engineer - Lead - Shift Work",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/SOC-NOC-Engineer---Lead---Shift-Work_JR2026001331",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "VA"
+            }
+        ],
+        "date": 16,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Full Stack Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Full-Stack-Engineer_JR2026001272",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Data Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Data-Engineer_JR2026001273",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Data Scientist",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Data-Scientist_JR2026001274",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Machine Learning Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Machine-Learning-Engineer_JR2026001275",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Information System Security Officer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Information-System-Security-Officer_JR2026001321-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Information System Security Officer, Senior",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Information-System-Security-Officer--Senior_JR2026001322-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr. Cybersecurity Engineer (ISSE)",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Huntsville-AL/Sr-Cybersecurity-Engineer--ISSE-_JR2026001320-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "AL",
+                "city": "Huntsville"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Azure Solution Architect - Industrial IoT",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Groton-CT/Cloud-Solution-Architect_JR2026001143",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "CT",
+                "city": "Groton"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "appliedis",
+        "title": "Principal AI-Native Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Principal-AI-Native-Engineer_JR2026001319",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Corporate Headquarters - Reston"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "appliedis",
+        "title": "Industrial IoT / Sensor Integration Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Groton-CT/Azure-IoT-Engineer_JR2026001057-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "CT",
+                "city": "Groton"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr Power Platform Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Sr-Power-Platform-Engineer_JR2026001296-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "appliedis",
+        "title": "Mobile Malware Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Linthicum-Heights-MD/Mobile-Malware-Engineer_JR2026001307-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "MD",
+                "city": "Linthicum Heights"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "appliedis",
+        "title": "Cloud Engineer IV",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Linthicum-Heights-MD/Cloud-Engineer-IV_JR2026001309-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "MD",
+                "city": "Linthicum Heights"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "appliedis",
+        "title": "Solutions Architect IV",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Linthicum-Heights-MD/Solutions-Architect-IV_JR2026001308-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "MD",
+                "city": "Linthicum Heights"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "appliedis",
+        "title": "Intelligence Analyst",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Intelligence-Analyst_JR2026001283",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Forensic Accountant",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Forensic-Accountant_JR2026001284",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr. Software Architect",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Sr-Software-Architect_JR2026001280",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Us Corporate Headquarters"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr. Infrastructure Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Sr-Infrastructure-Engineer_JR2026001279",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Corporate Headquarters - Reston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Cloud Operations Manager / O&M Service Delivery Manager",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Cloud-Operations-Manager---O-M-Service-Delivery-Manager_JR2026001263-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Us Corporate Headquarters"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Program Manager",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Program-Manager_JR2026001210",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Data Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/Data-Engineer_JR2026001184-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "VA"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Vice President, Commercial Growth & Strategy",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Vice-President--Commercial-Growth---Strategy_JR2026001196-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Corporate Headquarters - Reston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Cloud Systems Engineer 4",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---MA/Cloud-Systems-Engineer-4_JR2026001098",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Morocco"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Cloud Systems Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---MA/Cloud-Systems-Engineer_JR2026001100",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Morocco"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Incident Management Lead",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Incident-Management-Lead_JR2026001001",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Digital Forensics Analyst",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Digital-Forensics-Analyst_JR2026001002",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Cyber Information Assurance/Security Specialist Lead",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Cyber-Information-Assurance-Security-Specialist-Lead_JR2026001004",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Security Operations Lead",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Security-Operations-Lead_JR2026001003",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Cloud Talent Community",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Cloud-Talent-Community_JR2025000925-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR2025000925"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Cyber Talent Community",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Cyber-Talent-Community_JR2025000924-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR2025000924"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Artificial Intelligence Talent Community",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Artificial-Intelligence-Talent-Community_JR2025000922-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR2025000922"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "DevOps Talent Community",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/DevOps-Talent-Community_JR2025000920",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR2025000920"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "M365 Talent Community",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/M365-Talent-Community_JR2025000921-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR2025000921"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "Full Stack Talent Community",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Full-Stack-Talent-Community_JR2025000919-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR2025000919"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "appliedis",
+        "title": "SOC Engineer Tier 2 (Night Shift 12:00am-8:00am)",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Springfield-VA/SOC-Engineer-Tier-2--Night-Shift-12-00am-8-00am-_JR2026001363-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "VA",
+                "city": "Springfield"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "appliedis",
+        "title": "Business Development Manager",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Business-Development-Manager_JR2026001364",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Corporate Headquarters - Reston"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "appliedis",
+        "title": "React /. Net Full Stack Developer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/XMLNAME-NET---React-Full-Stack-Developer_JR2026001293",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior React Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Senior-React-Engineer_JR2026001360",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "appliedis",
+        "title": "Program Manager",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Program-Manager_JR2026001362",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Usa"
+            }
+        ],
+        "date": 1,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "COTS System Administrator",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/COTS-System-Engineer_JR2026001354-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "appliedis",
+        "title": "MS Teams Rooms AV/VTC Solution Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Groton-CT/MS-Teams-Rooms-AV-VTC-Solution-Architect_JR2026001231-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "CT",
+                "city": "Groton"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr Front End Engineer SME",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Sr-Front-End-Engineer-SME_JR2026001358-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior Cybersecurity & Financial Compliance SME",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/Senior-Cybersecurity---Financial-Compliance-SME_JR2026001352",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "VA"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Security Engineering Lead",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Linthicum-Heights-MD/Security-Engineering-Lead_JR2026001335",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "MD",
+                "city": "Linthicum Heights"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr Azure Cloud Infrastructure Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Sr-Azure-Cloud-Infrastructure-Engineer_JR2026001339-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior Virtualization Administrator",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Senior-Virtualization-Administrator_JR2026001336-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "USA Remote"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Senior Email Architect and Administrator",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Senior-Email-Architect-and-Administrator_JR2026001337-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "USA Remote"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Sr. Full Stack Java Developer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Sr-Full-Stack-Java-Developer_JR2026001315-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "appliedis",
+        "title": "Principal Platform Architect",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Principal-Platform-Architect_JR2026001323",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Corporate Headquarters - Reston"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "appliedis",
+        "title": "SOC/NOC Engineer - Lead - Shift Work",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/SOC-NOC-Engineer---Lead---Shift-Work_JR2026001331",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "VA"
+            }
+        ],
+        "date": 16,
+        "remote": true
+    },
+    {
+        "company": "appliedis",
+        "title": "Full Stack Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Full-Stack-Engineer_JR2026001272",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Data Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Data-Engineer_JR2026001273",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Data Scientist",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Data-Scientist_JR2026001274",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "appliedis",
+        "title": "Machine Learning Engineer",
+        "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Machine-Learning-Engineer_JR2026001275",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Egypt",
+                "city": "Alexandria"
+            }
+        ],
+        "date": 21
+    }
+]

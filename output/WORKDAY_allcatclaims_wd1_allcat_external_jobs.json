@@ -1,0 +1,119 @@
+[
+    {
+        "company": "allcatclaims",
+        "title": "Day Porter",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/Allcat-San-Antonio/Day-Porter_JR100882",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Allcat San Antonio"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "allcatclaims",
+        "title": "Paralegal — Contracts & Litigation",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/US-TX-Remote/Paralegal---Contracts---Litigation_JR100878",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Us Tx"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "allcatclaims",
+        "title": "Claims Administrative Support Specialist",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/Allcat-San-Antonio/Claims-Administrative-Support-Specialist_JR100879",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Allcat San Antonio"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "allcatclaims",
+        "title": "Quality Assurance Specialist",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/Allcat-San-Antonio/Quality-Assurance-Specialist_JR100873",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Allcat San Antonio"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "allcatclaims",
+        "title": "Property Adjuster",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/Allcat-San-Antonio/Property-Adjuster_JR100866",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Antonio",
+                "city": "Allcat San"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "allcatclaims",
+        "title": "Business Analyst",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/Claim-Assist-Technologies-San-Antonio/Business-Analyst_JR100841",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Claim Assist Technologies San Antonio"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "allcatclaims",
+        "title": "Inland Marine Desk Adjuster (Remote – Temporary W-2)",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/US-TX-Remote/Inland-Marine-Desk-Adjuster--Remote---Temporary-W-2-_JR100850",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Us Tx"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "allcatclaims",
+        "title": "General Liability Adjuster - NY License Required",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/US-TX-Remote/General-Liability-Adjuster---NY-License-Required_JR100831",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Us Tx"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "allcatclaims",
+        "title": "Construction Defect Examiner",
+        "url": "https://allcatclaims.wd1.myworkdayjobs.com/allcat_external/job/US-TX-Remote/Construction-Defect-Examiner_JR100830",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US TX Remote"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

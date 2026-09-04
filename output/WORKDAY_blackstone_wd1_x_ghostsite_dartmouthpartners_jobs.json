@@ -1,0 +1,50 @@
+[
+    {
+        "company": "blackstone",
+        "title": "Portfolio Management, Analyst/Associate",
+        "url": "https://blackstone.wd1.myworkdayjobs.com/x_ghostsite_dartmouthpartners/job/London/Portfolio-Management--Analyst-Associate_44263-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ]
+    },
+    {
+        "company": "blackstone",
+        "title": "RE, Asset Management, Sr. Associate",
+        "url": "https://blackstone.wd1.myworkdayjobs.com/x_ghostsite_dartmouthpartners/job/London/RE--Asset-Management--Sr-Associate_43971",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ]
+    },
+    {
+        "company": "blackstone",
+        "title": "Tactical Opportunities, Associate Investor",
+        "url": "https://blackstone.wd1.myworkdayjobs.com/x_ghostsite_dartmouthpartners/job/London/Tactical-Opportunities--Associate-Investor_42074-3",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ]
+    },
+    {
+        "company": "blackstone",
+        "title": "Tactical Opportunities, Sr. Assoc Investor",
+        "url": "https://blackstone.wd1.myworkdayjobs.com/x_ghostsite_dartmouthpartners/job/London/Tactical-Opportunities--Sr-Assoc-Investor_42076-3",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ]
+    }
+]

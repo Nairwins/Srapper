@@ -1,0 +1,80 @@
+[
+    {
+        "company": "adtran",
+        "title": "System Engineer",
+        "url": "https://adtran.wd3.myworkdayjobs.com/ans/job/Munich-ANS-Germany/System-Engineer_R005802",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Munich"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "adtran",
+        "title": "Service Engineer (M/W/D)",
+        "url": "https://adtran.wd3.myworkdayjobs.com/ans/job/Berlin-ANS/Service-Engineer--M-W-D-_R005788",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Berlin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "adtran",
+        "title": "Service Engineer (M/W/D)",
+        "url": "https://adtran.wd3.myworkdayjobs.com/ans/job/Berlin-ANS-Germany/Service-Engineer--M-W-D-_R005787",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Berlin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "adtran",
+        "title": "Senior System Architecture Engineer",
+        "url": "https://adtran.wd3.myworkdayjobs.com/ans/job/Munich-ANS/Senior-System-Architecture-Engineer_R005592",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Munich"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "adtran",
+        "title": "Senior System Integration Test Engineer (M/F/D)",
+        "url": "https://adtran.wd3.myworkdayjobs.com/ans/job/Munich-ANS-Germany/Senior-System-Integration-Test-Engineer--M-F-D-_R005569",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Munich"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "adtran",
+        "title": "Teamassistenz (m/w/d)",
+        "url": "https://adtran.wd3.myworkdayjobs.com/ans/job/Berlin-ANS-Germany/Assistenz-der-Geschftsfhrung--m-w-d-_R004070",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Berlin"
+            }
+        ],
+        "date": "30+"
+    }
+]

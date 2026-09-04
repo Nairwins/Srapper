@@ -1,0 +1,722 @@
+[
+    {
+        "company": "benchmark",
+        "title": "Housekeeping Supervisor",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Housekeeping-Supervisor_R0066506",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "benchmark",
+        "title": "Front Desk Agent",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/Front-Desk-Agent_R0066511",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "benchmark",
+        "title": "Painter / Maintenance Technician",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Painter---Maintenance-Technician_R0065606",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "benchmark",
+        "title": "Bell/Valet Attendant - Full Time",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Hanover-Inn-Dartmouth/Bell-Valet-Attendant---Full-Time_R0066395",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Hanover Inn Dartmouth"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "benchmark",
+        "title": "Chief Engineer",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/Chief-Engineer_R0066330",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "benchmark",
+        "title": "Sales Manager, Corporate & Business Travel",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Sales-Manager--Corporate---Business-Travel_R0066310",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "benchmark",
+        "title": "Cook",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Hilton-Garden-Inn-San-Antonio-Downtown/Cook_R0065692-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Hilton Garden Inn San Antonio Downtown"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "benchmark",
+        "title": "Human Resources Coordinator",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/Human-Resources-Coordinator_R0066229",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "benchmark",
+        "title": "Chief Engineer",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/The-Kendall-Hotel/Chief-Engineer_R0066194",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "The Kendall Hotel"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "benchmark",
+        "title": "Agent - Front Desk - PM",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/The-Midland-Hotel-Chicago/Agent---Front-Desk---PM_R0065999",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Chicago"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "benchmark",
+        "title": "Front Desk Agent",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Candlewood-Suites-East-Lansing/Front-Desk-Agent_R0065975",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Candlewood Suites East Lansing"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "benchmark",
+        "title": "Room Attendant",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/Room-Attendant_R0065957",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "benchmark",
+        "title": "Assistant F&B Manager",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/Assistant-F-B-Manager_R0065900",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "benchmark",
+        "title": "Human Resources Coordinator",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/Human-Resources-Coordinator_R0065846",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "benchmark",
+        "title": "Front Desk Supervisor",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/Front-Desk-Supervisor_R0065845",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "benchmark",
+        "title": "Arlo Hotel - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Arlo-Hotel/Arlo-Hotel---Current-Associates-Only_R0065837",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Arlo Hotel"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "benchmark",
+        "title": "Banquet Captain - On Call",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Banquet-Captain---On-Call_R0065818",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "benchmark",
+        "title": "Houseperson",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/Houseperson_R0064920",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "benchmark",
+        "title": "Room Attendant",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/Room-Attendant_R0065745",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "benchmark",
+        "title": "Breakfast Server",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/Breakfast-Server_R0065738-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "benchmark",
+        "title": "Front Desk Agent",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/Front-Desk-Agent_R0065735",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "benchmark",
+        "title": "Busser/Dining Room Attendant - Part Time",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Hanover-Inn-Dartmouth/Busser-Dining-Room-Attendant---Part-Time_R0065602",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Hanover Inn Dartmouth"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "benchmark",
+        "title": "Night Auditor",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/Night-Auditor_R0065619-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "benchmark",
+        "title": "Security Officer",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Security-Officer_R0065603",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "benchmark",
+        "title": "Cook",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Cook_R0058788-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "benchmark",
+        "title": "Steward",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/Steward_R0065421-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "benchmark",
+        "title": "Assistant F&B Manager FS Rest 1",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Hammock-Beach-Resort/Assistant-F-B-Manager-FS-Rest-1_R0065376-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Hammock Beach Resort"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "benchmark",
+        "title": "Chief Engineer",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn--AC-Oakland-Downtown/Chief-Engineer_R0065393",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Residence Inn & AC Oakland Downtown"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "benchmark",
+        "title": "Bartender - On Call",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/The-Kendall-Hotel/Bartender---On-Call_R0062375",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "The Kendall Hotel"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "benchmark",
+        "title": "Pm Cook",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Virginia-Guesthouse-at-UVA/Pm-Cook_R0065267",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Austria",
+                "city": "Virginia Guesthouse at UVA"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Director of Marketing",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Naples-Grande-Beach-Resort/Director-of-Marketing_R0065255",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Naples Grande Beach Resort"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "House Attendant",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Philadelphia-Downtown/House-Attendant_R0065228",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Hotel Fraye - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Hotel-Fraye/Hotel-Fraye---Current-Associates-Only_R0064942",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Hotel Fraye"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Hotel Maintenance Technician",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Hotel-Maintenance-Technician_R0063302",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "F&B Attendant",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/F-B-Attendant_R0064973",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Lobby Attendant",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Residence-Inn-Berkeley/Lobby-Attendant_R0064968",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Residence Inn Berkeley"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Front Desk agent",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Columbia-Downtown/Front-Desk-agent_R0062664",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Cambria Hotel Columbia Downtown"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Kitchen Steward",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Kitchen-Steward_R0064829",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "HVAC Technician",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Naples-Grande-Beach-Resort/HVAC-Technician_R0064667-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Naples Grande Beach Resort"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Wrigley Mansion - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Wrigley-Mansion/Wrigley-Mansion---Current-Associates-Only_R0064041",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Wrigley Mansion"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Sales Manager - Task Force",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Austin-Downtown/Sales-Manager---Task-Force_R0064316-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "AC Santa Rosa - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/AC-Santa-Rosa/AC-Santa-Rosa---Current-Associates-Only_R0064298",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "AC Santa Rosa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Bartender-2",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Renaissance-Newport-Beach-Hotel/Bartender-2_R0064323",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Renaissance Newport Beach Hotel"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Naples Bay - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Naples-Bay-Resort/Naples-Bay---Current-Associates-Only_R0062823",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Naples Bay Resort"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Salamander - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/The-Potomac-Hotel/Salamander---Current-Associates-Only_R0064015",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "The Potomac Hotel"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Front Desk Agent",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Pittsburgh-Airport-Marriott/Front-Desk-Agent_R0063885",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Pittsburgh"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Guest Room Attendant",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Guest-Room-Attendant_R0063758-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Seasonal Host",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Renaissance-Newport-Beach-Hotel/Seasonal-Host_R0063357",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Renaissance Newport Beach Hotel"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Residential Maintenance Engineer",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/InterContinental-Seattle-Bellevue/Residential-Maintenance-Engineer_R0063281-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Bellevue"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Banquet Cook",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/OKANA-Resort--Indoor-Waterpark/Banquet-Cook_R0062426-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "OKANA Resort & Indoor Waterpark"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Executive Chef",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Wyndham-Boston-Beacon-Hill/Executive-Chef_R0061479",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Landscaper",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Naples-Grande-Beach-Resort/Landscaper_R0062932-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Naples Grande Beach Resort"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Server",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Cambria-Hotel-Columbia-Downtown/Server_R0062674",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Cambria Hotel Columbia Downtown"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Arcadian Hotel Brookline - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Arcadian-Hotel-Brookline/Arcadian-Hotel-Brookline---Current-Associates-Only_R0061313",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Arcadian Hotel Brookline"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Mission Inn Hotel & Spa - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Mission-Inn-Hotel--Spa/Mission-Inn---Hotel---Current-Associates-Only_R0061259",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Mission Inn Hotel & Spa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Executive Chef",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Wyndham-Boston-Beacon-Hill/Executive-Chef_R0061500",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "House Attendant",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Hotel-Flor-Tampa/House-Attendant_R0059273",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Hotel Flor Tampa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "benchmark",
+        "title": "Embassy Suites Waltham - Current Associates Only",
+        "url": "https://benchmark.wd1.myworkdayjobs.com/transition_portal/job/Embassy-Suites-Waltham/Embassy-Suites-Waltham---Current-Associates-Only_R0056321",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Embassy Suites Waltham"
+            }
+        ],
+        "date": "30+"
+    }
+]

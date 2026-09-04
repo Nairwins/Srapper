@@ -1,0 +1,89 @@
+[
+    {
+        "company": "asurion",
+        "title": "Timekeeping Administrator II",
+        "url": "https://asurion.wd5.myworkdayjobs.com/Asurion_Careers_LATAM/job/Bogota---C26/Timekeeping-Administrator-II_ASU0021025",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota - C26"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "asurion",
+        "title": "Payroll Analyst",
+        "url": "https://asurion.wd5.myworkdayjobs.com/Asurion_Careers_LATAM/job/Bogota---C26/Payroll-Analyst_ASU0021024",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Bogota - C26"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "asurion",
+        "title": "HR Solutions Expert I",
+        "url": "https://asurion.wd5.myworkdayjobs.com/Asurion_Careers_LATAM/job/Bogota---C26/HR-Solutions-Expert-I_ASU0020960",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Bogota - C26"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "asurion",
+        "title": "Health & Safety Manager",
+        "url": "https://asurion.wd5.myworkdayjobs.com/Asurion_Careers_LATAM/job/Bogota---C26/Health---Safety-Manager_ASU0020853-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Bogota - C26"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "asurion",
+        "title": "Regional Account Manager",
+        "url": "https://asurion.wd5.myworkdayjobs.com/Asurion_Careers_LATAM/job/Remote---Mexico/Regional-Account-Manager_ASU0020512",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "asurion",
+        "title": "Accounting Manager",
+        "url": "https://asurion.wd5.myworkdayjobs.com/Asurion_Careers_LATAM/job/Mexico-City---Regus/Accounting-Manager_ASU0020372",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "Mexico City"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "asurion",
+        "title": "Director Client Services",
+        "url": "https://asurion.wd5.myworkdayjobs.com/Asurion_Careers_LATAM/job/Mexico-City---Regus/Director-Client-Services_ASU0020179",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "Mexico City"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "company": "allegion",
+        "title": "Technicien Qualité Process",
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers_bricard/job/Abbeville-France/Technicien-Qualit-Process_JR37283-4",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "France",
+                "city": "Abbeville"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "allegion",
+        "title": "Technicien contrôle qualité",
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers_bricard/job/Abbeville-France/Technicien-contrle-qualit_JR37282-3",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "France",
+                "city": "Abbeville"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "allegion",
+        "title": "Technicien Maintenance Automatisme",
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers_bricard/job/Abbeville-France/Technicien-Maintenance-Automatisme_JR36894-4",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "France",
+                "city": "Abbeville"
+            }
+        ],
+        "date": "30+"
+    }
+]

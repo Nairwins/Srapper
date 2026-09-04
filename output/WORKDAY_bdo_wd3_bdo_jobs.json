@@ -1,0 +1,4137 @@
+[
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Accountant--Canadian-Tax-Services_JR7011",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Valuations---Modelling_JR7010",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Manager--Valuations---Modelling_JR7009",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Dynamics 365 CE / CRM & Power Platform Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Dynamics-365-Customer-Engagement--CE--Senior-Consultant_JR6641",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Internal Administration (Winter 2027) Winnipeg",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Internal-Administration--Winter-2027--Winnipeg_JR7001",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant - Google Cloud Advisory - Firebase",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Cloud-Engineer---Google-Cloud-Advisory---Firebase_JR6856",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Cloud Engineer - Google Cloud Platform (GCP)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Cloud-Engineer---Google-Cloud-Platform--GCP-_JR6586",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Platform Engineer - Terraform, Azure",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Platform-Engineer---Terraform--Azure_JR7000",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Brandon (May 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Brandon/New-Grad--Junior-Accountant--Assurance---Brandon--May-2027-_JR6999",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Brandon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Brandon - Summer 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Brandon/Co-op-or-Intern--Assurance---Brandon---Summer-2027_JR6998",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Brandon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Brandon - Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Brandon/Co-op-or-Intern--Assurance---Brandon---Winter-2027_JR6997",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Brandon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Accountant--Assurance_JR6538",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Intermediate-Accountant--Assurance_JR6537",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights (Fall 2026) Oakville",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Co-op-or-Intern--Financial-Reporting---Insights--GTA-Offices--Fall-2026_JR6929",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Tax Transformation (Winter 2027) GTA Offices",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Tax-Transformation--Winter-2027--GTA-Offices_JR6836",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Credits & Incentives (Winter 2027) GTA Offices",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Credits---Incentives--Winter-2027--GTA-Offices_JR6888",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Winnipeg (May 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/New-Grad--Junior-Accountant--Assurance---Winnipeg--May-2027-_JR6992",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Credits & Incentives (Winter 2027) GTA Office",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Credits---Incentives--Winter-2027--GTA-Office_JR6834",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance (Winter 2028) GTA Offices",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Assurance--Winter-2028--GTA-Offices_JR6963",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance (Greater Toronto Area Offices) - Fall 2028",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/New-Grad--Junior-Accountant--Assurance--Greater-Toronto-Area-Offices----Fall-2028_JR6964",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance (Fall 2027) GTA Offices",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Assurance--GTA-Offices--Fall-2027_JR5960",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance (Greater Toronto Area Offices) - Fall 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/New-Grad--Junior-Accountant--Assurance--Greater-Toronto-Area-Offices----Fall-2027_JR5359",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Pembina Valley - Summer 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Pembina-Valley/Co-op-or-Intern--Assurance---Pembina-Valley---Summer-2027_JR6990",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Pembina Valley"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Pembina Valley - Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Pembina-Valley/Co-op-or-Intern--Assurance---Pembina-Valley---Winter-2027_JR6991",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Pembina Valley"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Portage la Prairie - Summer 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Portage-la-Prairie/Co-op-or-Intern--Assurance---Portage-la-Prairie---Summer-2027_JR6989",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Portage la Prairie"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Winnipeg - Fall 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Assurance---Winnipeg---Fall-2027_JR6988",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Winnipeg - Summer 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Assurance---Winnipeg---Summer-2027_JR6987",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Winnipeg - Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Assurance---Winnipeg---Winter-2027_JR6986",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - Manitoba - Fall 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Financial-Reporting---Insights---Manitoba---Fall-2027_JR6995",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - Manitoba - Summer 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Financial-Reporting---Insights---Manitoba---Summer-2027_JR6994",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - Manitoba - Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Financial-Reporting---Insights---Manitoba---Winter-2027_JR6993",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Winnipeg (January 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/New-Grad--Junior-Accountant--Assurance---Winnipeg--January-2027-_JR6982",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Analyst, Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Insolvency-Analyst--Personal-Debt-Solutions_JR6981",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Senior Functional Consultant - Managed Services (Full Time Permanent or Contract Position)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Microsoft-Dynamics-365-F-O-Senior-Consultant---Managed-Services_JR5900",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bdo",
+        "title": "Receptionist, Administration (Contract)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Strathroy/Receptionist--Administration_JR6858",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Strathroy"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Data Quality Analyst",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Senior-Data-Quality-Analyst_JR6403",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, M&A and Capital Markets - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-or-Intern--M-A-and-Capital-Markets---January-2027_JR6803",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Risk Advisory Services - Vancouver or Calgary - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-or-Intern--Risk-Advisory-Services---Vancouver-or-Calgary---January-2027_JR6972",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Administration - Kitchener-Waterloo or Guelph - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Co-op-or-Intern--Administration---Kitchener-Waterloo-or-Guelph---January-2027_JR6875",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Administration - London-Windsor Offices - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Co-op-or-Intern--Administration---London-Windsor-Offices---January-2027_JR6796",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Manager--Assurance_JR6967",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Accountant, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Huntsville/Intermediate-Accountant--Financial-Reporting---Insights_JR6966",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Huntsville"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Accountant--Canadian-Tax-Services_JR6965",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Transaction Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Manager--Transaction-Tax-Services_JR6946",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Manager--Canadian-Tax-Services_JR5612",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Insolvency Analyst",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Junior-Insolvency-Analyst_JR6962",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Transaction Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Manager--Transaction-Services_JR6956",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Administrative Professional, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Guelph---Hanlon-Creek/Administrative-Professional--Assurance_JR6950",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Guelph - Hanlon Creek"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Cloud Engineer - Google Firebase",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Cloud-Engineer---Google-Firebase_JR6948",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Consultant/Senior Consultant, Risk Advisory Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Senior-Consultant--Risk-Advisory-Services_JR6819",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Transaction Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Manager--Transaction-Tax-Services_JR6945",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Marketing Manager – Assurance Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Marketing-Manager---Assurance-Services_JR6937",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Administration (January 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Co-op-or-Intern--Administration--January-2027-_JR6942",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Social Media Manager",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Social-Media-Manager_JR6939",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Manager--Canadian-Tax-Services_JR6943",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/St-Johns---Kenmount-Rd/Co-op-or-Intern--Assurance_JR6941",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "St. John's - Kenmount Rd"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Full-Stack .Net Web Developer, Digital Platforms & Integrations",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Full-Stack-Net-Web-Developer--Digital-Platforms---Integrations_JR6940",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Consultant, Finance Effectiveness & Transformation",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Consultant--Finance-Effectiveness---Transformation_JR6636",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant, Finance Effectiveness & Transformation",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Consultant--Finance-Effectiveness---Transformation_JR6542",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Strategic Pursuit Centre",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Manager--Strategic-Pursuit-Centre_JR6936",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Digital Marketing Specialist, Growth & Digital Performance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Senior-Digital-Marketing-Specialist--Growth---Digital-Performance_JR6928",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Customs & International Trade Services (Mandarin Speaking)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Manager--Customs---International-Trade-Services--Mandarin-Speaking-_JR6926",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Manager--Financial-Reporting---Insights_JR6924",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Manager--Canadian-Tax-Services_JR6463",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Winter 2027) Halifax",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Halifax---Mumford-Rd/Co-op-or-Intern--Canadian-Tax-Services--Winter-2027--Halifax_JR6920",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Halifax"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Alliance Operations Lead, Microsoft Alliance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Alliance-Operations---AI-Enablement-Lead_JR6818",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Winter 2027) Charlottetown",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Charlottetown/Co-op-or-Intern--Canadian-Tax-Services--Winter-2027--Charlottetown_JR6918",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Charlottetown"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, US Corporate Tax Services (January 2027) Edmonton or Calgary",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Co-op-or-Intern--US-Corporate-Tax-Services--January-2027--Edmonton-or-Calgary_JR6917",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, US Corporate Tax Services (January 2027) Oakville",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Co-op-or-Intern--US-Corporate-Tax-Services--January-2027--Oakville_JR6916",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, US Corporate Tax Services (January 2027) Vancouver",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-or-Intern--US-Corporate-Tax-Services--January-2027--Vancouver_JR6915",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, US Corporate Tax Services (Edmonton or Calgary)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Junior-Accountant--US-Corporate-Tax-Services--Edmonton-or-Calgary-_JR6914",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Tax Administration (January 2027) Oakville",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Co-op-or-Intern--Tax-Administration--January-2027--Oakville_JR6912",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Winter 2027) St. John's",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/St-Johns---Kenmount-Rd/Co-op-or-Intern--Canadian-Tax-Services--Winter-2027--St-John-s_JR6919",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "St. John's - Kenmount Rd"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Personal Debt Solutions - Barrie - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Co-op-or-Intern--Personal-Debt-Solutions---Barrie---January-2027_JR6910",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Barrie"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Personal Debt Solutions - Kitchener/Waterloo - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Co-op-or-Intern--Personal-Debt-Solutions---Kitchener-Waterloo---January-2027_JR6751",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Personal Debt Solutions Admin - St. Johns - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/St-Johns---Kenmount-Rd/Co-op-or-Intern--Personal-Debt-Solutions-Admin---St-Johns---January-2027_JR6909",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "St. John's - Kenmount Rd"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Personal Debt Solutions - St. Johns - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/St-Johns---Kenmount-Rd/Co-op-or-Intern--Personal-Debt-Solutions---St-Johns---January-2027_JR6908-1",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "St. John's - Kenmount Rd"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op, Personal Debt Solutions - Calgary - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Co-op--Personal-Debt-Solutions---Calgary---January-2027_JR6907",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Financial Analyst, Valuations & Modeling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Financial-Analyst--Valuations---Modeling_JR6903",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Accountant--Financial-Reporting---Insights_JR6902",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Accountant,  Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Intermediate-Accountant---Financial-Reporting---Insights_JR6901",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Financial Planner - Wealth Management",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Financial-Planner---Wealth-Management_JR6125",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Executive Assistant, Advisory (18-Months Contract)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Executive-Assistant--Advisory--12-Months-Contract-_JR6627",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "ServiceNow Senior Developer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/ServiceNow-Senior-Developer_JR5588",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "ServiceNow Functional Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/ServiceNow-Functional-Consultant_JR6421",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Manager--Financial-Reporting---Insights_JR6899",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Campus Recruitment Specialist",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Campus-Recruitment-Specialist_JR6897",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Data/Software Solutions Manager, GCP Practice",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Technical-Leader--GCP-Practice_JR4331",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, US Corporate Tax Services (Montreal)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Junior-Accountant--US-Corporate-Tax-Services--Montreal-_JR6895",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, US Corporate Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--US-Corporate-Tax-Services_JR6410",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "bdo",
+        "title": "Administrative Professional, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Sarnia/Administrative-Professional--Financial-Reporting---Insights_JR6892",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Sarnia"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, US Corporate Tax Services (Winter 2027) Montreal",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Co-op-or-Intern--US-Corporate-Tax-Services--Winter-2027--Montreal_JR6891",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Credits & Incentives (Winter 2027) Waterloo",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Co-op-or-Intern--Credits---Incentives--Winter-2027--Waterloo_JR6889",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bdo",
+        "title": "Strategic Industry Manager, Markets & Industry",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Strategic-Industry-Manager--Markets---Industry_JR6510",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bdo",
+        "title": "Vice President (Manager), M&A and Capital Markets",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Vice-President--Manager---M-A-and-Capital-Markets_JR6864",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bdo",
+        "title": "Vice President (Manager), M&A and Capital Markets",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Vice-President--M-A-and-Capital-Markets_JR6527",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Senior Consultant - Project Management & Accounting (Full-Time Permanent or Contract)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Microsoft-Dynamics-365-F-O-Project-Management---Accounting-Consultant_JR5686",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Project Management & Accounting Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Microsoft-Dynamics-365-F-O-Project-Management---Accounting-Consultant_JR5687",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Asset Management Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Microsoft-Dynamics-365-F-O-Asset-Management-Consultant_JR5685-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Senior Finance Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Dynamics-365-F-O-Senior-Finance-Consultant_JR6352",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Senior Finance Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Dynamics-365-F-O-Senior-Finance-Consultant_JR6350",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Senior Finance Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Dynamics-365-F-O-Senior-Finance-Consultant_JR6351",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Project Manager, Microsoft Dynamics 365 F&O",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Project-Manager--Microsoft-Dynamics-365-F-O_JR6880",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Project Manager, Microsoft Dynamics 365 F&O",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Project-Manager--Microsoft-Dynamics-365-F-O_JR6879",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance (Asset Management)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Accountant--Assurance--Asset-Management-_JR6486",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Analyst - Personal Debt Solutions Team",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Insolvency-Analyst---Personal-Debt-Solutions-Team_JR6877",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Technology - Banking Cloud Solutions Leader",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Manager--Technology---Banking-Market-Leader_JR6640-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance - China Practice",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Markham/Senior-Accountant--Assurance---China-Practice_JR6445",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Markham"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 Finance & SCM (D365 F&O) Presales Solution Architect",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Dynamics-365-Finance---SCM--D365-F-O--Presales-Solution-Architect_JR6868",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 Finance & SCM (D365 F&O) Presales Solution Architect",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Dynamics-365-Finance---SCM--D365-F-O--Presales-Solution-Architect_JR6872-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 Finance & SCM (D365 F&O) Presales Solution Architect",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Dynamics-365-Finance---SCM--D365-F-O--Presales-Solution-Architect_JR6869",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Advisor",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oshawa/Insolvency-Advisor_JR6866",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Oshawa"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance - Barrie - Fall 2026",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Junior-Accountant--Assurance---Barrie---Fall-2026_JR6863",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Barrie"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Red-Deer/Senior-Accountant--Canadian-Tax-Services_JR6862",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Red Deer"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Risk Advisory Services - Montreal - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Co-op-or-Intern--Risk-Advisory-Services---Montreal---January-2027_JR6861-1",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Technology - Google Firebase",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Manager--Technology---Google-Firebase_JR6855",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant, Modern Workplace Technology Consulting",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Consultant--Modern-Workplace-Technology-Consulting_JR6577",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (Kelowna) January or September 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kelowna/Junior-Accountant--Assurance--Kelowna--Fall-2026-or-Winter-2027_JR5677",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Kelowna"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (Revelstoke) January or September 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Revelstoke/Junior-Accountant--Assurance--Revelstoke--Fall-2026-or-Winter-2027_JR5682",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Revelstoke"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (Salmon Arm) January or September 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Salmon-Arm/Junior-Accountant--Assurance--Salmon-Arm--Fall-2026-or-Winter-2027_JR5679",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Salmon Arm"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (Vernon) January or September 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vernon/Junior-Accountant--Assurance--Vernon--Fall-2026-or-Winter-2027_JR5681",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Vernon"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (Kamloops) January or September 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kamloops/Junior-Accountant--Assurance--Kamloops--Fall-2026-or-Winter-2027_JR5678",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Kamloops"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Financial Reporting and Insights - Greater Vancouver Offices - September 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Junior-Accountant--Financial-Reporting-and-Insights---Greater-Vancouver-Offices---September-2027_JR6844",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Financial Reporting and Insights - Greater Vancouver Offices - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Junior-Accountant--Financial-Reporting-and-Insights---Greater-Vancouver-Offices---January-or-September-2027_JR6843",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) May 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kelowna/Co-op-or-Intern--Financial-Reporting---Insights--BC-Interior-Offices--May-2027_JR6334",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Kelowna"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kelowna/Co-op-or-Intern--Financial-Reporting---Insights--BC-Interior-Offices--Winter-2027_JR5683",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Kelowna"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance (Winter 2027) Greater Vancouver Area",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-or-Intern--Assurance--Winter-2027--Greater-Vancouver-Area_JR6010",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance - Greater Vancouver Offices - Fall 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Junior-Accountant--Assurance---Greater-Vancouver-Offices---Fall-2027_JR6024",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance - Greater Vancouver Offices - Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Junior-Accountant--Assurance---Greater-Vancouver-Offices---Winter-2027_JR6000",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights (Winter 2027) Greater Vancouver Area",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-or-Intern--Financial-Reporting---Insights--Winter-2027--Greater-Vancouver-Area_JR6157",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kelowna/Manager--Financial-Reporting---Insights_JR6390",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Kelowna"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Salmon-Arm/Senior-Accountant--Assurance_JR3973",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "ARM",
+                "city": "Salmon"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Executive Assistant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Executive-Assistant_JR6691",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, International Tax Services (Summer 2027) Vancouver",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-or-Intern--International-Tax-Services--Summer-2027--Vancouver_JR6837",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Tax Transformation (Winter 2027) Kitchener-Waterloo Region",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Co-op-or-Intern--Tax-Transformation--Winter-2027--Kitchener-Waterloo-Region_JR6835",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern - Forensic Disputes & Investigations - Toronto - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern---Forensic-Disputes---Investigations---Toronto---January-2027_JR6806-1",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern - Risk Advisory Services - Toronto - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern---Risk-Advisory-Services---Toronto---January-2027_JR6805",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Valuations & Modelling - Toronto - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Valuations---Modelling---Toronto---January-2027_JR6804",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, M&A and Capital Markets - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--M-A-and-Capital-Markets---January-2027_JR6802",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, International Tax Services (Winter 2027) Toronto - Bay St",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--International-Tax-Services--Winter-2027--Toronto---Bay-St_JR6492",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, International Tax Services (Summer 2027) Toronto - Bay St",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--International-Tax-Services--Summer-2027--Toronto---Bay-St_JR6833",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Expatriate Tax Services (Winter 2027) Windsor",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Windsor---Rhodes-St/Co-op-or-Intern--Expatriate-Tax-Services--Winter-2027--Windsor_JR6832",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Windsor - Rhodes St"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Expatriate Tax Services (Winter 2027) Toronto",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Expatriate-Tax-Services--Winter-2027--Toronto_JR6830",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Fall 2027) Toronto Bay Street",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Canadian-Tax-Services--Fall-2027--Toronto-Bay-Street_JR6827",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Summer 2027) Toronto Bay Street",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Canadian-Tax-Services--Summer-2027--Toronto-Bay-Street_JR6826",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Winter 2027) Toronto Bay Street",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Canadian-Tax-Services--Winter-2027--Toronto-Bay-Street_JR6825",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (PGT) - Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Co-op-or-Intern--Canadian-Tax-Services--PGT----Winter-2027_JR6824",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Winter 2027) Vancouver",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-or-Intern--Canadian-Tax-Services--Winter-2027--Vancouver_JR6822",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Canadian Tax Services (Fall 2027) Calgary",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Junior-Accountant--Canadian-Tax-Services--Fall-2027--Calgary_JR6829",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Canadian Tax Services (Winter 2027) Ottawa",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Co-op-or-Intern--Canadian-Tax-Services--Winter-2027--Ottawa_JR6828",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Risk Advisory Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Manager--Risk-Advisory-Services_JR6820",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Indigenous Student Program – Multiple Locations – Summer 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Indigenous-Student-Program---Multiple-Locations---Summer-2027_JR6816-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, FR&I (Winter or Summer 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Co-op-or-Intern--FR-I--Winter-2027-_JR6750",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Talent Development",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Talent-Development_JR6815",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Talent Development",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Manager--Talent-Development_JR6814",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance - Sault Ste Marie - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Sault-Ste-Marie/Junior-Accountant--Assurance---Sault-Ste-Marie---January-2027_JR6813",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Sault Ste. Marie"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Sault Ste. Marie - May 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Sault-Ste-Marie/Co-op-or-Intern--Assurance---Sault-Ste-Marie---May-2027_JR6812",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Sault Ste. Marie"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Sault Ste. Marie - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Sault-Ste-Marie/Co-op-or-Intern--Assurance---Sault-Ste-Marie---January-2027_JR6811",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Sault Ste. Marie"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - North Bay, Barrie - May 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/North-Bay---Devonshire-Avenue/Co-op-or-Intern--Financial-Reporting---Insights---North-Bay--Barrie---May-2027_JR6810",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Avenue",
+                "city": "North Bay Devonshire"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - North Bay, Barrie - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/North-Bay---Devonshire-Avenue/Co-op-or-Intern--Financial-Reporting---Insights---North-Bay--Barrie---January-2027_JR6809",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Avenue",
+                "city": "North Bay Devonshire"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance or Financial Reporting & Insights - Multiple Locations - September 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Co-op-or-Intern--Assurance-or-Financial-Reporting---Insights---Multiple-Locations---September-2027_JR6808",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Multiple Locations - January 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Co-op-or-Intern--Assurance---Multiple-Locations---January-2027_JR6807",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "bdo",
+        "title": "Databricks Solution Architect",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Databricks-Solution-Architect_JR6061",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "bdo",
+        "title": "AI Engineer - Generative & Agentic AI",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/AI-Engineer---Generative---Agentic-AI_JR5256",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Advisor,  Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Insolvency-Advisor---Personal-Debt-Solutions_JR6791",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Financial Analyst, Business Restructuring and Turnaround Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Senior-Financial-Analyst--Business-Restructuring-and-Turnaround-Services_JR5630",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "bdo",
+        "title": "Client Service Professional, Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oshawa/Client-Service-Professional--Personal-Debt-Solutions_JR6780",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Oshawa"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Advisor,  Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Sudbury---Westmount-Ave/Insolvency-Advisor---Personal-Debt-Solutions_JR6271",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "AVE",
+                "city": "Sudbury Westmount"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Risk Advisory Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Manager--Risk-Advisory-Services_JR6677",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Financial Reporting & Insights - Red Deer (January 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Red-Deer/New-Grad--Junior-Accountant--Financial-Reporting---Insights---Red-Deer--January-2027-_JR6382",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Red Deer"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - Red Deer (September 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Red-Deer/Co-op-or-Intern--Financial-Reporting---Insights---Red-Deer--September-2027-_JR6384",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Red Deer"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - Red Deer (May 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Red-Deer/Co-op-or-Intern--Financial-Reporting---Insights---Red-Deer--May-2027-_JR6383",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Red Deer"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Red Deer (September 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Red-Deer/New-Grad--Junior-Accountant--Assurance---Red-Deer--September-2027-_JR6380",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Red Deer"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance – Edmonton – September 2027 (New Grad)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---September-2027--New-Grad-_JR5884",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights - Calgary (January 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Co-op-or-Intern--Financial-Reporting---Insights---Calgary--January-2027-_JR6042",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Calgary (January 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--January-2027-_JR6036",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Calgary (September 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--September-2027-_JR6037",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Administrative Professional, Indirect Tax",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Administrative-Professional--Indirect-Tax_JR6759-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance (Winter 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Co-op-or-Intern--Assurance_JR6748",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (January 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Junior-Accountant--Assurance--January-2027-_JR6749",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance (May 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Co-op-or-Intern--Assurance--May-2027-_JR6730",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (Winter 2027 or Fall 2027 or Winter 2028)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Junior-Accountant--Assurance--Winter-2027-or-Fall-2027-or-Winter-2028-_JR6726",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, FR&I (Winter 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Halifax---Mumford-Rd/Co-op-or-Intern--FR-I--Winter-2027-_JR6734",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Halifax"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (September 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Halifax---Mumford-Rd/Junior-Accountant--Assurance--September-2027-_JR6733",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Halifax"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Manager--Valuations---Modelling_JR5728",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance (Winter 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Halifax---Mumford-Rd/Co-op-or-Intern--Assurance--Winter-2027-_JR6732",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Halifax"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Manager--Valuations---Modelling_JR5971",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Insolvency Analyst, Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/North-Bay---Devonshire-Avenue/Junior-Insolvency-Analyst--Personal-Debt-Solutions_JR6746",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Avenue",
+                "city": "North Bay Devonshire"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, US Corporate Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Manager--US-Corporate-Tax-Services_JR6742",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, U.S. Corporate Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Manager--US-Corporate-Tax-Services_JR6740-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "bdo",
+        "title": "Manager – Digital, Data & AI Strategy & Transformation",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/XMLNAME--Senior-Consultant-or-Manager---Digital--Data---AI-Strategy---Transformation_JR4850",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, AI & Digital Strategy Consulting",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Manager--AI---Digital-Strategy-Consulting_JR6195",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Senior-Accountant--Canadian-Tax-Services_JR6724",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Barrie"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Asset Management Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Microsoft-Dynamics-365-F-O-Asset-Management-Consultant_JR5684",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Associate, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Intermediate-Associate--Financial-Reporting---Insights_JR6713",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bdo",
+        "title": "Specialist, Diversity, Equity, Inclusion & Accessibility (DEIA)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Specialist--Diversity--Equity--Inclusion---Accessibility--DEIA-_JR6720",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bdo",
+        "title": "Specialist, Diversity, Equity, Inclusion & Accessibility (DEIA)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Specialist--Diversity--Equity--Inclusion---Accessibility--DEIA-_JR6719",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Senior Developer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Microsoft-Dynamics-365-F-O-Senior-Developer_JR6718",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Senior Developer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Microsoft-Dynamics-365-F-O-Senior-Developer_JR6716",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Modern Workplace Technology Consulting",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Modern-Workplace-Technology-Consulting_JR6712",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Modern Workplace Technology Consulting",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Manager--Modern-Workplace-Technology-Consulting_JR6576-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Senior-Manager--Canadian-Tax-Services_JR6709",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Barrie"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Manager--Personal-Debt-Solutions_JR6705",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Halifax---Lacewood-Dr/Senior-Manager--Personal-Debt-Solutions_JR6704",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Halifax"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bdo",
+        "title": "Junior Accountant, Assurance (May or September 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/St-Johns---Kenmount-Rd/Junior-Accountant--Assurance--May-or-September-2027-_JR6696",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "St. John's - Kenmount Rd"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bdo",
+        "title": "Bilingual Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Bilingual-Senior-Accountant--Assurance_JR4421",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bdo",
+        "title": "Bilingual Senior Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Bilingual-Senior-Manager--Assurance_JR4420",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Technology Consulting – Application & AI Engineering",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Manager--Technology-Consulting---Application---AI-Engineering_JR6695",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Saskatoon---2nd-Avenue-South/Manager--Assurance_JR5551",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Saskatoon - 2nd Avenue South"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Privacy Compliance Advisory",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Manager--Privacy-Compliance-Advisory_JR6693",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Senior-Manager--Canadian-Tax-Services_JR6692",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Team Lead, Cloud Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Team-Lead--Cloud-Services_JR6682",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Team Lead, Cloud Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Team-Lead--Cloud-Services_JR6681",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Senior-Accountant--Assurance_JR6549",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Barrie"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Intermediate-Accountant--Assurance_JR6238",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Barrie"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Advisor,  Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Insolvency-Advisor---Personal-Debt-Solutions_JR6604",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Advisor,  Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kingston---Elliott-Av/Insolvency-Advisor---Personal-Debt-Solutions_JR6553",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Kingston - Elliott Av"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant, Migration Engineer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Consultant--Migration-Engineer_JR6657",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/North-Bay---Devonshire-Avenue/Senior-Accountant--Canadian-Tax-Services_JR6654",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "North Bay - Devonshire Avenue"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Senior-Manager--Assurance_JR6653",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Manager--Assurance_JR6651",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Counsellor, Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Mississauga---Kingsbridge-Garden-Cr/Insolvency-Counsellor--Personal-Debt-Solutions_JR6649",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Mississauga"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Global Delivery & Offshore Leader",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Global-Delivery---Offshore-Leader_JR6598",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Advisor,  Personal Debt Solutions",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Insolvency-Advisor---Personal-Debt-Solutions_JR6638",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Administrative Professional, Credits & Incentives",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Administrative-Professional--Credits---Incentives_JR6625",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Full Stack Developer, Assurance Innovation Lab",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Full-Stack-Developer--ASR_JR5877",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, US Corporate Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Manager--US-Corporate-Tax-Services_JR6621",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "AI Scientist & Engineer, Assurance Innovation Lab",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/AI-Scientist---Engineer--Assurance-Innovation-Lab_JR6615",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Full Stack Developer, Assurance Innovation Lab",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Full-Stack-Developer--Assurance-Innovation-Lab_JR6614",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Enterprise Managed Services Leader",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Enterprise-Managed-Services-Leader_JR6600",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Campus Recruitment Specialist",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Campus-Recruitment-Specialist_JR6602",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kelowna/Senior-Manager--Canadian-Tax-Services_JR6589",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Kelowna"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Associate/ Senior Associate, Transaction Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Associate--Senior-Associate--Transaction-Services_JR6472",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager / Senior Manager, Risk Advisory Services (Evaluation)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Manager---Senior-Manager--Risk-Advisory-Services--Evaluation-_JR6583",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Risk Advisory Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Manager--Risk-Advisory-Services_JR6584",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Solution Architect",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Microsoft-Dynamics-365-F-O-Solution-Architect_JR2201",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Solution Architect",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Microsoft-Dynamics-365-F-O-Solution-Architect_JR5592",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Senior Supply Chain Management Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Dynamics-365-F-O-Senior-Supply-Chain-Management-Consultant_JR6354",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Senior Functional Consultant - Managed Services (Full Time Permanent or Contract Position)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Microsoft-Dynamics-365-F-O-Senior-Functional-Consultant---Managed-Services--Full-Time-Permanent-or-Contract-Position-_JR6132",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Consultant, Modern Workplace Technology Consulting",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Consultant--Modern-Workplace-Technology-Consulting_JR6578",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Technical Support Analyst",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Technical-Support-Analyst_JR6572",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op/Intern – Forensic Disputes & Investigation (FDI) Calgary or Vancouver | January – April 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Co-op-Intern---Forensic-Disputes---Investigation--FDI--Calgary-or-Vancouver---January---April-2027_JR6569",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "AI Scientist & Engineer, Assurance Innovation Lab",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Senior-Data-Scientist--ASR_JR5874",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Markham/Senior-Manager--Canadian-Tax-Services_JR6284",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Markham"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Senior Supply Chain Management Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Dynamics-365-F-O-Senior-Supply-Chain-Management-Consultant_JR6353",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Portage-la-Prairie/Manager--Financial-Reporting---Insights_JR6555",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Portage la Prairie"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Learning Experience Designer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Learning-Experience-Designer_JR6505",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant, Cyber Risk Management & Transformation",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Senior-Consultant--Cyber-Risk-Management---Transformation_JR6534",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Receptionist, Administration (18-month Contract)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vernon/Receptionist--Administration--18-month-Contract-_JR6529",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Vernon"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Business Restructuring and Turnaround Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Senior-Manager--Business-Restructuring-and-Turnaround-Services_JR6526",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Business Restructuring & Turnaround Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Manager--Business-Restructuring---Turnaround-Services_JR6524",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Expatriate Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Manager--Expatriate-Tax-Services_JR6508",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Business Architect",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Business-Architect_JR6495",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Assurance (Asset Management)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Manager--Assurance--Asset-Management-_JR6487",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Senior-Manager--Canadian-Tax-Services_JR6482",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Information Security Analyst",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Information-Security-Analyst_JR6481",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Revelstoke/Senior-Manager--Canadian-Tax-Services_JR6473",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Revelstoke"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Scrum Master, IT",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Scrum-Master--IT_JR6469",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Manager--Canadian-Tax-Services_JR6080",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Senior-Manager--Canadian-Tax-Services_JR6079",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Manager--Assurance_JR6029",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Accountant--Assurance_JR6030",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Customer Success Manager, Dynamics 365 Managed Services (Business Central, F&O & CE)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Customer-Success-and-Project-Manager--ERP-Managed-Services-Practice_JR5812",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Customer Success Manager, Dynamics 365 Managed Services (Business Central, F&O & CE)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Customer-Success-and-Project-Manager--Solution-Operations--Managed-Services--Practice_JR5651",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Client Success Manager Lead – BizApps Managed Services (Microsoft Dynamics 365 BC/F&O/CE, NetSuite, Power Platform)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Client-Success-Manager-Lead---BizApps-Managed-Services--Microsoft-Dynamics-365-BC-F-O-CE--NetSuite--Power-Platform-_JR6077",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Developer, Development Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Senior-Developer--Development-Services_JR5870",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Office Operations",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Manager--Office-Operations_JR6406",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Accountant--Assurance_JR5527",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance (Public Company Services)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Senior-Accountant--Assurance_JR6368",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Administrative Professional, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Senior-Administrative-Professional--BSO_JR6444",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Senior-Manager--Assurance_JR6443",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Manager--Assurance_JR6442",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant - Digital, Data & AI Strategy & Transformation",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Consultant---Digital--Data---AI-Strategy---Transformation_JR6065",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant - Digital, Data & AI Strategy & Transformation",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/XMLNAME--Senior-Consultant-or-Manager---Digital--Data---AI-Strategy---Transformation_JR4854",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Canadian-Tax-Services_JR6396",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Production Senior Consultant or Manager",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Dynamics-365-F-O-Production-Senior-Consultant-or-Manager_JR6358",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Production Senior Consultant or Manager",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Dynamics-365-F-O-Production-Senior-Consultant-or-Manager_JR6356-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Dynamics 365 F&O Senior Supply Chain Management Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Dynamics-365-F-O-Senior-Supply-Chain-Management-Consultant_JR6355",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Data Scientist, Tax Transformation Office",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Data-Scientist--Tax-Transformation-Office_JR6427-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Full Stack Developer, Tax Transformation Office",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Full-Stack-Developer--Tax-Transformation-Office_JR6426",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Assurance_JR5319",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Technical / Development Team Lead",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Microsoft-Dynamics-365-F-O-Technical---Development-Team-Lead_JR5452",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Microsoft Dynamics 365 F&O Technical / Development Team Lead",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Microsoft-Dynamics-365-F-O-Technical---Development-Team-Lead_JR5688",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Wealth Advisor",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Wealth-Advisor_JR6135-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior MS Fabric Engineer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-MS-Fabric-Engineer_JR6312-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Intermediate-Accountant--Assurance_JR5782",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Vancouver"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Manager--Canadian-Tax-Services_JR6268",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Senior-Manager--Valuations---Modelling_JR6262",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Kitchener-Waterloo---Caroline-St/Manager--Valuations---Modelling_JR6263",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Kitchener"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Data Engineer (Databricks Focused)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Data-Engineer--Databricks-Focused-_JR6214",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Machine Learning Engineer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Machine-Learning-Engineer_JR6213",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/Senior-Accountant--Assurance_JR5264",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Ottawa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Accounts Payable Administrator",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Accounts-Payable-Administrator_JR6111",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Halifax---Mumford-Rd/Manager--Canadian-Tax-Services_JR5634",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Halifax"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Senior-Accountant--Assurance_JR6071",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Lawyer, Tax Controversy and Dispute Resolution",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Lawyer--Tax-Controversy-and-Dispute-Resolution_JR6058",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Insolvency Advisor",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Insolvency-Advisor_JR5855",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Edmonton"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Red-Deer/Senior-Accountant--Assurance_JR5094-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Red Deer"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Red-Deer/Intermediate-Accountant--Assurance_JR5093",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Red Deer"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "AI Engineer",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/AI-Engineer_JR5827",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Developer Advocate, AI Enablement",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Developer-Advocate--AI-Enablement_JR5761",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand",
+                "city": "Wellington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/London/Senior-Accountant--Assurance_JR5561",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Financial Reporting & Insights",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Guelph---Hanlon-Creek/Manager--Financial-Reporting---Insights_JR5508",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Guelph - Hanlon Creek"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Canadian Tax Services",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Accountant--Canadian-Tax-Services_JR7011",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Valuations---Modelling_JR7010",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Manager, Valuations & Modelling",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Manager--Valuations---Modelling_JR7009",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Montreal"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Dynamics 365 CE / CRM & Power Platform Consultant",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Dynamics-365-Customer-Engagement--CE--Senior-Consultant_JR6641",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Internal Administration (Winter 2027) Winnipeg",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Co-op-or-Intern--Internal-Administration--Winter-2027--Winnipeg_JR7001",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Consultant - Google Cloud Advisory - Firebase",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Cloud-Engineer---Google-Cloud-Advisory---Firebase_JR6856",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Cloud Engineer - Google Cloud Platform (GCP)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Cloud-Engineer---Google-Cloud-Platform--GCP-_JR6586",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Platform Engineer - Terraform, Azure",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Platform-Engineer---Terraform--Azure_JR7000",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Brandon (May 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Brandon/New-Grad--Junior-Accountant--Assurance---Brandon--May-2027-_JR6999",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Brandon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Brandon - Summer 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Brandon/Co-op-or-Intern--Assurance---Brandon---Summer-2027_JR6998",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Brandon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance - Brandon - Winter 2027",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Brandon/Co-op-or-Intern--Assurance---Brandon---Winter-2027_JR6997",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Brandon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Senior Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Accountant--Assurance_JR6538",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Intermediate Accountant, Assurance",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Intermediate-Accountant--Assurance_JR6537",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Financial Reporting & Insights (Fall 2026) Oakville",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Co-op-or-Intern--Financial-Reporting---Insights--GTA-Offices--Fall-2026_JR6929",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "city": "Oakville"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Tax Transformation (Winter 2027) GTA Offices",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Tax-Transformation--Winter-2027--GTA-Offices_JR6836",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Credits & Incentives (Winter 2027) GTA Offices",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Credits---Incentives--Winter-2027--GTA-Offices_JR6888",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance - Winnipeg (May 2027)",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/New-Grad--Junior-Accountant--Assurance---Winnipeg--May-2027-_JR6992",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Winnipeg"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Credits & Incentives (Winter 2027) GTA Office",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Credits---Incentives--Winter-2027--GTA-Office_JR6834",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "Co-op or Intern, Assurance (Winter 2028) GTA Offices",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Assurance--Winter-2028--GTA-Offices_JR6963",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bdo",
+        "title": "New Grad: Junior Accountant, Assurance (Greater Toronto Area Offices) - Fall 2028",
+        "url": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/New-Grad--Junior-Accountant--Assurance--Greater-Toronto-Area-Offices----Fall-2028_JR6964",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Toronto"
+            }
+        ],
+        "date": 1
+    }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Safety Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/St-Louis-MO/Entry-Level-Safety-Engineer_R022718",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "MO",
+                "city": "St. Louis"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Validation Engineering Internship/Co-Op (Summer 2027 or 6-Month)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Raleigh-NC/Validation-Engineering-Internship-Co-Op--Summer-2027-or-6-Month-_R022715",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Raleigh"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Architecture, Engineering & Construction Engineering Internship/Co-Op (Summer 2027 or 6-Month)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Fort-Worth-TX-USA/Architecture--Engineering---Construction-Engineering-Internship-Co-Op--Summer-2027-or-6-Month-_R022717",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Fort Worth"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Controls Engineering  Internship/Co-Op (Summer 2027 or 6-Month)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Remote---USA/Controls-Engineering-Co-Op_R022664",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 0,
+        "remote": true
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Material Handler",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Baltimore-MD/Material-Handler_R022682-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Baltimore"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Apprenti Fraiseur",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Le-Mans-France/Apprenti-Fraiseur_R022640",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "France",
+                "city": "Le Mans"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Hygienist (327)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/aak-Serbia/Hygienist--327-_R021906",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Serbia",
+                "city": "Čačak"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Validation Engineer - Experienced",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Raleigh-NC/Validation-Engineer---Experienced_R018829",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Raleigh"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Alliance Intern",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Spokane-WA/Alliance-Intern_R022693",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "WA",
+                "city": "Spokane"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Supervisor, Warehouse",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/aak-Serbia/Supervisor--Warehouse_R022635",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Serbia",
+                "city": "Čačak"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Validation Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Indianapolis-IN/Entry-Level-Validation-Engineer_R022662",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Indianapolis"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Technician, Electro-mechanical II",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Hori-Switzerland/Technician--Electro-mechanical-I_R021739",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Switzerland",
+                "city": "Hori"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Instrumentation & Controls Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Entry-Level-Instrumentation---Controls-Engineer_R022650",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Dallas"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Project Engineer, Packaging",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/St-Louis-MO/Entry-Level-Project-Engineer--Food---Beverage_R022648",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "MO",
+                "city": "St Louis"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Project Engineer, Project Management",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Fort-Worth-TX/Entry-Level-Project-Engineer--Project-Management_R022647",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "Fort Worth"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Erodeur",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Le-Mans-France/Erodeur_R022111",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "France",
+                "city": "Le Mans"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level PreConstruction Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Fort-Worth-TX/Entry-Level-PreConstruction-Engineer_R022646",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "Fort Worth"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Project Engineer, Construction",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Fort-Worth-TX/Entry-Level-Project-Engineer--Construction_R022645",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "Fort Worth"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Fire Protection Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Fort-Worth-TX/Entry-Level-Fire-Protection-Engineer_R022644",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "Fort Worth"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry-Level Mechanical Engineer, HVAC & Plumbing",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Atlanta-GA/Entry-Level-Mechanical-Engineer--HVAC---Plumbing_R022643",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Atlanta"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Electrical Engineer, Power & Lighting",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Portland-OR/Entry-Level-Electrical-Engineer--Power---Lighting_R022641",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Portland"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Structural Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Fort-Worth-TX/Entry-Level-Structural-Engineer_R022639",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "Fort Worth"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Painter, Production II",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/aak-Serbia/Painter--Production-II_R022566",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Serbia",
+                "city": "Čačak"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Process Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Concord-NH/Entry-Level-Process-Engineer_R022631",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "NH",
+                "city": "Concord"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Architectural Designer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Fort-Worth-TX/Entry-Level-Architectural-Designer_R022627",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "Fort Worth"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry level Controls Engineer - Data Center",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Remote---USA/Entry-level-Controls-Engineer---Data-Center_R022626",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 7,
+        "remote": true
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Controls Engineer (West - OR, NV, CA, AZ, WA)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Portland-OR/Entry-Level-Controls-Engineer--West---OR--NV--CA--AZ--OR--NV--WA-_R022624",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Portland"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Electromechanical Assembler II",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Spokane-WA/Electromechanical-Assembler-II_R022620",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "WA",
+                "city": "Spokane"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Controls Engineer (South - MD, GA, TX, SC, MO, NC)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Entry-Level-Controls-Engineer--South---MD--GA--TX--SC--MO--NC-_R022617",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Dallas"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Controls Engineer (IL, IN, WI, OH, MN, NJ, PA)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Philadelphia-PA/Entry-Level-Controls-Engineer--IL--IN--WI--OH--MN--NJ--PA-_R022616",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Apprenti Monteur",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Le-Mans-France/Apprenti-Monteur_R022533",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "France",
+                "city": "Le Mans"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Project Accountant",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Greenville-SC/Project-Accountant_R022523",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "SC",
+                "city": "Greenville"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Project Manager II",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Houston-TX/Project-Manager-II_R021576",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Controls Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/San-Antonio-TX/Entry-Level-Controls-Engineer_R022421",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "San Antonio"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Entry Level Controls Engineer",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Abilene-TX-USA/Entry-Level-Controls-Engineer_R022390",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Abilene"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Architect III",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Raleigh-NC/Architect-III_R022418",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Raleigh"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Director of Business Development",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/St-Louis-MO/Director-of-Business-Development_R022240",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "MO",
+                "city": "St. Louis"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Apprenti(e) Monteur(euse) Assembleur(euse)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Puiseux-Pontoise-France/Apprenti-e--Monteur-euse--Assembleur-euse-_R022339",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "France",
+                "city": "Puiseux-Pontoise"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Regional P&L Leader, West",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Remote---USA/Regional-P-L-Leader--West_R022016",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 28,
+        "remote": true
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Sr. Recruiter - Life Science",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Philadelphia-PA/Sr-Recruiter---Life-Science_R022283-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Regional P&L Leader, East",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Remote---USA/Regional-P-L-Leader--East_R022017",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Electrical Assembler I",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Spokane-WA/Electrical-Assembler-I_R022013",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "WA",
+                "city": "Spokane"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Senior Project Manager - Project Development",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Philadelphia-PA/Senior-Project-Manager---Project-Development_R020000-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Bewerberpool/Initiativbewerbung",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Remote---Germany/Bewerberpool-Initiativbewerbung_R021110",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Germany"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Controls Engineer - Data Centers",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Sterling-VA/Controls-Engineer---Data-Centers_R020303",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "VA",
+                "city": "Sterling"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Associate",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/St-Louis-MO/Associate_R020116",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "MO",
+                "city": "St. Louis"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Accounting Associate (m/f/d)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dreieich-Sprendlingen-Germany/Accounting-Associate--m-f-d-_R019589",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Germany",
+                "city": "Dreieich-Sprendlingen"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Mechanical Engineering Intern",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Waukesha-WI/Mechanical-Engineering-Intern_R019366",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "WI",
+                "city": "Waukesha"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Mechanical Engineering Co-Op",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Phillips-WI/Mechanical-Engineering-Co-Op_R019365",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "WI",
+                "city": "Phillips"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "barrywehmiller",
+        "title": "Welder/Fabricator II/III (Swing Shift)",
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Spokane-WA/Welder-Fabricator-II-III--Swing-Shift-_R017645-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "WA",
+                "city": "Spokane"
+            }
+        ],
+        "date": "30+"
+    }
+]

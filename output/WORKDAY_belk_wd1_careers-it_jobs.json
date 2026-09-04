@@ -1,0 +1,54 @@
+[
+    {
+        "company": "belk",
+        "title": "Sr. IT Security Engineer (Hybrid)",
+        "url": "https://belk.wd1.myworkdayjobs.com/careers-it/job/Charlotte-NC---Corporate-Office/Sr-IT-Security-Engineer--Hybrid-_JR-104843",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Charlotte"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "belk",
+        "title": "PC Maintenance Technician",
+        "url": "https://belk.wd1.myworkdayjobs.com/careers-it/job/Macon-GA---ShopsRiver-Crossing-Belk/PC-Maintenance-Technician_JR-104668-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Belk",
+                "city": "Macon Ga Shopsriver Crossing"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "belk",
+        "title": "Software Engineer",
+        "url": "https://belk.wd1.myworkdayjobs.com/careers-it/job/Charlotte-NC---Corporate-Office/Software-Engineer_JR-103156",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Charlotte"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "belk",
+        "title": "Linux Systems Engineer (Hybrid)",
+        "url": "https://belk.wd1.myworkdayjobs.com/careers-it/job/Charlotte-NC---Corporate-Office/Systems-Engineer_JR-101459",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Charlotte"
+            }
+        ],
+        "date": "30+"
+    }
+]

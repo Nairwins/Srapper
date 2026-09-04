@@ -1,0 +1,26 @@
+[
+    {
+        "company": "angc",
+        "title": "Delgado - Pastry Cook",
+        "url": "https://angc.wd5.myworkdayjobs.com/dcc/job/Delgado---Pastry-Cook_R11805",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R11805"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "angc",
+        "title": "Delgado - Line Cook",
+        "url": "https://angc.wd5.myworkdayjobs.com/dcc/job/Delgado---Line-Cook_R11804",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R11804"
+            }
+        ],
+        "date": 2
+    }
+]

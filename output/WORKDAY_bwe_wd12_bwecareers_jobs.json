@@ -1,0 +1,54 @@
+[
+    {
+        "company": "bwe",
+        "title": "Production Analyst",
+        "url": "https://bwe.wd12.myworkdayjobs.com/bwecareers/job/NC---Charlotte/Production-Analyst_REQ2424",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Charlotte"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "bwe",
+        "title": "Production Analyst",
+        "url": "https://bwe.wd12.myworkdayjobs.com/bwecareers/job/FL---Boca-Raton/Production-Analyst_REQ2428",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "FL - Boca Raton"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bwe",
+        "title": "Sr. Commercial Real Estate Underwriter",
+        "url": "https://bwe.wd12.myworkdayjobs.com/bwecareers/job/CA---Los-Angeles/Commercial-Real-Estate-Senior-Financial-Analyst_REQ2427",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Los Angeles"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bwe",
+        "title": "Insurance Analyst",
+        "url": "https://bwe.wd12.myworkdayjobs.com/bwecareers/job/OH---Remote/Insurance-Analyst_REQ2431",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Remote",
+                "city": "Oh"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

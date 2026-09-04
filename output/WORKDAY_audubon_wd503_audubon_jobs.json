@@ -1,0 +1,776 @@
+[
+    {
+        "company": "audubon",
+        "title": "Cafe Cook and Attendant (Seasonal)",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Cafe-Cook-and-Attendant--Seasonal-_JR1215",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "audubon",
+        "title": "Visitor Center Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Visitor-Center-Assistant_JR1214",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "audubon",
+        "title": "Visitor Center Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Visitor-Center-Assistant_JR1213",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Director, Leadership Giving",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Oakland-Ca/Senior-Director--Leadership-Giving_JR1180",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Oakland"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "audubon",
+        "title": "Starr Ranch Field Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Trabucco-Canyon-CA/Starr-Ranch-Field-Assistant_JR1212-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Trabucco Canyon"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Center Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Senior-Center-Assistant_JR1211",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "audubon",
+        "title": "Policy Specialist, Everglades",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-Florida---Remote/Policy-Specialist--Everglades_JR1193-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Audubon Florida - Remote"
+            }
+        ],
+        "date": 7,
+        "remote": true
+    },
+    {
+        "company": "audubon",
+        "title": "Conservation Ranching (ACR) Intern",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Sacramento-CA/Conservation-Ranching--ACR--Intern_JR1208",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Sacramento"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "audubon",
+        "title": "Urban Conservation Intern",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-Orleans-LA/Urban-Conservation-Intern_JR1206",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "LA",
+                "city": "New Orleans"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "audubon",
+        "title": "Grant Specialist",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-Minnesota---State-Office/Grant-Specialist_JR1204",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Audubon Minnesota - State Office"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Manager, IT Security Operations",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Washington-DC/Senior-Manager--IT-Security-Operations_JR1195",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "audubon",
+        "title": "Operations Manager",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-North-Dakota---State-Office/Operations-Manager_JR1202-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Audubon North Dakota - State Office"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "audubon",
+        "title": "Associate, Bird Research (Seasonal)",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Tavernier-FL/Associate--Bird-Research--Seasonal-_JR1205",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Tavernier"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "audubon",
+        "title": "Coordinator, Grounds and Maintenance",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-PA/Coordinator--Grounds-and-Maintenance_JR1198",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "PA",
+                "city": "Audubon"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "audubon",
+        "title": "Coordinator, Direct Response",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-York-NY/Coordinator--Direct-Response_JR1201",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Associate, Community Building",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Columbus-OH/Senior-Associate--Community-Building_JR1199",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Columbus"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Associate, Stewardship",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Columbus-OH/Senior-Associate--Stewardship_JR1200",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Columbus"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "audubon",
+        "title": "Volunteer and Membership Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Volunteer-and-Membership-Assistant_JR1168",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "audubon",
+        "title": "Director, Mississippi River Program",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-Orleans-LA/Director--Mississippi-River-Program_JR1162",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "LA",
+                "city": "New Orleans"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "audubon",
+        "title": "Program Manager, Mississippi River",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-Orleans-LA/Program-Manager--Mississippi-River_JR1181",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "LA",
+                "city": "New Orleans"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "audubon",
+        "title": "Director, Community Building",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Santa-Fe-NM/Director--Community-Building_JR1194",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "NM",
+                "city": "Santa Fe"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "audubon",
+        "title": "Manager, Network Engagement, Audubon Mid-Atlantic",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-PA/Manager--Network-Engagement--Audubon-Mid-Atlantic_JR1196",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "PA",
+                "city": "Audubon"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "audubon",
+        "title": "Science Specialist",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-Florida---Remote/Science-Specialist_JR1191",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Audubon Florida - Remote"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Program Manager, Salton Sea",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Salton-Sea-Beach-CA/Senior-Program-Manager--Salton-Sea_JR1192",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Salton Sea Beach"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Manager, Water Policy",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-South-Carolina---Columbia-Office/Manager--Water-Policy_JR1189",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Office",
+                "city": "Audubon South Carolina Columbia"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Seasonal Outdoor Educator",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Seasonal-Outdoor-Educator_JR1185-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Director, Next Generation",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Washington-DC/Senior-Director--Next-Generation_JR1146",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Range Ecologist",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-Nebraska---State-Office/Range-Ecologist_JR1175",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Audubon Nebraska - State Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Seasonal Education Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Seasonal-Education-Assistant_JR1186",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Manager, Public Lands",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Remote-40/Manager--Public-Lands_JR1169",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote (40)"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "audubon",
+        "title": "Coordinator, Land & Conservation",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/San-Antonio-TX/Coordinator--Land---Conservation_JR1167",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "TX",
+                "city": "San Antonio"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Center Director, Greenwich Audubon Center",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Greenwich-CT/Center-Director--Greenwich-Audubon-Center_JR1157",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "CT",
+                "city": "Greenwich"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Conservation Manager - Aullwood Audubon",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Dayton-OH/Conservation-Manager---Aullwood-Audubon_JR1161-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "OH",
+                "city": "Dayton"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Grant Accountant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-York-NY/Senior-Grant-Accountant_JR1163",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Manager, Monitoring and Evaluation",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Remote-40/Manager--Monitoring-and-Evaluation_JR1156",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote (40)"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "audubon",
+        "title": "Center Director, Sharon Audubon Center",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Sharon-CT/Center-Director--Sharon-Audubon-Center_JR1158",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "CT",
+                "city": "Sharon"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Communications Associate",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-Minnesota---State-Office/Communications-Associate_JR1145",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Audubon Minnesota - State Office"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Manager, Science Data and Knowledge Management",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Washington-DC/Senior-Manager--Science-Data-and-Knowledge-Management_JR1121",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Director, Audubon Action Fund and  Director, U.S. Government Affairs",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Washington-DC/Director--Audubon-Action-Fund-and--Director--US-Government-Affairs_JR1111",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Director, Enterprise Geographic Information Systems (GIS)",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-York-NY/Senior-Director--Enterprise-Geographic-Information-Systems--GIS-_JR925",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "audubon",
+        "title": "Cafe Cook and Attendant (Seasonal)",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Cafe-Cook-and-Attendant--Seasonal-_JR1215",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "audubon",
+        "title": "Visitor Center Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Visitor-Center-Assistant_JR1214",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "audubon",
+        "title": "Visitor Center Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Visitor-Center-Assistant_JR1213",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Director, Leadership Giving",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Oakland-Ca/Senior-Director--Leadership-Giving_JR1180",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Oakland"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "audubon",
+        "title": "Starr Ranch Field Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Trabucco-Canyon-CA/Starr-Ranch-Field-Assistant_JR1212-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Trabucco Canyon"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Center Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Senior-Center-Assistant_JR1211",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "audubon",
+        "title": "Policy Specialist, Everglades",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-Florida---Remote/Policy-Specialist--Everglades_JR1193-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Audubon Florida - Remote"
+            }
+        ],
+        "date": 7,
+        "remote": true
+    },
+    {
+        "company": "audubon",
+        "title": "Conservation Ranching (ACR) Intern",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Sacramento-CA/Conservation-Ranching--ACR--Intern_JR1208",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Sacramento"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "audubon",
+        "title": "Urban Conservation Intern",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-Orleans-LA/Urban-Conservation-Intern_JR1206",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "LA",
+                "city": "New Orleans"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "audubon",
+        "title": "Grant Specialist",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-Minnesota---State-Office/Grant-Specialist_JR1204",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Audubon Minnesota - State Office"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Manager, IT Security Operations",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Washington-DC/Senior-Manager--IT-Security-Operations_JR1195",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Washington"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "audubon",
+        "title": "Operations Manager",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-North-Dakota---State-Office/Operations-Manager_JR1202-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Audubon North Dakota - State Office"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "audubon",
+        "title": "Associate, Bird Research (Seasonal)",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Tavernier-FL/Associate--Bird-Research--Seasonal-_JR1205",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Tavernier"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "audubon",
+        "title": "Coordinator, Grounds and Maintenance",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Audubon-PA/Coordinator--Grounds-and-Maintenance_JR1198",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "PA",
+                "city": "Audubon"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "audubon",
+        "title": "Coordinator, Direct Response",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-York-NY/Coordinator--Direct-Response_JR1201",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "New York"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Associate, Community Building",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Columbus-OH/Senior-Associate--Community-Building_JR1199",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Columbus"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "audubon",
+        "title": "Senior Associate, Stewardship",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Columbus-OH/Senior-Associate--Stewardship_JR1200",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Columbus"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "audubon",
+        "title": "Volunteer and Membership Assistant",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/Naples-FL/Volunteer-and-Membership-Assistant_JR1168",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "FL",
+                "city": "Naples"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "audubon",
+        "title": "Director, Mississippi River Program",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-Orleans-LA/Director--Mississippi-River-Program_JR1162",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "LA",
+                "city": "New Orleans"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "audubon",
+        "title": "Program Manager, Mississippi River",
+        "url": "https://audubon.wd503.myworkdayjobs.com/audubon/job/New-Orleans-LA/Program-Manager--Mississippi-River_JR1181",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "LA",
+                "city": "New Orleans"
+            }
+        ],
+        "date": 30
+    }
+]

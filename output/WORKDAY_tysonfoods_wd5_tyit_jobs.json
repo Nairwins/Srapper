@@ -1,0 +1,654 @@
+[
+    {
+        "company": "tysonfoods",
+        "title": "IT Product Owner I",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-I_R0482203-3",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Development Engineer MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-Development-Engineer-MXT_R0482646",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Data Analyst I MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Analyst-I-MXT_R0483168",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Data Engineer II MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Engineer-II-MXT_R0482580",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Global IT Network Architect (Remote)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/Global-IT-Network-Architect--Remote-_R0481928-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Off-Site Employees (Corp Use) - Springdale"
+            }
+        ],
+        "date": 6,
+        "remote": true
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Development Engineer",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Lead-Development-Engineer_R0478610-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma Springdale"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Development Engineer– Portfolio Systems",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Development-Engineer--Portfolio-Systems_R0477768",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Cyber Security Engineer (Onsite)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Corporate-JTL-Building---Springdale-Arkansas/Lead-Cyber-Security-Engineer--Onsite-_R0448950-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Corporate JTL Building - Springdale"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Staff Infrastructure Engineer  (Mainframe)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Corporate-JTL-Building---Springdale-Arkansas/Staff-Infrastructure-Engineer---Mainframe-_R0475258-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Corporate JTL Building - Springdale"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Development Engineer -AI-Assisted Engineering",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Lead-Development-Engineer--AI-Assisted-Engineering_R0467807-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Product Owner-Onsite",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-IT-Product-Owner-Onsite_R0474842-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Data Engineer II MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Engineer-II-MXT_R0480085",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Project Specialist_PMO",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Senior-IT-Project-Specialist-PMO_R0479828-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Manager IT (Governance)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Manager-IT--Governance-_R0474846-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Manager IT (Financial Planning/Analytics)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Manager-IT--Financial-Planning-Analytics-_R0476271-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Development Engineer (Palantir Foundry)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Development-Engineer--Palantir-Foundry-_R0478411",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Operations Analyst INT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Senior-IT-Operations-Analyst-INT_R0472587",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Development Engineer II (Python, SQL, Ignition, .NET)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Waverly-Office---Waverly-Nebraska/Development-Engineer-II--Python--SQL--Ignition--NET-_R0465148-3",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Nebraska",
+                "city": "Waverly Office - Waverly"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Product Owner I MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Product-Owner-I-MXT_R0477512",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead IT Operations Developer",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Lead-IT-Operations-Developer_R0476941",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Operations Analyst INT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Senior-IT-Operations-Analyst-INT_R0476280-3",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Product Owner II (Costing/Analytics)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-II--Costing-Analytics-_R0473844-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Project Specialist INT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Senior-IT-Project-Specialist-INT_R0475352-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Infrastructure Engineer (Onsite)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Corporate-JTL-Building---Springdale-Arkansas/Lead-Infrastructure-Engineer--Onsite-_R0468412-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Corporate JTL Building - Springdale"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Manager IT INT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Senior-Manager-IT-INT_R0451995-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead IT Data Modeler INT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Lead-IT-Data-Modeler-INT_R0473574",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Data Engineer MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-IT-Data-Engineer-MXT_R0462809-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Staff Enterprise Technical Architect",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Staff-Enterprise-Technical-Architect_R0462416",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Infrastructure Engineer MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-Infrastructure-Engineer-MXT_R0460250",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Development Engineer INT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Lead-Development-Engineer-INT_R0448837",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Product Owner I",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-I_R0482203-3",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Development Engineer MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-Development-Engineer-MXT_R0482646",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Data Analyst I MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Analyst-I-MXT_R0483168",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Data Engineer II MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Engineer-II-MXT_R0482580",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Global IT Network Architect (Remote)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/Global-IT-Network-Architect--Remote-_R0481928-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Off-Site Employees (Corp Use) - Springdale"
+            }
+        ],
+        "date": 6,
+        "remote": true
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Development Engineer",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Lead-Development-Engineer_R0478610-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma Springdale"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Development Engineer– Portfolio Systems",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Development-Engineer--Portfolio-Systems_R0477768",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Cyber Security Engineer (Onsite)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Corporate-JTL-Building---Springdale-Arkansas/Lead-Cyber-Security-Engineer--Onsite-_R0448950-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Corporate JTL Building - Springdale"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Staff Infrastructure Engineer  (Mainframe)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Corporate-JTL-Building---Springdale-Arkansas/Staff-Infrastructure-Engineer---Mainframe-_R0475258-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Corporate JTL Building - Springdale"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead Development Engineer -AI-Assisted Engineering",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Lead-Development-Engineer--AI-Assisted-Engineering_R0467807-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Product Owner-Onsite",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-IT-Product-Owner-Onsite_R0474842-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Data Engineer II MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Engineer-II-MXT_R0480085",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Project Specialist_PMO",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Senior-IT-Project-Specialist-PMO_R0479828-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Manager IT (Governance)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Manager-IT--Governance-_R0474846-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Manager IT (Financial Planning/Analytics)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Manager-IT--Financial-Planning-Analytics-_R0476271-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior Development Engineer (Palantir Foundry)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Tyson-Emma---Springdale-Arkansas/Senior-Development-Engineer--Palantir-Foundry-_R0478411",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Arkansas",
+                "city": "Tyson Emma - Springdale"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Senior IT Operations Analyst INT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Bangalore-India/Senior-IT-Operations-Analyst-INT_R0472587",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Bangalore"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Development Engineer II (Python, SQL, Ignition, .NET)",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/Waverly-Office---Waverly-Nebraska/Development-Engineer-II--Python--SQL--Ignition--NET-_R0465148-3",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Nebraska",
+                "city": "Waverly Office - Waverly"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "tysonfoods",
+        "title": "IT Product Owner I MXT",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Product-Owner-I-MXT_R0477512",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "tysonfoods",
+        "title": "Lead IT Operations Developer",
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/tyit/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Lead-IT-Operations-Developer_R0476941",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "TRC IT HUB - Torreon"
+            }
+        ],
+        "date": "30+"
+    }
+]

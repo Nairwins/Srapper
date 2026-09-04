@@ -1,0 +1,686 @@
+[
+    {
+        "company": "auroragov",
+        "title": "Project Engineer",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Project-Engineer_JR109241",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109241"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "auroragov",
+        "title": "Operations Supervisor- Aurora911",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Tallyns-Reach-Library/Operations-Supervisor--Aurora911_JR108624",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108624"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "auroragov",
+        "title": "Senior Engineer - Project Management",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Senior-Engineer---Project-Management_JR109104",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "JR109104"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "auroragov",
+        "title": "Supervisor of Planning Services",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Supervisor-of-Planning-Services_JR109203",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109203"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "auroragov",
+        "title": "Recreation Specialist (Aurora Center for Active Adults)",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Ctr-for-Active-Adults/Recreation-Specialist--Aurora-Center-for-Active-Adults-_JR109132",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109132"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "auroragov",
+        "title": "Assistant City Attorney Civil",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Assistant-City-Attorney-Civil_JR109177",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109177"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "auroragov",
+        "title": "Victim Advocate",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Police-HQ/Victim-Advocate_JR107947",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107947"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "auroragov",
+        "title": "Library Security Clerk",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Central-Library/Library-Security-Clerk_JR109124",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109124"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "auroragov",
+        "title": "Licensing Underage Minor Operative - VH",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Licensing-Underage-Minor-Operative---VH_JR109102",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109102"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "auroragov",
+        "title": "Criminal Firearms Examiner II",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Police-Joint-Crime-Lab/Criminal-Firearms-Examiner-II_JR108858",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108858"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "auroragov",
+        "title": "Manager of Public Safety Accountability",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Manager-of-Public-Safety-Accountability_JR109176",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "JR109176"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "auroragov",
+        "title": "Parks Worker - Open Space",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Reservoir/Parks-Worker---Open-Space_JR109186",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109186"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Event Coordinator - Parks, Recreation, and Open Space",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Event-Coordinator---Parks--Recreation--and-Open-Space_JR109180",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109180"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Personal Trainer",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Central-Recreation-Center/Personal-Trainer_JR109188",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109188"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Fitness Instructor",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Central-Recreation-Center/Fitness-Instructor_JR109187",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109187"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Assistant City Attorney - Criminal",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Municipal-Justice-Center/Assistant-City-Attorney---Criminal_JR106486",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR106486"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "auroragov",
+        "title": "Traffic Signs and Marking Technician I-III",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/North-Satellite-Administration/Traffic-Signs-and-Marking-Technician-I-III_JR109136",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "JR109136"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "auroragov",
+        "title": "Paralegal - Water and Environmental",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Paralegal---Water-and-Environmental_JR109150",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109150"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "auroragov",
+        "title": "Development Officer Associate - Variable Hour Benefit Eligible",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Development-Officer-Associate---Variable-Hour-Benefit-Eligible_JR109160",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109160"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "auroragov",
+        "title": "Housing and Commercial  Development Specialist - Variable Hour Benefit Eligible",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Housing-and-Commercial--Development-Specialist---Variable-Hour-Benefit-Eligible_JR109161",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109161"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "auroragov",
+        "title": "Code Enforcement Officer",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Code-Enforcement-Officer_JR107218",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107218"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "auroragov",
+        "title": "Theatre Attendant - VHNE",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Fox-Theater/Theatre-Attendant---VHNE_JR109135",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109135"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "auroragov",
+        "title": "Senior Engineer and Architect",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Engineer-Senior---Building-Design-and-Construction_JR108044",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "JR108044"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "auroragov",
+        "title": "Veterinary Technician- Variable Hour Not Benefit Eligible",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Animal-Shelter/Veterinary-Technician--Variable-Hour-Not-Benefit-Eligible_JR107715",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107715"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Transportation Planning Supervisor - Public Works",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Transportation-Planning-Supervisor---Public-Works_JR108535",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108535"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "2027-1B Entry Level Patrol Officer (Group B)",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/CAPSTC-Training-Center/XMLNAME-2027-1B-Entry-Level-Patrol-Officer--Group-B-_JR109051",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109051"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Streets Operations Worker",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/North-Satellite-Administration/Streets-Operations-Worker_JR108615",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108615"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Street Operations Specialist",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/North-Satellite-Administration/Street-Operations-Specialist_JR108620",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108620"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Parks Worker",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Central-Building-A/Parks-Worker_JR108962",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108962"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "2027-1L Lateral Patrol Officer",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/CAPSTC-Training-Center/XMLNAME-2027-1L-Lateral-Patrol-Officer_JR108938",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108938"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Water Treatment Operator A",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Wemlinger-Water-TreatmentPlant/Water-Treatment-Operator-A_JR108726",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108726"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Parks Steward (Variable Hour Benefits Eligible)",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Central-Building-A/Parks-Steward--Variable-Hour-Benefits-Eligible-_JR107983",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107983"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Parks Technician (Athletic Field Maintenance)",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Sports-Park/Parks-Technician--Aurora-Sports-Park-_JR108414",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108414"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Streets Operations Technician",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/North-Satellite-Administration/Streets-Operations-Technician_JR108617",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108617"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Early Childhood Educator",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Village-Green-Recreation-Ctr/Early-Childhood-Teacher_JR107315",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107315"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Irrigation Specialist - Golf",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Saddle-Rock-Golf-Course-Maint/Irrigation-Specialist_JR107318",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107318"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Irrigation Specialist - Parks",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Central-Building-A/Irrigation-Specialist_JR107288-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107288"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "auroragov",
+        "title": "Project Engineer",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Project-Engineer_JR109241",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109241"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "auroragov",
+        "title": "Operations Supervisor- Aurora911",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Tallyns-Reach-Library/Operations-Supervisor--Aurora911_JR108624",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108624"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "auroragov",
+        "title": "Senior Engineer - Project Management",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Senior-Engineer---Project-Management_JR109104",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "JR109104"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "auroragov",
+        "title": "Supervisor of Planning Services",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Supervisor-of-Planning-Services_JR109203",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109203"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "auroragov",
+        "title": "Recreation Specialist (Aurora Center for Active Adults)",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Ctr-for-Active-Adults/Recreation-Specialist--Aurora-Center-for-Active-Adults-_JR109132",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109132"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "auroragov",
+        "title": "Assistant City Attorney Civil",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Assistant-City-Attorney-Civil_JR109177",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109177"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "auroragov",
+        "title": "Victim Advocate",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Police-HQ/Victim-Advocate_JR107947",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR107947"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "auroragov",
+        "title": "Library Security Clerk",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Central-Library/Library-Security-Clerk_JR109124",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109124"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "auroragov",
+        "title": "Licensing Underage Minor Operative - VH",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Licensing-Underage-Minor-Operative---VH_JR109102",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109102"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "auroragov",
+        "title": "Criminal Firearms Examiner II",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Police-Joint-Crime-Lab/Criminal-Firearms-Examiner-II_JR108858",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR108858"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "auroragov",
+        "title": "Manager of Public Safety Accountability",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Manager-of-Public-Safety-Accountability_JR109176",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "JR109176"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "auroragov",
+        "title": "Parks Worker - Open Space",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Reservoir/Parks-Worker---Open-Space_JR109186",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109186"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Event Coordinator - Parks, Recreation, and Open Space",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Event-Coordinator---Parks--Recreation--and-Open-Space_JR109180",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109180"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Personal Trainer",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Central-Recreation-Center/Personal-Trainer_JR109188",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109188"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Fitness Instructor",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Central-Recreation-Center/Fitness-Instructor_JR109187",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109187"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "auroragov",
+        "title": "Assistant City Attorney - Criminal",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Municipal-Justice-Center/Assistant-City-Attorney---Criminal_JR106486",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR106486"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "auroragov",
+        "title": "Traffic Signs and Marking Technician I-III",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/North-Satellite-Administration/Traffic-Signs-and-Marking-Technician-I-III_JR109136",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "JR109136"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "auroragov",
+        "title": "Paralegal - Water and Environmental",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Paralegal---Water-and-Environmental_JR109150",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109150"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "auroragov",
+        "title": "Development Officer Associate - Variable Hour Benefit Eligible",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Development-Officer-Associate---Variable-Hour-Benefit-Eligible_JR109160",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "JR109160"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "auroragov",
+        "title": "Housing and Commercial  Development Specialist - Variable Hour Benefit Eligible",
+        "url": "https://auroragov.wd1.myworkdayjobs.com/careers/job/Aurora-Municipal-Center/Housing-and-Commercial--Development-Specialist---Variable-Hour-Benefit-Eligible_JR109161",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "JR109161"
+            }
+        ],
+        "date": 20
+    }
+]

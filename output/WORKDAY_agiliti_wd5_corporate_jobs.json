@@ -1,0 +1,91 @@
+[
+    {
+        "company": "agiliti",
+        "title": "Business Analyst Operations",
+        "url": "https://agiliti.wd5.myworkdayjobs.com/corporate/job/Minneapolis---Corporate/Business-Analyst-Operations_JR44274",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Minneapolis"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "agiliti",
+        "title": "Accounts Payable Representative",
+        "url": "https://agiliti.wd5.myworkdayjobs.com/corporate/job/Minneapolis---Corporate/Accounts-Payable-Representative_JR44291",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Minneapolis"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "agiliti",
+        "title": "Quality Inspector",
+        "url": "https://agiliti.wd5.myworkdayjobs.com/corporate/job/Ellis-KS-Branch/Quality-Inspector_JR44212",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Branch",
+                "city": "Ellis Ks"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "agiliti",
+        "title": "Manufacturing Document Clerk",
+        "url": "https://agiliti.wd5.myworkdayjobs.com/corporate/job/Corona-CA-Branch/Manufacturing-Documentation-Specialist_JR43706",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Corona CA Branch"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "agiliti",
+        "title": "Medical Equipment Loaner Coordinator",
+        "url": "https://agiliti.wd5.myworkdayjobs.com/corporate/job/Novi-MI---Lab/Loaner-Coordinator_JR43966",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Novi MI - Lab"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "agiliti",
+        "title": "Design Quality Assurance Manager",
+        "url": "https://agiliti.wd5.myworkdayjobs.com/corporate/job/Milwaukee-Design-Center/Design-Quality-Assurance-Manager_JR43187",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Milwaukee Design Center"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "agiliti",
+        "title": "HRIS Intern – Summer 2023",
+        "url": "https://agiliti.wd5.myworkdayjobs.com/corporate/job/Minneapolis---Corporate/HRIS-Intern---Summer-2023_JR30748",
+        "experience_level": "intern",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Minneapolis"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "company": "amn",
+        "title": "Recruiter, Labor Disruption",
+        "url": "https://amn.wd1.myworkdayjobs.com/amn_opportunities/job/Remote---TX/Recruiter--Labor-Disruption_Req23874",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX"
+            }
+        ],
+        "date": 6,
+        "remote": true
+    },
+    {
+        "company": "amn",
+        "title": "Community Liaison",
+        "url": "https://amn.wd1.myworkdayjobs.com/amn_opportunities/job/Remote---NC/Community-Liaison_Req23138",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NC"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "amn",
+        "title": "Clinical Manager, Per Diem",
+        "url": "https://amn.wd1.myworkdayjobs.com/amn_opportunities/job/Remote---FL/Clinical-Manager--Per-Diem_Req23350",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "FL"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "amn",
+        "title": "Talent Acquisition Consultant, Labor Disruption",
+        "url": "https://amn.wd1.myworkdayjobs.com/amn_opportunities/job/Remote---TX/Talent-Acquisition-Consultant--Labor-Disruption_Req23338",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "amn",
+        "title": "Clinical Manager, Per Diem",
+        "url": "https://amn.wd1.myworkdayjobs.com/amn_opportunities/job/Remote---TX/Clinical-Manager--Per-Diem_Req22708",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "TX"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "amn",
+        "title": "Community Liaison",
+        "url": "https://amn.wd1.myworkdayjobs.com/amn_opportunities/job/Remote---TX/Community-Liaison_Req21338",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "TX"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

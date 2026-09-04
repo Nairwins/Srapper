@@ -1,0 +1,41 @@
+[
+    {
+        "company": "brilliancanada",
+        "title": "IT Senior Systems Administrator",
+        "url": "https://brilliancanada.wd3.myworkdayjobs.com/vencora/job/United-States---Warner-Robins-GA/IT-Senior-Systems-Administrator_R51442-2",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States Warner Robins"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "brilliancanada",
+        "title": "Corporate Development Senior Associate",
+        "url": "https://brilliancanada.wd3.myworkdayjobs.com/vencora/job/Remote-New-Zealand/Corporate-Development-Senior-Associate_R50033",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "New Zealand"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "brilliancanada",
+        "title": "Customer Support Specialist",
+        "url": "https://brilliancanada.wd3.myworkdayjobs.com/vencora/job/United-States---Worcester-MA/Customer-Support-Specialist_R39588-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States - Worcester"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "company": "alonsoandalonsolaw",
+        "title": "Sales Paralegal",
+        "url": "https://alonsoandalonsolaw.wd503.myworkdayjobs.com/Alonso/job/Houston/Sales-Paralegal_JR100085",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Houston"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "alonsoandalonsolaw",
+        "title": "Sales Paralegal",
+        "url": "https://alonsoandalonsolaw.wd503.myworkdayjobs.com/Alonso/job/McAllen/Sales-Paralegal_JR100086",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "McAllen"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "alonsoandalonsolaw",
+        "title": "Director of Finance",
+        "url": "https://alonsoandalonsolaw.wd503.myworkdayjobs.com/Alonso/job/San-Antonio/Director-of-Finance_JR100083-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "San Antonio"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "alonsoandalonsolaw",
+        "title": "Removal Defense Immigration Attorney",
+        "url": "https://alonsoandalonsolaw.wd503.myworkdayjobs.com/Alonso/job/San-Antonio/Removal-Defense-Immigration-Attorney_JR100078-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "San Antonio"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "alonsoandalonsolaw",
+        "title": "Family-Based Immigration Attorney",
+        "url": "https://alonsoandalonsolaw.wd503.myworkdayjobs.com/Alonso/job/San-Antonio/Family-Based-Immigration-Attorney_JR100076",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Antonio",
+                "city": "San"
+            }
+        ],
+        "date": "30+"
+    }
+]

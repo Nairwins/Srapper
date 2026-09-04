@@ -1,0 +1,55 @@
+[
+    {
+        "company": "accelya",
+        "title": "Senior Specialist - Account Management",
+        "url": "https://accelya.wd103.myworkdayjobs.com/careers/job/South-Korea---Remote/Senior-Specialist---Account-Management_JR102535",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "South Korea",
+                "city": "South Korea"
+            }
+        ],
+        "date": 0,
+        "remote": true
+    },
+    {
+        "company": "accelya",
+        "title": "Senior Engineer - Software Development",
+        "url": "https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Senior-Engineer---Software-Development_JR102522-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Pune"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "accelya",
+        "title": "Engineer II - Quality Assurance",
+        "url": "https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Engineer-II---Quality-Assurance_JR102524",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Pune"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "accelya",
+        "title": "Specialist – Product Owner",
+        "url": "https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Specialist---Product-Owner_JR102368",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Pune"
+            }
+        ],
+        "date": 3
+    }
+]

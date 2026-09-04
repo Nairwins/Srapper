@@ -1,0 +1,41 @@
+[
+    {
+        "company": "cardinalhealth",
+        "title": "Customer Service Representative - English/French Speaking",
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT_GLOBAL/job/Ireland-Dublin-CAH-Office/Customer-Service-Representative---English-French-Speaking_20186114",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Ireland",
+                "city": "Ireland-Dublin CAH Office"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "cardinalhealth",
+        "title": "Scientist II, Medical Writing",
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT_GLOBAL/job/Ireland-FIELD/Scientist-II--Medical-Writing_20185092",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Ireland",
+                "city": "Ireland-FIELD"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "cardinalhealth",
+        "title": "Scientist III, Medical Writing",
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT_GLOBAL/job/Ireland-FIELD/Scientist-III--Medical-Writing_20185091",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Ireland",
+                "city": "Ireland-FIELD"
+            }
+        ],
+        "date": 24
+    }
+]

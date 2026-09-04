@@ -1,0 +1,119 @@
+[
+    {
+        "company": "amerilife",
+        "title": "Insurance Strategist (Remote)",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-PA/Insurance-Strategist--Remote-_R5273",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA"
+            }
+        ],
+        "date": 0,
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Marketing Specialist",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-PA/Marketing-Specialist_R5235",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA"
+            }
+        ],
+        "date": 17,
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Case Designer",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-PA/Case-Designer_R5137",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA"
+            }
+        ],
+        "date": 23,
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Advanced Case Designer",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-NC/Advanced-Case-Designer_R4834",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "NC"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Regional Insurance Strategist, TLIS",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-VA/Regional-Insurance-Strategist--TLIS_R5196",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "VA"
+            }
+        ],
+        "date": 30,
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Insurance Strategist",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-PA/Insurance-Strategist_R5192-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "PA"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Vice President, Sales (FIC)",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-PA/Vice-President--Sales--FIC-_R5143",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "PA"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Sales Support Associate",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-UT/Sales-Support-Associate_R5027",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "UT"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "amerilife",
+        "title": "Underwriting Case Manager",
+        "url": "https://amerilife.wd5.myworkdayjobs.com/crumpexternal/job/Remote-NC/Underwriting-Case-Manager_R4833",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "NC"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

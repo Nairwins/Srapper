@@ -1,0 +1,26 @@
+[
+    {
+        "company": "angc",
+        "title": "JFCI - Pastry Cook",
+        "url": "https://angc.wd5.myworkdayjobs.com/jfci/job/JFCI---Pastry-Cook_R11811",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R11811"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "angc",
+        "title": "JFCI - Line Cook",
+        "url": "https://angc.wd5.myworkdayjobs.com/jfci/job/JFCI---Line-Cook_R11810",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "R11810"
+            }
+        ],
+        "date": 2
+    }
+]

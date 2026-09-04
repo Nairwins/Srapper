@@ -1,0 +1,41 @@
+[
+    {
+        "company": "boeing",
+        "title": "Airplane Electronic Engineer (SME)",
+        "url": "https://boeing.wd1.myworkdayjobs.com/pride/job/USA---North-Charleston-SC/Airplane-Electronic-Engineer--SME-_JR2026522638-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "USA - North Charleston"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "boeing",
+        "title": "Airplane Electronic Engineer (Mid-Level & Lead)",
+        "url": "https://boeing.wd1.myworkdayjobs.com/pride/job/USA---North-Charleston-SC/Airplane-Electronic-Engineer--Mid-Level---Lead-_JR2026522628-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "USA - North Charleston"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "boeing",
+        "title": "Airplane Electronic Engineer (Associate)",
+        "url": "https://boeing.wd1.myworkdayjobs.com/pride/job/USA---North-Charleston-SC/Airplane-Electronic-Engineer--Associate-_JR2026522634-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "USA - North Charleston"
+            }
+        ],
+        "date": 13
+    }
+]

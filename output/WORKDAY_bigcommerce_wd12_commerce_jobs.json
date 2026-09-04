@@ -1,0 +1,753 @@
+[
+    {
+        "company": "bigcommerce",
+        "title": "VP, Chief Information Security Officer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/VP--Chief-Information-Security-Officer_JR102834",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Manager, Customer Success Management",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Manager--Customer-Success-Management_JR102856",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Backend Engineer (AI Agent)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Backend-Engineer--AI-Agent-_JR102796",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Software Engineer (AI Agents)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Software-Engineer--AI-Specialization-_JR102781",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Backend Software Engineer II (AI Specialization)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Backend-Software-Engineer-II--AI-Specialization-_JR102782",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Staff Software Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Staff-Software-Engineer_JR102845",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Lead AI Software Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Lead-Software-Engineer_JR102829",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States"
+            }
+        ],
+        "date": 0,
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Cloud Integration Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Cloud-Integration-Engineer_JR102770",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Technical Product Manager, API & Agentic",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Senior-Product-Manager--API---Agentic_JR102677",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States"
+            }
+        ],
+        "date": 2,
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Software Engineer II - Backend (Ruby)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/London-United-Kingdom/Software-Engineer-II---Backend--Ruby-PHP-Scala--_JR102659",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Technical Project Manager, Global Services",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Sydney-Australia/Technical-Project-Manager--Global-Services_JR102815",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Australia",
+                "city": "Sydney"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Salesforce Developer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Salesforce-Developer_JR102712",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Infrastructure Engineer - AI Ops",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/AI-Ops-Senior-Backend-Engineer_JR102629-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Sales Development Representative",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Sales-Development-Representative_JR102634",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Software Engineer II - Engineering Services (Full Stack)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Lead Infrastructure Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States - Remote"
+            }
+        ],
+        "date": 16,
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Sales Development Representative - Hybrid",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Sales-Development-Representative--SDR-_3294",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 19
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Lead Software Engineer - AI",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Lead-Software-Engineer---AI-Solutions_JR102269",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Enterprise Feed Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Enterprise-Feed-Manager_JR102825",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Salesforce Quality Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Mexico---Remote/Salesforce-Quality-Engineer_JR102775",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "Mexico - Remote"
+            }
+        ],
+        "date": 23,
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Customer Success Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Customer-Success-Manager_JR102804",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Sales Development Representative",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/London-United-Kingdom/Sales-Development-Representative_JR102835",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Executive Assistant & Workplace Experience Coordinator",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Atlanta-GA/Executive-Assistant---Workplace-Experience-Coordinator_JR102820",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Atlanta"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Technical Program Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Technical-Program-Manager_JR102816",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bigcommerce",
+        "title": "GSI Alliance Director",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/GSI-Alliance-Director_JR102818",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 30
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Customer Success Renewal Specialist",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Customer-Success-Renewal-Specialist_JR102779",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Customer Success Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Sydney-Australia/Customer-Success-Manager_JR102806",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Australia",
+                "city": "Sydney"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Technical Training Content Developer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Technical-Training-Content-Developer_JR102714-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States - Remote"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Technical Project Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Sydney-Australia/Senior-Technical-Project-Manager_JR102516",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Australia",
+                "city": "Sydney"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Customer Success Manager - FDX",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Customer-Success-Manager---FDX_JR102777",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Lead Software Engineer,  Search (Semantic Platform)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Lead-Software-Engineer---Search--Semantic-Platform-_JR102797",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Account Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Account-Manager_JR102793",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Vice President, Technology Partnerships",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Vice-President--Technology-Partnerships_JR102766",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Global GTM Enablement Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Global-GTM-Enablement-Manager_JR102754",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Software Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/London-United-Kingdom/Senior-Software-Engineer_JR102750",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Technical Product Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Lead-Technical-Product-Manager_JR102540-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Technical Support Representative - Remote",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Technical-Support-Representative--US-_3100",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States - Remote"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "VP, Chief Information Security Officer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/VP--Chief-Information-Security-Officer_JR102834",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Manager, Customer Success Management",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Manager--Customer-Success-Management_JR102856",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Backend Engineer (AI Agent)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Backend-Engineer--AI-Agent-_JR102796",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Software Engineer (AI Agents)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Software-Engineer--AI-Specialization-_JR102781",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Backend Software Engineer II (AI Specialization)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Backend-Software-Engineer-II--AI-Specialization-_JR102782",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Staff Software Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Staff-Software-Engineer_JR102845",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 0
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Lead AI Software Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Lead-Software-Engineer_JR102829",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States"
+            }
+        ],
+        "date": 0,
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Cloud Integration Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Cloud-Integration-Engineer_JR102770",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Technical Product Manager, API & Agentic",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Senior-Product-Manager--API---Agentic_JR102677",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States"
+            }
+        ],
+        "date": 2,
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Software Engineer II - Backend (Ruby)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/London-United-Kingdom/Software-Engineer-II---Backend--Ruby-PHP-Scala--_JR102659",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 2
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Technical Project Manager, Global Services",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Sydney-Australia/Technical-Project-Manager--Global-Services_JR102815",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Australia",
+                "city": "Sydney"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Salesforce Developer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Salesforce-Developer_JR102712",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Infrastructure Engineer - AI Ops",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/AI-Ops-Senior-Backend-Engineer_JR102629-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Senior Sales Development Representative",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Senior-Sales-Development-Representative_JR102634",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Software Engineer II - Engineering Services (Full Stack)",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Lead Infrastructure Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "United States - Remote"
+            }
+        ],
+        "date": 16,
+        "remote": true
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Sales Development Representative - Hybrid",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Sales-Development-Representative--SDR-_3294",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 19
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Lead Software Engineer - AI",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Lead-Software-Engineer---AI-Solutions_JR102269",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Enterprise Feed Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Austin-TX/Enterprise-Feed-Manager_JR102825",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Austin"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "bigcommerce",
+        "title": "Salesforce Quality Engineer",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/commerce/job/Mexico---Remote/Salesforce-Quality-Engineer_JR102775",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Mexico",
+                "city": "Mexico - Remote"
+            }
+        ],
+        "date": 23,
+        "remote": true
+    }
+]

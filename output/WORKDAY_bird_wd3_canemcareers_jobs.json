@@ -1,0 +1,67 @@
+[
+    {
+        "company": "bird",
+        "title": "Electrical Engineer, Major Pursuits",
+        "url": "https://bird.wd3.myworkdayjobs.com/canemcareers/job/Calgary-AB/Electrical-Engineer--Major-Pursuits_JR-8833-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bird",
+        "title": "Mechanical Engineer, Major Pursuits",
+        "url": "https://bird.wd3.myworkdayjobs.com/canemcareers/job/Calgary-AB/Mechanical-Engineer--Major-Pursuits_JR-8832-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bird",
+        "title": "HSE Field Coordinator (Electrical)",
+        "url": "https://bird.wd3.myworkdayjobs.com/canemcareers/job/Red-Deer-AB/HSE-Field-Coordinator--Electrical-_JR-8829",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "AB",
+                "city": "Red Deer"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bird",
+        "title": "Project Coordinator",
+        "url": "https://bird.wd3.myworkdayjobs.com/canemcareers/job/Mississauga-ON/Project-Coordinator_JR-8818-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Mississauga"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bird",
+        "title": "Purchaser",
+        "url": "https://bird.wd3.myworkdayjobs.com/canemcareers/job/Calgary-AB/Purchaser_JR-8572",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Calgary"
+            }
+        ],
+        "date": "30+"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "company": "badgermeter",
+        "title": "Area Sales Manager (Remote, UK)",
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/badger_meter_europe/job/UK---Delph-Facility/Area-Sales-Manager_4453",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "UK - Delph Facility"
+            }
+        ],
+        "date": 1,
+        "remote": true
+    },
+    {
+        "company": "badgermeter",
+        "title": "International IT Security Compliance Analyst (Vienna, Austria)",
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/badger_meter_europe/job/Austria---Vienna-Facility/International-IT-Security-Compliance-Analyst--Vienna--Austria-_4502",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Austria",
+                "city": "Austria - Vienna Facility"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "badgermeter",
+        "title": "Accountant (Austria, Vienna)",
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/badger_meter_europe/job/Austria---Vienna-Facility/Accountant--Austria--Vienna-_4548",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Austria",
+                "city": "Austria - Vienna Facility"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "badgermeter",
+        "title": "Engineering Manager (Austria, Vienna)",
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/badger_meter_europe/job/Austria---Vienna-Facility/Engineering-Manager_4292",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Austria",
+                "city": "Austria - Vienna Facility"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "badgermeter",
+        "title": "Software Engineer (Norwich, UK)",
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/badger_meter_europe/job/UK---Norwich-Facility/Software-Engineer--Norwich--UK-_4514",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "UK - Norwich Facility"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "badgermeter",
+        "title": "Key Account Manager (Saudi National Only)",
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/badger_meter_europe/job/Saudi-Arabia--Riyadh-Facility/Key-Account-Manager--Saudi-National-Only-_4397",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Saudi Arabia",
+                "city": "Riyadh"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "badgermeter",
+        "title": "Field Service Engineer",
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/badger_meter_europe/job/Saudi-Arabia--Riyadh-Facility/Field-Service-Engineer_4320",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Saudi Arabia",
+                "city": "Riyadh"
+            }
+        ],
+        "date": "30+"
+    }
+]

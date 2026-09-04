@@ -1,0 +1,730 @@
+[
+    {
+        "company": "berklee",
+        "title": "ACT Tutor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Boston-Conservatory-at-Berklee/ACT-Tutor_R0011551",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "berklee",
+        "title": "Movement Matters Student Leader",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Movement-Matters-Student-Leader_R0011518",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "berklee",
+        "title": "Africana Studies Program Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Africana-Studies-Program-Assistant_R0011543",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "Student Audio Engineer",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Student-Audio-Engineer_R0011542",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "Education and Learning Program Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Education-and-Learning-Program-Assistant_R0011541",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "Digital Media Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Digital-Media-Assistant_R0011538",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "Berklee Global Student Photographer and Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Berklee-Global-Student-Photographer-and-Assistant_R0011537-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "COND 311 Ensemble Student Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/COND-311-Ensemble-Student-Assistant_R0011517",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "Costume Shop Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Costume-Shop-Assistant_R0011519",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "Screen Scoring Peer Tutor and Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Screen-Scoring-Peer-Tutor-and-Assistant_R0011521",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "berklee",
+        "title": "Boston City Singers Tutor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Boston-Conservatory-at-Berklee/Boston-City-Singers-Tutor_R0011536",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "berklee",
+        "title": "Voice for Non-Majors Graduate Pedagogy Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Boston-Conservatory-at-Berklee/Voice-for-Non-Majors-Graduate-Pedagogy-Assistant_R0011535",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "berklee",
+        "title": "Vocal Pedagogy Graduate Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Boston-Conservatory-at-Berklee/Vocal-Pedagogy-Graduate-Assistant_R0011532-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "berklee",
+        "title": "Percussion Services Lab Monitor TEMP",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Percussion-Services-Lab-Monitor-TEMP_R0011531",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "berklee",
+        "title": "English Skills Tutor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/English-Skills-Tutor_R0011525",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "berklee",
+        "title": "HR Student Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/HR-Student-Assistant_R0011485",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "berklee",
+        "title": "Conservatory Auditions Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Conservatory-Auditions-Assistant_R0011315",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "berklee",
+        "title": "Berklee Scholars Program (BSP) Pre-Orientation Accompanist",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Berklee-Scholars-Program--BSP--Pre-Orientation-Accompanist_R0011365",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "berklee",
+        "title": "Berklee Online Registrar Student Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Berklee-Online-Registrar-Student-Assistant_R0011515",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "berklee",
+        "title": "AV Assistant 1",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/AV-Assistant-1_R0011514",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "berklee",
+        "title": "Instrumental Ensembles Setup Crew",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Instrumental-Ensembles-Setup-Crew_R0011513",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "berklee",
+        "title": "Berklee Student Photographer",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Berklee-Student-Photographer_R0011511",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "berklee",
+        "title": "BCSO Student Orchestra Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/BCSO-Student-Orchestra-Assistant_R0011509",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "berklee",
+        "title": "Berklee Online Student Finance Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Berklee-Online-Student-Finance-Assistant_R0011508",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "berklee",
+        "title": "Opera Office Graduate Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Opera-Office-Graduate-Assistant_R0011480",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "berklee",
+        "title": "Piano Maintenance Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Piano-Maintenance-Assistant_R0011479",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "berklee",
+        "title": "Performance Technology Student Technician",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Performance-Technology-Student-Technician_R0011358",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "berklee",
+        "title": "Career Center Graduate Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Career-Center-Graduate-Assistant_R0011128",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "berklee",
+        "title": "EPD Core & Sound Design Tutor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/EPD-Core---Sound-Design-Tutor_R0011466-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "berklee",
+        "title": "EPD Office and Media Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/EPD-Office-and-Media-Assistant_R0011467",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "berklee",
+        "title": "Student Success Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Student-Success-Assistant_R0011271",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "berklee",
+        "title": "Music Notation Specialist Assistant / Course Developer Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Music-Notation-Specialist-Assistant---Course-Developer-Assistant_R0011286",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "berklee",
+        "title": "Student Assistant Engineer",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Student-Assistant-Engineer_R0011477",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 16
+    },
+    {
+        "company": "berklee",
+        "title": "Annual Giving Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Boston-Conservatory-at-Berklee/Annual-Giving-Assistant_R0011461",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 17
+    },
+    {
+        "company": "berklee",
+        "title": "Student Assistant Stage Manager",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Audio-Visual-Technician_R0011455-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "berklee",
+        "title": "Audio Visual Technician",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Audio-Visual-Technician_R0011453",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "berklee",
+        "title": "Performance Division Student Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Performance-Division-Student-Assistant_R0011460",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "berklee",
+        "title": "Alternate Format Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Alternate-Format-Assistant_R0011459",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "berklee",
+        "title": "Career Center Ambassador",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Career-Center-Ambassador_R0011422",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 22
+    },
+    {
+        "company": "berklee",
+        "title": "Berklee Popular Music Institute Student Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Berklee-Popular-Music-Institute-Student-Assistant_R0011438",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 23
+    },
+    {
+        "company": "berklee",
+        "title": "Core Music Tutor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Core-Music-Tutor_R0011423",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "berklee",
+        "title": "Loft Engineer & Events Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Loft-Engineer---Events-Assistant_R0011421",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "berklee",
+        "title": "Programs Support Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Programs-Support-Assistant_R0011400",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 25
+    },
+    {
+        "company": "berklee",
+        "title": "Production Suite Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Production-Suite-Assistant_R0011434",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "berklee",
+        "title": "Recording Studio Operations Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Recording-Studio-Operations-Assistant_R0011433",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "berklee",
+        "title": "Tech Support",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Tech-Support_R0011411",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 27
+    },
+    {
+        "company": "berklee",
+        "title": "Ensemble Room Monitor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Ensemble-Room-Monitor_R0011432",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "berklee",
+        "title": "Guitar Department Student Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Guitar-Department-Student-Assistant_R0011426",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": 29
+    },
+    {
+        "company": "berklee",
+        "title": "Berklee Theater Arts Collaborative (BTAC) Stage Manager",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Berklee-Theater-Arts-Collaborative--BTAC--Stage-Manager_R0011321",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "berklee",
+        "title": "Arts Education Program Instructor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Arts-Education-Program-Instructor_R0011340",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "berklee",
+        "title": "Accessibility Resources Testing Center Graduate Proctor",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Accessibility-Resources-Testing-Center-Graduate-Proctor_R0011305",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "berklee",
+        "title": "BCB Performance Library Graduate Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/BCB-Performance-Library-Graduate-Assistant_R0011287-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "berklee",
+        "title": "Performance Library Student Assistant",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Performance-Library-Student-Assistant_R0011289",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "berklee",
+        "title": "Session Musician (Jazz, Big Band, Popular Music Styles)",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Session-Musician--Jazz--Big-Band--Popular-Music-Styles-_R0011284",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "berklee",
+        "title": "Session Musician (Orchestral & Contemporary Instrumental)",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Session-Musician--Orchestral---Contemporary-Instrumental-_R0011199",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "berklee",
+        "title": "Session Engineer",
+        "url": "https://berklee.wd1.myworkdayjobs.com/BerkleeStudentEmployment/job/Berklee-College-of-Music---Boston/Session-Engineer_R0011142",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Boston"
+            }
+        ],
+        "date": "30+"
+    }
+]

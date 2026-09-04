@@ -1,0 +1,84 @@
+[
+    {
+        "company": "albida",
+        "title": "EMEA Strategic Alliance Director",
+        "url": "https://albida.wd103.myworkdayjobs.com/Albida/job/UK---England---Remote/EMEA-Strategic-Alliance-Director_JR100079",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "UK - England - Remote"
+            }
+        ],
+        "date": 1,
+        "remote": true
+    },
+    {
+        "company": "albida",
+        "title": "Workday Consultant",
+        "url": "https://albida.wd103.myworkdayjobs.com/Albida/job/South-Africa---Remote/Workday-Consultant_JR100077",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "South Africa",
+                "city": "South Africa"
+            }
+        ],
+        "date": 6,
+        "remote": true
+    },
+    {
+        "company": "albida",
+        "title": "Graduate Workday Consultant (HCM)",
+        "url": "https://albida.wd103.myworkdayjobs.com/Albida/job/South-Africa---Office/Graduate-Workday-Consultant--HCM-_JR100061-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "South Africa",
+                "city": "South Africa"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "albida",
+        "title": "Graduate Workday Consultant (Finance)",
+        "url": "https://albida.wd103.myworkdayjobs.com/Albida/job/South-Africa---Office/Graduate-Workday-Consultant--Finance-_JR100062-1",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "South Africa",
+                "city": "South Africa"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "albida",
+        "title": "Workday Financials Consultant",
+        "url": "https://albida.wd103.myworkdayjobs.com/Albida/job/UK---England---Remote/Workday-Financials-Consultant_JR100040-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Uk England"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "albida",
+        "title": "Senior HCM Consultant",
+        "url": "https://albida.wd103.myworkdayjobs.com/Albida/job/UK---England---Remote/Senior-HCM-Consultant_JR100041-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Uk England"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    }
+]

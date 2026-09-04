@@ -1,0 +1,130 @@
+[
+    {
+        "company": "assurant",
+        "title": "Sales Assistant - Sheffield (Meadowhall)",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/Sheffield-Meadowhall/Sales-Assistant---Sheffield--Meadowhall-_R-114804",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Sheffield"
+            }
+        ],
+        "date": 8
+    },
+    {
+        "company": "assurant",
+        "title": "Mobile Phone Repair Technician - South & North London",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/Croydon-Boxpark/Mobile-Phone-Repair-Technician---South---North-London_R-115262",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Boxpark",
+                "city": "Croydon"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "assurant",
+        "title": "Mobile Phone Repair Technician - Central London",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/Central-London/Mobile-Phone-Repair-Technician---Central-London_R-115250",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "assurant",
+        "title": "Mobile Phone Repair Technician - West London",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/West-London/Mobile-Phone-Repair-Technician---Central-London_R-115246",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "assurant",
+        "title": "Mobile Phone Repair Technician- East London",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/East-London/Mobile-Phone-Repair-Technician--East-London_R-115249",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "South Africa",
+                "city": "East London"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "assurant",
+        "title": "Mobile Phone Repair Technician - Manchester",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/Manchester-Arndale-Centre/Mobile-Phone-Repair-Technician---Manchester_R-115148",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Manchester"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "assurant",
+        "title": "Mobile Phone Repair Technician - Bristol Broadmead",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/Bristol-Broadmead/Mobile-Phone-Repair-Technician---Bristol-Broadmead_R-115079",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Bristol"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "assurant",
+        "title": "Senior Mobile Phone Repair Technician- Milton Keynes",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/Milton-Keynes/Office-Head-Technician--Milton-Keynes_R-114702",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United Kingdom",
+                "city": "Milton Keynes"
+            }
+        ],
+        "date": 24
+    },
+    {
+        "company": "assurant",
+        "title": "Store Manager - Bluewater",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/Bluewater-Shopping-Centre/Tech-Store-Manager---Bluewater_R-113967",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Bluewater Shopping Centre"
+            }
+        ],
+        "date": 28
+    },
+    {
+        "company": "assurant",
+        "title": "Technician  - Lakeside",
+        "url": "https://assurant.wd1.myworkdayjobs.com/ismash_external_career_site/job/08---Lakeside/Technician----Lakeside_R-114780",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "08 - Lakeside"
+            }
+        ],
+        "date": "30+"
+    }
+]

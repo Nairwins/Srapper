@@ -1,0 +1,41 @@
+[
+    {
+        "company": "bupa",
+        "title": "Finance Specialist 2",
+        "url": "https://bupa.wd3.myworkdayjobs.com/bcc_career_site/job/Gurugram/Finance-Specialist-2_R1225113",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Gurugram"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bupa",
+        "title": "Enterprise Architect",
+        "url": "https://bupa.wd3.myworkdayjobs.com/bcc_career_site/job/Gurugram/Enterprise-Architect_R1225106",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Gurugram"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "bupa",
+        "title": "Head of Solution Architect",
+        "url": "https://bupa.wd3.myworkdayjobs.com/bcc_career_site/job/Gurugram/Head-of-Solution-Architect_R1225123",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "India",
+                "city": "Gurugram"
+            }
+        ],
+        "date": "30+"
+    }
+]

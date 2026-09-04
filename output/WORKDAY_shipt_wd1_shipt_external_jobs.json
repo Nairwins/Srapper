@@ -1,0 +1,134 @@
+[
+    {
+        "company": "shipt",
+        "title": "Product Manager",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/San-Francisco-CA/Product-Manager_R4297",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "San Francisco"
+            }
+        ],
+        "date": 10
+    },
+    {
+        "company": "shipt",
+        "title": "Data Scientist",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/US-CA-Remote/Data-Scientist_R4176",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Us Ca"
+            }
+        ],
+        "date": 28,
+        "remote": true
+    },
+    {
+        "company": "shipt",
+        "title": "Staff Application Security Engineer",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/US-GA-Remote/Staff-Application-Security-Engineer_R4241",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Us Ga"
+            }
+        ],
+        "date": 29,
+        "remote": true
+    },
+    {
+        "company": "shipt",
+        "title": "Senior Machine Learning Engineer",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/US-Remote/Senior-Machine-Learning-Engineer_R4287",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote"
+            }
+        ],
+        "date": 29,
+        "remote": true
+    },
+    {
+        "company": "shipt",
+        "title": "Senior Engineer - Shopper Backend",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/Minneapolis-MN/Senior-Engineer---Shopper-Backend_R4271",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Minneapolis"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "shipt",
+        "title": "Senior DS/ML Scientist II- Search Science",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/US-Remote/Senior-DS-ML-Scientist---Search-Science_R4257",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "shipt",
+        "title": "Senior FP&A Manager",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/Minneapolis-MN/Senior-FP-A-Manager_R4153",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Minneapolis"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "shipt",
+        "title": "Staff Engineer",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/Staff-Engineer_R4160",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "R4160"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "shipt",
+        "title": "Engineer",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/Minneapolis-MN/Engineer_R4240-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Minneapolis"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "shipt",
+        "title": "Director of Data Science",
+        "url": "https://shipt.wd1.myworkdayjobs.com/shipt_external/job/California/Director-of-Data-Science_R4243",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "California"
+            }
+        ],
+        "date": "30+"
+    }
+]

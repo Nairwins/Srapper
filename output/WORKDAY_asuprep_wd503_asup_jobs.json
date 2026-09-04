@@ -1,0 +1,704 @@
+[
+    {
+        "company": "asuprep",
+        "title": "Lead Nurse",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/UCENT/Lead-Nurse_JR2013",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "UCENT"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "Speech Language Pathologist Assistant (Grant)",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Poly-Elementary-School/Speech-Language-Pathologist-Assistant--Grant-_JR1995",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Poly Elementary School"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "K-12 Occupational Therapist",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/SY-2026-27-Grades-K-12-Occupational-Therapist--Grant-_JR1924",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "K-6 Special Education Paraeducator",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Polytechnic-Elementary-School/K-6-Special-Education-Paraeducator_JR2076",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Polytechnic Elementary School"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "Special Education Paraeducator, Grades 7-12",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/Special-Education-Paraeducator--Grades-7-12_JR2074",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "K-8th Grade Paraeducator",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Pilgrim-Rest-Elementary/K-8th-Grade-Paraeducator_JR2112",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Pilgrim Rest Elementary"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 7-12 Special Education Paraeducator",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/Grades-9-12-Special-Education-Paraeducator_JR1818",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 7-12 Counselor",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/Grades-7-12-Counselor_JR2100",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "7th-12th Grade Learning Facilitator (Grant)",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Middle-School/XMLNAME-7th-12th-Grade-Learning-Facilitator--Grant-_JR2111",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "K-6 Reading Interventionist (Grant)",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Elementary/K-6-Reading-Interventionist--Grant-_JR2088-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "K- 6th Grade ELL Teacher",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Elementary/K--6th-Grade-ELL-Teacher_JR1983",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "5th Grade Teacher",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Elementary/XMLNAME-5th-Grade-Teacher_JR2044",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Spanish Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Spanish-Part-Time-Teacher---Global-Academy_JR2108",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Science Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Science-Part-Time-Teacher---Global-Academy_JR2107",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Social Studies Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Social-Studies-Part-Time-Teacher---Global-Academy_JR2106",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Math Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Math-Part-Time-Teacher---Global-Academy_JR2105",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 ELA Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-ELA-Part-Time-Teacher---Global-Academy_JR2104",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Digital Teacher, Middle School Math",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Digital-Teacher--Middle-School-Math_JR2072-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "IT Support Lead",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/UCENT/IT-Support-Lead_JR2102",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "UCENT"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "asuprep",
+        "title": "Exceptional Programs Registrar",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Exceptional-Programs-Registrar_JR2101",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 14,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "K-4th Grade Teacher, West Valley",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/ASU-Prep-West/K-4th-Grade-Teacher--West-Valley_JR2066-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "ASU Prep West"
+            }
+        ],
+        "date": 15
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 9-12 American Sign Language Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-9-12-American-Sign-Language-Part-Time-Teacher---Global-Academy_JR1791",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 15,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Business Office Coordinator",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/UCENT/Business-Office-Coordinator_JR2061",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "UCENT"
+            }
+        ],
+        "date": 20
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 CTE Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-CTE-Adjunct-Instructional-Staff_JR2087",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Spanish Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Spanish-Adjunct-Instructional-Staff_JR2079",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 ASL Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-ASL-Adjunct-Instructional-Staff_JR2086",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Science-Physics Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Science-Physics-Adjunct-Instructional-Staff_JR2085",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Science-Chemistry Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Science-Chemistry-Adjunct-Instructional-Staff_JR2084",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Science-Biology Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Science-Biology-Adjunct-Instructional-Staff_JR2083",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 English Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-English-Adjunct-Instructional-Staff_JR2082",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Math Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Math-Adjunct-Instructional-Staff_JR2081",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "6-12 Social Studies Adjunct Instructional Staff",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/XMLNAME-6-12-Social-Studies-Adjunct-Instructional-Staff_JR2080",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 27,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "High School Digital Learning Success Coach, Bench",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/High-School-Digital-Learning-Success-Coach--Bench_JR2077-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 30,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Lead Nurse",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/UCENT/Lead-Nurse_JR2013",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "UCENT"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "Speech Language Pathologist Assistant (Grant)",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Poly-Elementary-School/Speech-Language-Pathologist-Assistant--Grant-_JR1995",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "city": "Poly Elementary School"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "K-12 Occupational Therapist",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/SY-2026-27-Grades-K-12-Occupational-Therapist--Grant-_JR1924",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "K-6 Special Education Paraeducator",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Polytechnic-Elementary-School/K-6-Special-Education-Paraeducator_JR2076",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Polytechnic Elementary School"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "Special Education Paraeducator, Grades 7-12",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/Special-Education-Paraeducator--Grades-7-12_JR2074",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 1
+    },
+    {
+        "company": "asuprep",
+        "title": "K-8th Grade Paraeducator",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Pilgrim-Rest-Elementary/K-8th-Grade-Paraeducator_JR2112",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Pilgrim Rest Elementary"
+            }
+        ],
+        "date": 3
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 7-12 Special Education Paraeducator",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/Grades-9-12-Special-Education-Paraeducator_JR1818",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 6
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 7-12 Counselor",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-High-School/Grades-7-12-Counselor_JR2100",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "7th-12th Grade Learning Facilitator (Grant)",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Middle-School/XMLNAME-7th-12th-Grade-Learning-Facilitator--Grant-_JR2111",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "K-6 Reading Interventionist (Grant)",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Elementary/K-6-Reading-Interventionist--Grant-_JR2088-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "K- 6th Grade ELL Teacher",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Elementary/K--6th-Grade-ELL-Teacher_JR1983",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "5th Grade Teacher",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/Phoenix-Elementary/XMLNAME-5th-Grade-Teacher_JR2044",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Phoenix"
+            }
+        ],
+        "date": 7
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Spanish Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Spanish-Part-Time-Teacher---Global-Academy_JR2108",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Science Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Science-Part-Time-Teacher---Global-Academy_JR2107",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Social Studies Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Social-Studies-Part-Time-Teacher---Global-Academy_JR2106",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 Math Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-Math-Part-Time-Teacher---Global-Academy_JR2105",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Grades 6-12 ELA Part-Time Teacher - Global Academy",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Grades-6-12-ELA-Part-Time-Teacher---Global-Academy_JR2104",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 8,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "Digital Teacher, Middle School Math",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Digital-Teacher--Middle-School-Math_JR2072-1",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 13,
+        "remote": true
+    },
+    {
+        "company": "asuprep",
+        "title": "IT Support Lead",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/UCENT/IT-Support-Lead_JR2102",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "UCENT"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "asuprep",
+        "title": "Exceptional Programs Registrar",
+        "url": "https://asuprep.wd503.myworkdayjobs.com/asup/job/US-Remote-Posting-Location/Exceptional-Programs-Registrar_JR2101",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "US Remote Posting Location"
+            }
+        ],
+        "date": 14,
+        "remote": true
+    }
+]

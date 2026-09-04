@@ -1,0 +1,93 @@
+[
+    {
+        "company": "battlemotors",
+        "title": "Security Guard",
+        "url": "https://battlemotors.wd12.myworkdayjobs.com/battlemotors/job/New-Philadelphia-OH/Security-Guard_",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": 14
+    },
+    {
+        "company": "battlemotors",
+        "title": "Service & Parts Advisor",
+        "url": "https://battlemotors.wd12.myworkdayjobs.com/battlemotors/job/Battle-Truck-Solutions--Detroit/Service---Parts-Advisor_",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Detroit"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "battlemotors",
+        "title": "Human Resources & Payroll Coordinator",
+        "url": "https://battlemotors.wd12.myworkdayjobs.com/battlemotors/job/New-Philadelphia-OH/Human-Resources---Payroll-Coordinator_",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "battlemotors",
+        "title": "Regional Sales Director - Fortris (AI Fleet Intelligence)",
+        "url": "https://battlemotors.wd12.myworkdayjobs.com/battlemotors/job/Remote-Ohio/Regional-Sales-Director---Fortris--AI-Fleet-Intelligence-_",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Remote Ohio"
+            }
+        ],
+        "date": "30+",
+        "remote": true
+    },
+    {
+        "company": "battlemotors",
+        "title": "Service Technician",
+        "url": "https://battlemotors.wd12.myworkdayjobs.com/battlemotors/job/Battle-Truck-Solutions--Detroit/Service-Advisor_-4",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Detroit"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "battlemotors",
+        "title": "Sales And Customer Service",
+        "url": "https://battlemotors.wd12.myworkdayjobs.com/battlemotors/job/Battle-Truck-Solutions--Detroit/Service-Advisor_-2",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Detroit"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "battlemotors",
+        "title": "New Product Introduction Planner",
+        "url": "https://battlemotors.wd12.myworkdayjobs.com/battlemotors/job/New-Philadelphia-OH/New-Product-Introduction-Planner_",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        ],
+        "date": "30+"
+    }
+]

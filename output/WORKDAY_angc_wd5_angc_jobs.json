@@ -1,0 +1,38 @@
+[
+    {
+        "company": "angc",
+        "title": "IT Network Technician",
+        "url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/IT-Network-Technician_R11774",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Augusta Office"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "angc",
+        "title": "Locker Room Attendant- Part Time",
+        "url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/Locker-Room-Attendant--Part-Time_R11671",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "city": "Augusta Office"
+            }
+        ],
+        "date": 21
+    },
+    {
+        "company": "angc",
+        "title": "Senior Manager HR Business Partner",
+        "url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/Senior-HR-Business-Partner_R11650",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "city": "Augusta Office"
+            }
+        ],
+        "date": 24
+    }
+]

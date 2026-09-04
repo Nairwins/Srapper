@@ -1,0 +1,93 @@
+[
+    {
+        "company": "agloan",
+        "title": "Senior Portfolio Analyst-Corporate",
+        "url": "https://agloan.wd5.myworkdayjobs.com/americanagcredit/job/Remote---United-States/Portfolio-Analyst-Corporate_REQ2117",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 0,
+        "remote": true
+    },
+    {
+        "company": "agloan",
+        "title": "Special Assets Portfolio Manager",
+        "url": "https://agloan.wd5.myworkdayjobs.com/americanagcredit/job/Remote---United-States/Credit-Resolution-Portfolio-Manager_REQ2089",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 1,
+        "remote": true
+    },
+    {
+        "company": "agloan",
+        "title": "Security Engineer",
+        "url": "https://agloan.wd5.myworkdayjobs.com/americanagcredit/job/Remote---United-States/Security-Engineer_REQ2123",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "United States"
+            }
+        ],
+        "date": 2,
+        "remote": true
+    },
+    {
+        "company": "agloan",
+        "title": "Senior Relationship Manager-Agribusiness (Specialty Crops)",
+        "url": "https://agloan.wd5.myworkdayjobs.com/americanagcredit/job/Salinas-CA/Senior-Relationship-Manager-Agribusiness--Specialty-Crops-_REQ2121-1",
+        "experience_level": "senior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Salinas"
+            }
+        ],
+        "date": 9
+    },
+    {
+        "company": "agloan",
+        "title": "Appraiser I (unlicensed)",
+        "url": "https://agloan.wd5.myworkdayjobs.com/americanagcredit/job/Turlock-CA/Appraiser-I--unlicensed-_REQ2115",
+        "experience_level": "junior",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Turlock"
+            }
+        ],
+        "date": 13
+    },
+    {
+        "company": "agloan",
+        "title": "Capital Markets Loan Processor",
+        "url": "https://agloan.wd5.myworkdayjobs.com/americanagcredit/job/Santa-Rosa-CA/Capital-Markets-Loan-Processor_REQ2096",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Santa Rosa"
+            }
+        ],
+        "date": "30+"
+    },
+    {
+        "company": "agloan",
+        "title": "Agribusiness Loan Processor",
+        "url": "https://agloan.wd5.myworkdayjobs.com/americanagcredit/job/Santa-Rosa-CA/Corporate-Operations-Specialist_REQ2090",
+        "experience_level": "mid",
+        "locations": [
+            {
+                "country": "Canada",
+                "city": "Santa Rosa"
+            }
+        ],
+        "date": "30+"
+    }
+]
