@@ -16,6 +16,7 @@ from .codes.geoloc import extract_locations as _geoloc_extract_locations
 NAME = "WORKDAY"
 TENANTS_FILE = "data/workday.json"
 PAGE_SIZE = 20
+WORKDAY_JOB_LIMIT = 2_000
 
 
 # ============================================================
@@ -229,6 +230,15 @@ def _parse_job(job, tenant, wd, site):
 
 def fetch_jobs(tenant_info, offset):
 
+    if WORKDAY_JOB_LIMIT is not None and offset >= WORKDAY_JOB_LIMIT:
+        return {
+            "jobs": [],
+            "total": WORKDAY_JOB_LIMIT,
+            "error": None,
+            "done": True,
+            "next_offset": None,
+        }
+
     tenant = tenant_info["tenant"]
     wd = tenant_info["wd"]
     site = tenant_info["site"]
@@ -247,8 +257,16 @@ def fetch_jobs(tenant_info, offset):
 
     jobs = [_parse_job(j, tenant, wd, site) for j in raw_jobs]
 
-    next_offset = offset + len(raw_jobs)
-    done = bool(total) and next_offset >= total
+    if WORKDAY_JOB_LIMIT is not None:
+        remaining = WORKDAY_JOB_LIMIT - offset
+        jobs = jobs[:remaining]
+
+    next_offset = offset + len(jobs)
+    done = (
+        not jobs
+        or (WORKDAY_JOB_LIMIT is not None and next_offset >= WORKDAY_JOB_LIMIT)
+        or (bool(total) and next_offset >= total)
+    )
 
     return {
         "jobs": jobs,

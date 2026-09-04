@@ -27,11 +27,10 @@ from scrappy import personioscrap
 # ============================================================
 
 # Options: "workday", "greenhouse", "ashby", "lever", "bamboohr", "workable", "recruitee", "personio", or "all"
-SCRAPER = "workday"
+SCRAPER = "all"
 SOURCE = "default"  # "default" = module's own tenants file, or path to a custom tenants JSON file
 
-CPU_COUNT = os.cpu_count() or 2
-MAX_WORKERS = max(4, CPU_COUNT * 5)
+MAX_WORKERS = 20
 OUTPUT_DIR = "output"
 
 # Once this many jobs have accumulated across finished tenants,
@@ -40,7 +39,7 @@ CHUNK_JOB_CAP = 50_000
 CHUNKING_ENABLED = True
 
 # Be a decent citizen between pages/tenants.
-REQUEST_DELAY = 0.3
+REQUEST_DELAY = 0.2
 
 
 # ============================================================
@@ -52,9 +51,10 @@ console = Console()
 
 class StatusDisplay:
 
-    def __init__(self, total_tenants, title):
+    def __init__(self, total_tenants, title, job_limit=None):
         self.total_tenants = total_tenants
         self.title = title
+        self.job_limit = job_limit
         self.lock = threading.Lock()
 
         # Only currently running workers are stored here.
@@ -93,7 +93,7 @@ class StatusDisplay:
             }
             table = self._render()
 
-        self._live.update(table, refresh=True)
+        self._live.update(table)
 
     def finish(self, key, count, failed=False, empty=False):
         with self.lock:
@@ -109,7 +109,7 @@ class StatusDisplay:
             self.total_jobs += count
             table = self._render()
 
-        self._live.update(table, refresh=True)
+        self._live.update(table)
 
     def _render(self):
         table = Table(
@@ -136,11 +136,12 @@ class StatusDisplay:
             total = item["total"]
 
             if total:
-                percentage = min(100, int((collected / total) * 100))
+                display_total = min(total, self.job_limit) if self.job_limit else total
+                percentage = min(100, int((collected / display_total) * 100))
                 bar_width = 30
                 filled = int(bar_width * percentage / 100)
                 bar = "█" * filled + "░" * (bar_width - filled)
-                progress = f"{bar} {collected:,}/{total:,}"
+                progress = f"{bar} {collected:,}/{display_total:,}"
             else:
                 progress = f"{'░' * 30} {collected:,}/?"
 
@@ -258,6 +259,12 @@ def merge_company_files(module, tenants, output_dir=OUTPUT_DIR):
         jobs_by_url = {}
         merged_path = os.path.join(output_dir, f"{module.NAME}_{label}_jobs.json")
         for path in paths:
+            if not os.path.exists(path):
+                # Expected for any tenant that ended up with 0 jobs -
+                # scrape_tenant() deliberately removes/never-creates its
+                # file in that case. Not worth a warning.
+                continue
+
             try:
                 with open(path, "r", encoding="utf-8") as f:
                     jobs = json.load(f)
@@ -448,7 +455,11 @@ def run_scraper(module, tenants_file=None, output_dir=OUTPUT_DIR):
     print(f"Loaded {len(tenants)} companies from {path}")
     print(f"Writing output to '{output_dir}/'\n")
 
-    display = StatusDisplay(len(tenants), title=module.NAME)
+    display = StatusDisplay(
+        len(tenants),
+        title=module.NAME,
+        job_limit=getattr(module, "WORKDAY_JOB_LIMIT", None) or getattr(module, "JOB_LIMIT", None),
+    )
     display.start()
 
     summary = {}
@@ -471,7 +482,7 @@ def run_scraper(module, tenants_file=None, output_dir=OUTPUT_DIR):
                     display.finish(key, 0, failed=True)
                     count = 0
 
-                summary[label] = count
+                summary[label] = summary.get(label, 0) + count
 
             merged_files = merge_company_files(module, tenants, output_dir)
             if CHUNKING_ENABLED:
