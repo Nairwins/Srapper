@@ -163,11 +163,16 @@ def _normalize_days(date_value):
 
 
 def _job_countries(job):
-    return [
-        (loc.get("country") or "").lower()
-        for loc in (job.get("locations") or [])
-        if loc.get("country")
-    ]
+    locations = job.get("locations") or []
+    if isinstance(locations, (str, dict)):
+        locations = [locations]
+    countries = []
+    for loc in locations:
+        if isinstance(loc, str):
+            countries.append(loc.lower())
+        elif isinstance(loc, dict) and isinstance(loc.get("country"), str):
+            countries.append(loc["country"].lower())
+    return countries
 
 
 def _matches_filters(job, filters):
