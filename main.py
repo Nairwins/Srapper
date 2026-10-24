@@ -18,8 +18,9 @@ QUERY PARAMETERS
 q             REQUIRED. free-text search (matched against job title +
               company). Results are RANKED by closeness to this text.
               Missing/empty -> 400 error.
-company       optional, comma-separated list, substring match against
-              company e.g. company=netflix,airbnb
+company       optional, comma-separated list of exact company names
+              (case-insensitive, surrounding whitespace ignored),
+              e.g. company=netflix,airbnb. Meta does not match Metaforms.
 exp           comma-separated list of: intern, junior, mid, senior
               (alias: exp_lvl, experience, level)
 country       comma-separated list, substring match against each
@@ -171,8 +172,8 @@ def _job_countries(job):
 
 def _matches_filters(job, filters):
     if filters["company"]:
-        company = (job.get("company") or "").lower()
-        if not any(c in company for c in filters["company"]):
+        company = (job.get("company") or "").strip().casefold()
+        if not any(company == c.strip().casefold() for c in filters["company"]):
             return False
 
     if filters["exp"]:
@@ -337,3 +338,4 @@ class handler(BaseHTTPRequestHandler):
 
         except Exception as e:  # noqa: BLE001 - always want JSON back, never a raw 500 page
             self._send_json(500, {"error": str(e)})
+
