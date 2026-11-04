@@ -56,7 +56,8 @@ import os
 import re
 from http.server import BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
-from scrappy.codes.geoloc import canonicalize_country, extract_locations
+from location_identity import country_codes, country_name, country_id
+canonicalize_country = country_name
 
 # ============================================================
 # CONFIG
@@ -165,15 +166,19 @@ def _normalize_days(date_value):
 
 def _job_countries(job):
     locations = job.get("locations") or []
-    if isinstance(locations, (str, dict)):
+    if isinstance(locations, (dict, str)):
         locations = [locations]
     countries = []
     for loc in locations:
-        if isinstance(loc, str):
-            countries.extend(canonicalize_country(entry["country"]).casefold()
-                             for entry in extract_locations([loc]) if entry.get("country"))
-        elif isinstance(loc, dict) and isinstance(loc.get("country"), str):
-            countries.append(canonicalize_country(loc["country"]).casefold())
+        # Scraped rows normally have one authoritative country field. Use the
+        # cached exact lookup on this hot path instead of reparsing addresses.
+        if (isinstance(loc, dict) and isinstance(loc.get("country"), str)
+                and not (loc.get("country_code") or loc.get("countryCode") or loc.get("addressCountry"))):
+            code = country_id(loc["country"])
+            if code:
+                countries.append(country_name(code).casefold())
+        else:
+            countries.extend(country_name(code).casefold() for code in country_codes(loc))
     return countries
 
 

@@ -1,6 +1,7 @@
 import json
 import re
 from pathlib import Path
+from location_identity import country_codes, country_id, country_name
 
 
 # ============================================================
@@ -76,39 +77,16 @@ def guess_location(raw):
 
     text = raw.strip()
 
-    # Postal country fields use canonicalize_country(). Free-text addresses
-    # must not interpret US state codes (MA, CA, IN, DE, ...) as countries.
-    # Explicit country names outrank city names shared across countries.
-    components = {part.strip().casefold() for part in re.split(r"[,/;()]|\s+-\s+", text)}
-    for alias, canonical in _COUNTRY_LOOKUP:
-        explicit = alias in components or re.search(r"\b" + re.escape(alias) + r"$", text, re.IGNORECASE)
-        if (len(alias) > 3 or alias in {"usa", "uk", "uae"}) and explicit:
-            return {"country": canonical}
-
-    city_match = next(((city, country) for city_lower, city, country in _CITY_LOOKUP
-                       if _word_boundary_search(city_lower, text)), None)
-    states = set("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC".split())
-    # A state is recognized only as an address component, not a prose word.
-    state = re.search(r"(?:^|[,/\-]\s*|\s)([A-Z]{2})(?=\s*(?:$|[,/\-(]|\d{5}\b))", text, re.IGNORECASE)
-    if state and state.group(1).upper() in states:
-        code = state.group(1).lower()
-        # Rabat, MA and Toronto, CA remain valid country-code addresses when
-        # the known city supports that interpretation.
-        if city_match and any(alias == code and country == city_match[1]
-                              for alias, country in _COUNTRY_LOOKUP):
-            return {"city": city_match[0], "country": city_match[1]}
-        return {"country": "United States", **({"city": city_match[0]} if city_match and city_match[1] == "United States" else {})}
-
-    if city_match:
-        return {"city": city_match[0], "country": city_match[1]}
-
-    # Short aliases are safe only as a complete country token, never inside
-    # strings such as "Del Mar", "Mar del Plata", or "Remote in ...".
-    for alias, canonical in _COUNTRY_LOOKUP:
-        if text.casefold() == alias and alias.upper() not in states:
-            return {"country": canonical}
-
-    return None
+    codes = country_codes(text)
+    if len(codes) != 1:
+        return None
+    code = next(iter(codes))
+    result = {"country": country_name(code)}
+    for city_lower, city, country in _CITY_LOOKUP:
+        if country_id(country) == code and _word_boundary_search(city_lower, text):
+            result["city"] = city
+            break
+    return result
 
 
 def guess_locations(raw_list):
@@ -137,12 +115,7 @@ def guess_locations(raw_list):
 # untouched rather than guessed at.
 
 def canonicalize_country(text):
-    if not text:
-        return text
-
-    key = text.strip().lower()
-
-    return _COUNTRY_EXACT.get(key, text)
+    return country_name(text)
 
 
 def canonicalize_city(text):
@@ -197,39 +170,16 @@ def parse_location_string(raw):
     elif cleaned.lower() == "remote":
         return None  # no usable geography at all
 
-    parts = [
-        p.strip()
-        for p in cleaned.split(",")
-        if p.strip()
-    ]
-
-    if not parts:
-        return None
-
-    if len(parts) >= 2:
-        # "City, State/Country" -> first token is city, last is country/region
-        return {
-            "country": parts[-1],
-            "city": parts[0]
-        }
-
-    # Single token. This only runs as a fallback for text guess_location()
-    # already failed to recognize as either a known city OR a known
-    # country (see _resolve_piece below) - so if it's a genuine, listed
-    # country name (checked here independently too, since this function
-    # can be called on its own), keep calling it a country. Otherwise,
-    # defaulting to "country" for anything unrecognized was the old
-    # behavior, and it was wrong more often than right: most single
-    # free-text location tokens at this granularity are city names
-    # geoloc just doesn't have listed (e.g. "München") rather than some
-    # obscure country - so an unrecognized token is treated as a city
-    # instead.
-    token = parts[0]
-
-    if _is_known_country(token):
-        return {"country": token}
-
-    return {"city": token}
+    codes = country_codes(cleaned)
+    if len(codes) != 1:
+        # Never put an unresolved state token back into a country field.
+        # Keep the original address so it can be displayed/rechecked later.
+        return {"city": cleaned}
+    code = next(iter(codes))
+    entry = {"country": country_name(code)}
+    if country_id(cleaned) != code:
+        entry["city"] = cleaned.split(",", 1)[0].strip()
+    return entry
 
 
 _MULTI_LOCATION_SPLIT_RE = re.compile(
@@ -309,6 +259,13 @@ def extract_locations(raw_strings):
 
     for raw in raw_strings or []:
         for piece in split_multi_location(raw):
+            codes = country_codes(piece)
+            if len(codes) > 1:
+                for code in sorted(codes):
+                    entry = {"country": country_name(code)}
+                    if entry not in locations:
+                        locations.append(entry)
+                continue
             entry = _resolve_piece(piece)
 
             if entry and entry not in locations:

@@ -6,6 +6,8 @@ on:
     paths:
       - "scrappy/codes/geoloc.py"
       - "scrappy/codes/locations.json"
+      - "location_identity.py"
+      - "country_reference.json"
   schedule:
     # Runs every day at 02:00 UTC
     - cron: "0 2 * * *"
@@ -16,7 +18,7 @@ permissions:
 
 concurrency:
   group: daily-scrape
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 
 jobs:
   scrape:
@@ -36,7 +38,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Test location and API filters
-        run: python -m unittest -v test_company_filter test_country_filter
+        run: python -m unittest -v test_company_filter test_country_filter test_global_geography
 
       - name: Remove previous output
         run: rm -rf output
