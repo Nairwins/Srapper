@@ -23,7 +23,7 @@ company       optional, comma-separated list of exact company names
               e.g. company=netflix,airbnb. Meta does not match Metaforms.
 exp           comma-separated list of: intern, junior, mid, senior
               (alias: exp_lvl, experience, level)
-country       comma-separated list, substring match against each
+country       comma-separated list, exact country/alias match against each
               job's location country (e.g. country=usa,germany)
 remote        true  -> only remote jobs
               false -> only non-remote jobs
@@ -56,6 +56,7 @@ import os
 import re
 from http.server import BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
+from scrappy.codes.geoloc import canonicalize_country, extract_locations
 
 # ============================================================
 # CONFIG
@@ -169,9 +170,10 @@ def _job_countries(job):
     countries = []
     for loc in locations:
         if isinstance(loc, str):
-            countries.append(loc.lower())
+            countries.extend(canonicalize_country(entry["country"]).casefold()
+                             for entry in extract_locations([loc]) if entry.get("country"))
         elif isinstance(loc, dict) and isinstance(loc.get("country"), str):
-            countries.append(loc["country"].lower())
+            countries.append(canonicalize_country(loc["country"]).casefold())
     return countries
 
 
@@ -187,7 +189,7 @@ def _matches_filters(job, filters):
 
     if filters["country"]:
         countries = _job_countries(job)
-        if not any(any(c in jc for jc in countries) for c in filters["country"]):
+        if not set(filters["country"]).intersection(countries):
             return False
 
     if filters["remote"] is not None:
@@ -263,7 +265,7 @@ def get_jobs(params):
         "q": q_raw,
         "company": _split_csv(params.get("company")),
         "exp": [e for e in _split_csv(exp_raw) if e in VALID_EXP_LEVELS],
-        "country": _split_csv(params.get("country")),
+        "country": [canonicalize_country(c).casefold() for c in _split_csv(params.get("country"))],
         "remote": _parse_bool(params.get("remote")),
         "days": _parse_int(params.get("days")),
     }

@@ -52,6 +52,8 @@ def _build_city_lookup():
 
 
 _COUNTRY_LOOKUP = _build_country_lookup()
+_COUNTRY_EXACT = {alias: canonical for alias, canonical in _COUNTRY_LOOKUP}
+_COUNTRY_EXACT.update({name.casefold(): name for name in POPULAR_COUNTRIES})
 _CITY_LOOKUP = _build_city_lookup()
 
 
@@ -74,22 +76,37 @@ def guess_location(raw):
 
     text = raw.strip()
 
-    # Cities first
-    for city_lower, city_canonical, country in _CITY_LOOKUP:
-
-        if _word_boundary_search(city_lower, text):
-            return {
-                "city": city_canonical,
-                "country": country
-            }
-
-    # Countries second
+    # Postal country fields use canonicalize_country(). Free-text addresses
+    # must not interpret US state codes (MA, CA, IN, DE, ...) as countries.
+    # Explicit country names outrank city names shared across countries.
+    components = {part.strip().casefold() for part in re.split(r"[,/;()]|\s+-\s+", text)}
     for alias, canonical in _COUNTRY_LOOKUP:
+        explicit = alias in components or re.search(r"\b" + re.escape(alias) + r"$", text, re.IGNORECASE)
+        if (len(alias) > 3 or alias in {"usa", "uk", "uae"}) and explicit:
+            return {"country": canonical}
 
-        if _word_boundary_search(alias, text):
-            return {
-                "country": canonical
-            }
+    city_match = next(((city, country) for city_lower, city, country in _CITY_LOOKUP
+                       if _word_boundary_search(city_lower, text)), None)
+    states = set("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC".split())
+    # A state is recognized only as an address component, not a prose word.
+    state = re.search(r"(?:^|[,/\-]\s*|\s)([A-Z]{2})(?=\s*(?:$|[,/\-(]|\d{5}\b))", text, re.IGNORECASE)
+    if state and state.group(1).upper() in states:
+        code = state.group(1).lower()
+        # Rabat, MA and Toronto, CA remain valid country-code addresses when
+        # the known city supports that interpretation.
+        if city_match and any(alias == code and country == city_match[1]
+                              for alias, country in _COUNTRY_LOOKUP):
+            return {"city": city_match[0], "country": city_match[1]}
+        return {"country": "United States", **({"city": city_match[0]} if city_match and city_match[1] == "United States" else {})}
+
+    if city_match:
+        return {"city": city_match[0], "country": city_match[1]}
+
+    # Short aliases are safe only as a complete country token, never inside
+    # strings such as "Del Mar", "Mar del Plata", or "Remote in ...".
+    for alias, canonical in _COUNTRY_LOOKUP:
+        if text.casefold() == alias and alias.upper() not in states:
+            return {"country": canonical}
 
     return None
 
@@ -125,11 +142,7 @@ def canonicalize_country(text):
 
     key = text.strip().lower()
 
-    for alias, canonical in _COUNTRY_LOOKUP:
-        if alias == key:
-            return canonical
-
-    return text
+    return _COUNTRY_EXACT.get(key, text)
 
 
 def canonicalize_city(text):
@@ -165,7 +178,7 @@ def _is_known_country(text):
     to decide whether an unresolved single token should be labeled a
     country or a city - see the comment there."""
     key = text.strip().lower()
-    return any(alias == key for alias, _canonical in _COUNTRY_LOOKUP)
+    return key in _COUNTRY_EXACT
 
 
 def parse_location_string(raw):

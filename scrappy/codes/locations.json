@@ -1,5 +1,6 @@
 {
   "countries": {
+    "Brazil": ["brazil", "brasil", "br", "bra"],
     "United States": ["united states", "united states of america", "usa", "u.s.a", "u.s.", "us", "america"],
     "Canada": ["canada", "ca"],
     "Mexico": ["mexico", "méxico", "mx"],
